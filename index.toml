@@ -33,6 +33,10 @@ file = "config/noindium.json"
 hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "cb97fb056c95f210f567a7b83ac020221beef586069a15f34a23c8368bef5cd5"
+
+[[files]]
 file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
@@ -54,7 +58,7 @@ hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "67030cfa95adbd5451a06da52cf1ff04df13f62bc7f517ee1c14e79870ca8d2f"
+hash = "ba89cc098c52a047effaab8f98ec6387a1d1f3dffc5c7a8f3d5d641e8682c943"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -62,8 +66,18 @@ hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "37c11528bcdb10c771c37d7e129a7841a8f0ebc08f91d04231914fec8a729fbd"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
 
 [[files]]
@@ -89,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "53128f525532c2dd8927f8ca23f67a357c0e84d3907f86b99274092f14b76625"
 metafile = true
 
 [[files]]

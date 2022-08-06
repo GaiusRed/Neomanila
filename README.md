@@ -1,6 +1,6 @@
 # Neomanila
 
-A Fabic + Create Modpack from GaiusRed (erik@gaius.red | https://gaius.red)
+A Fabic + Create v0.5 Modpack for Minecraft 1.18.2 from GaiusRed (erik@gaius.red | https://gaius.red)
 
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
@@ -9,8 +9,9 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Create (Fabric)
 
 ### Utilities
-- WTHIT
+- What The Hell Is That (WTHIT)
 - AppleSkin
+- Roughly Enough Items (REI)
 
 ### Optimization & Libraries
 - Fabric Api
@@ -19,4 +20,6 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Indium
 - Phosphor
 - bad packets
-- YOSBR
+- Your Options Shall Be Respected (YOSBR)
+- Architectury API
+- Cloth Config API
