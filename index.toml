@@ -37,6 +37,11 @@ file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
 metafile = true
@@ -64,4 +69,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
 metafile = true
