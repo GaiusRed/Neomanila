@@ -12,6 +12,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - What The Hell Is That (WTHIT)
 - AppleSkin
 - Roughly Enough Items (REI)
+- Xaero's Minimap
+- Xaero's World Map
 
 ### Optimization & Libraries
 - Fabric Api
