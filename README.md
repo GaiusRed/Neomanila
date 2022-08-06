@@ -8,3 +8,4 @@ A Fabic + Create Modpack from GaiusRed (erik@gaius.red | https://gaius.red)
 - Lithium
 - Sodium
 - Indium
+- Phosphor
