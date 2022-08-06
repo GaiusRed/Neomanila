@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "e6f9ddb03c8bdada1affdfd9eeeacff6994b486c5c19349cc18e279941d4d7f8"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "805473c106646f837172f1713eb75a7f3c5626379ad44910a090358737c2c102"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f182ce28452e1c85222d40e17fe5dc47529fd4723db280a2c94b70296c80fb86"
+hash = "936150f3e92089446baf533d40f44d9b5560c57e02ea0fe1cfa233fced936057"
+
+[[files]]
+file = "config/flywheel.json"
+hash = "2672a64e4b68c9dbd5ef35e592df846103e6cc15f9f042c2c5280116011a9c1b"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "220e9eaee17e9133714e9efc00565bafee21a618e7acffc298091fdccd926c29"
 
 [[files]]
 file = "config/lithium.properties"
 hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/noindium.json"
+hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -15,6 +35,11 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 [[files]]
 file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"

@@ -9,3 +9,4 @@ A Fabic + Create Modpack from GaiusRed (erik@gaius.red | https://gaius.red)
 - Sodium
 - Indium
 - Phosphor
+- Create Fabric
