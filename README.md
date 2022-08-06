@@ -7,3 +7,4 @@ A Fabic + Create Modpack from GaiusRed (erik@gaius.red | https://gaius.red)
 - Fabric Api
 - Lithium
 - Sodium
+- Indium
