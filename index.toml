@@ -74,7 +74,7 @@ hash = "5a605d98317319e00d8f531914cf7ee9e2affe71d255fbb2ed948580caf7473c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ba89cc098c52a047effaab8f98ec6387a1d1f3dffc5c7a8f3d5d641e8682c943"
+hash = "0bf4faee6280467f66be4a6f7b1b31739dd10d75a2091a72e8a8bffea6133208"
 
 [[files]]
 file = "icon.png"
@@ -133,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
 metafile = true
 
 [[files]]

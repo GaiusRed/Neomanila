@@ -8,6 +8,9 @@ An updated list of mods and their versions can be accessed here: https://modrint
 ### Tech
 - Create (Fabric)
 
+### Decoration
+- Twigs
+
 ### Utilities
 - What The Hell Is That (WTHIT)
 - AppleSkin
