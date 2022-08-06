@@ -5,8 +5,9 @@ A Fabric + Create v0.5 Modpack for Minecraft 1.18.2 from GaiusRed (erik@gaius.re
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
 
-### Tech
+### Tech & Equipment
 - Create (Fabric)
+- Additional Additions
 
 ### Decoration
 - Twigs
