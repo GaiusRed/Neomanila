@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "e6f9ddb03c8bdada1affdfd9eeeacff6994b486c5c19349cc18e279941d4d7f8"
 
@@ -49,6 +53,10 @@ file = "config/waila/waila_plugins.json"
 hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "67030cfa95adbd5451a06da52cf1ff04df13f62bc7f517ee1c14e79870ca8d2f"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
@@ -91,4 +99,9 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true

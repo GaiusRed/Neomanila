@@ -19,3 +19,4 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Indium
 - Phosphor
 - bad packets
+- YOSBR
