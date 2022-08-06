@@ -1,6 +1,6 @@
 # Neomanila
 
-A Fabic + Create v0.5 Modpack for Minecraft 1.18.2 from GaiusRed (erik@gaius.red | https://gaius.red)
+A Fabric + Create v0.5 Modpack for Minecraft 1.18.2 from GaiusRed (erik@gaius.red | https://gaius.red)
 
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
