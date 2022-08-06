@@ -10,6 +10,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 
 ### Utilities
 - WTHIT
+- AppleSkin
 
 ### Optimization & Libraries
 - Fabric Api
