@@ -13,6 +13,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 ### Decoration
 - Twigs
 - Architect's Pallete
+- Bedspreads (Fabric)
+- Entity Banners
 
 ### Adventure
 - AdventureZ
@@ -39,3 +41,4 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Cloth Config API
 - KubeJS
 - Rhino
+- Fabric Language Kotlin

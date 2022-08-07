@@ -110,6 +110,11 @@ hash = "20950c1ebe5d30c2e84c6e190fd28d49db8065f58572cfade4bf05dce088669d"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads-fabric.pw.toml"
+hash = "7eb9559886be0632c6f6bd6a56cf3e2a93649eb2f6cb0f4d6dd79c73b7a06d90"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
@@ -120,8 +125,18 @@ hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
 metafile = true
 
 [[files]]
+file = "mods/entity-banners.pw.toml"
+hash = "1d7b9d27ca2f50203b632fcf2a5b2eb2a2ae4cd115a53f996ae347e7e29ebd6b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
