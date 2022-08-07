@@ -1,17 +1,26 @@
 # Neomanila
 
-A Fabic + Create v0.5 Modpack for Minecraft 1.18.2 from GaiusRed (erik@gaius.red | https://gaius.red)
+A Fabric + Create v0.5 Modpack for Minecraft 1.18.2 from GaiusRed (erik@gaius.red | https://gaius.red)
 
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
 
-### Tech
+### Tech & Equipment
 - Create (Fabric)
+- Additional Additions
+
+### Decoration
+- Twigs
+
+### Adventure
+- AdventureZ
 
 ### Utilities
 - What The Hell Is That (WTHIT)
 - AppleSkin
 - Roughly Enough Items (REI)
+- Xaero's Minimap
+- Xaero's World Map
 
 ### Optimization & Libraries
 - Fabric Api
@@ -23,3 +32,5 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Your Options Shall Be Respected (YOSBR)
 - Architectury API
 - Cloth Config API
+- KubeJS
+- Rhino

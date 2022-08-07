@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-fabric-1802.1.14-build.209.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/1802.1.14-build.209+fabric/rhino-fabric-1802.1.14-build.209.jar"
+hash-format = "sha1"
+hash = "7e442e8dae82697c43c8c238304a16576a62c06c"
+
+[update]
+[update.modrinth]
+mod-id = "sk9knFPE"
+version = "IGgMuhcx"
