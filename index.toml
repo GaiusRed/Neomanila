@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c283023603584a15acc71e294e919c8e9b4864ff717e030892e4d3296da5bbdb"
+hash = "db6d7f41d061ef1d9a12156b76c0a8505aecde73c3887a5c2c9df57f97bfcd16"
 
 [[files]]
 file = "config/create-client.toml"
@@ -144,6 +144,16 @@ hash = "9670c25141c3756c8a5b1c51560921279d1bb66122ffb7a6c2a18009c94ab8da"
 metafile = true
 
 [[files]]
+file = "mods/blossom.pw.toml"
+hash = "46888b5e0a15210ac8599d20bca17987998095ae965d1af214ec751ef73ba26e"
+metafile = true
+
+[[files]]
+file = "mods/cave-enhancements.pw.toml"
+hash = "372d2c61e6c08730a7547d24520cdba676037981f79b193b9976633e39e5e2be"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
@@ -171,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c9267a41da148c0d7c54631208be0b1528772980204c1270b0fe9ce0df3d73f6"
 metafile = true
 
 [[files]]
@@ -206,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
 metafile = true
 
 [[files]]

@@ -16,12 +16,14 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Bedspreads (Fabric)
 - Entity Banners
 - Blockus
+- Blossom
 
 ### Adventure
 - AdventureZ
 - Animal Feeding Trough
 - Artifacts
 - BetterEnd
+- Cave Enhancement
 
 ### Utilities
 - What The Hell Is That (WTHIT)
@@ -48,3 +50,5 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Better Compatibility Checker
 - BCLib
 - Disable Custom Worlds Advice (Fabric)
+- TerraBlender (Fabric)
+- GeckoLib
