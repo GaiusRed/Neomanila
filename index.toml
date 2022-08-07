@@ -9,6 +9,14 @@ file = "config/adventurez.json5"
 hash = "7b18c128bfe44eb77f2de7da86a0bd0248da03d6febc0ca6cc7cd38f9757aa0d"
 
 [[files]]
+file = "config/artifacts/general.toml"
+hash = "6234e95cf812832f847509f0c4171d7742b0bf5fd223f21bab5ce993d362ac8d"
+
+[[files]]
+file = "config/artifacts/worldgen.toml"
+hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "e6f9ddb03c8bdada1affdfd9eeeacff6994b486c5c19349cc18e279941d4d7f8"
 
@@ -87,6 +95,11 @@ hash = "37c11528bcdb10c771c37d7e129a7841a8f0ebc08f91d04231914fec8a729fbd"
 metafile = true
 
 [[files]]
+file = "mods/artifacts-fabric.pw.toml"
+hash = "cd5ae872e2a98bf094c387bd2ad034859427757fe77354838c37c3dc7f9d358c"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
@@ -139,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]

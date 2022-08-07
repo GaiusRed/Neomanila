@@ -16,6 +16,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 ### Adventure
 - AdventureZ
 - Animal Feeding Trough
+- Artifacts
 
 ### Utilities
 - What The Hell Is That (WTHIT)
@@ -23,6 +24,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Roughly Enough Items (REI)
 - Xaero's Minimap
 - Xaero's World Map
+- Trinkets
 
 ### Optimization & Libraries
 - Fabric Api
