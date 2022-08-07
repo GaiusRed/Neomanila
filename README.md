@@ -11,6 +11,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 
 ### Decoration
 - Twigs
+- Architect's Pallete
 
 ### Adventure
 - AdventureZ
