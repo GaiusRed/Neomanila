@@ -17,6 +17,10 @@ file = "config/artifacts/worldgen.toml"
 hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
+file = "config/bcc.json"
+hash = "05e2363b0e28b7f2c2d52797a21b4904cf89e58caff81ffea2049d5a52cc2c20"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "e6f9ddb03c8bdada1affdfd9eeeacff6994b486c5c19349cc18e279941d4d7f8"
 
@@ -105,6 +109,11 @@ hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
 file = "mods/beaconoverhaul.pw.toml"
 hash = "20950c1ebe5d30c2e84c6e190fd28d49db8065f58572cfade4bf05dce088669d"
 metafile = true
@@ -117,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
 metafile = true
 
 [[files]]
@@ -137,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+metafile = true
+
+[[files]]
+file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
+hash = "01d525676bd86896160f404dd43f15c57f9514de5c8a16deea1ad2b5c378fe59"
 metafile = true
 
 [[files]]

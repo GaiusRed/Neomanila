@@ -20,6 +20,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - AdventureZ
 - Animal Feeding Trough
 - Artifacts
+- BetterEnd
 
 ### Utilities
 - What The Hell Is That (WTHIT)
@@ -43,3 +44,5 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Rhino
 - Fabric Language Kotlin
 - Better Compatibility Checker
+- BCLib
+- Disable Custom Worlds Advice (Fabric)
