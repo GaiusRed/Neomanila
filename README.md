@@ -14,6 +14,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 
 ### Adventure
 - AdventureZ
+- Animal Feeding Trough
 
 ### Utilities
 - What The Hell Is That (WTHIT)
