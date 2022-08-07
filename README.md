@@ -8,6 +8,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 ### Tech & Equipment
 - Create (Fabric)
 - Additional Additions
+- Beacon Overhaul
 
 ### Decoration
 - Twigs
