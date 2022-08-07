@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "878a0ef21275986c6e0de28b6fd23866a4f4ffd434582fa7c708f3130f7c978b"
+hash = "c283023603584a15acc71e294e919c8e9b4864ff717e030892e4d3296da5bbdb"
 
 [[files]]
 file = "config/create-client.toml"
@@ -62,11 +62,11 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "6a7cfa7cd6f62f8db05c5d5b76e7f9e7b21aeaa7c356e8af774ad9237cd27c2a"
+hash = "3d4e871fb890ec3e7a86b2210cf8520385eb5fede8535c8e5cea2a0362544a7c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
-hash = "f1679fca8971e6b64791b2fc34c588ae0300d8c2bc61fe2eb7e042f83bb4faae"
+hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -136,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
+metafile = true
+
+[[files]]
+file = "mods/blockus.pw.toml"
+hash = "9670c25141c3756c8a5b1c51560921279d1bb66122ffb7a6c2a18009c94ab8da"
 metafile = true
 
 [[files]]

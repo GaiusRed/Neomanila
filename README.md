@@ -15,6 +15,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Architect's Pallete
 - Bedspreads (Fabric)
 - Entity Banners
+- Blockus
 
 ### Adventure
 - AdventureZ
