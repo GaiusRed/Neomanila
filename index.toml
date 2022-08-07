@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "05e2363b0e28b7f2c2d52797a21b4904cf89e58caff81ffea2049d5a52cc2c20"
+hash = "878a0ef21275986c6e0de28b6fd23866a4f4ffd434582fa7c708f3130f7c978b"
 
 [[files]]
 file = "config/create-client.toml"
@@ -131,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
 metafile = true
 
 [[files]]

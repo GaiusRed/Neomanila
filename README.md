@@ -29,6 +29,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Xaero's Minimap
 - Xaero's World Map
 - Trinkets
+- BetterF3
 
 ### Optimization & Libraries
 - Fabric Api
