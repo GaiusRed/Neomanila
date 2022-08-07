@@ -9,36 +9,12 @@ file = "config/adventurez.json5"
 hash = "7b18c128bfe44eb77f2de7da86a0bd0248da03d6febc0ca6cc7cd38f9757aa0d"
 
 [[files]]
-file = "config/appleskin.json5"
-hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "e6f9ddb03c8bdada1affdfd9eeeacff6994b486c5c19349cc18e279941d4d7f8"
 
 [[files]]
 file = "config/create-common.toml"
 hash = "805473c106646f837172f1713eb75a7f3c5626379ad44910a090358737c2c102"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "936150f3e92089446baf533d40f44d9b5560c57e02ea0fe1cfa233fced936057"
-
-[[files]]
-file = "config/flywheel.json"
-hash = "2672a64e4b68c9dbd5ef35e592df846103e6cc15f9f042c2c5280116011a9c1b"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "220e9eaee17e9133714e9efc00565bafee21a618e7acffc298091fdccd926c29"
-
-[[files]]
-file = "config/libgui.json5"
-hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 
 [[files]]
 file = "config/noindium.json"
@@ -49,36 +25,8 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "e623c8ebd735bddba54a43a6e38c5d5a312716ccf6fdb41ad2fd5c3216d93786"
 
 [[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
-
-[[files]]
-file = "config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "4597fde5d576f236df3cdb1e9049601e766780ca9b245263a0fc0aa886286624"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
-
-[[files]]
 file = "config/xaerominimap.txt"
 hash = "2408e8f602d540958d5c1a8ae19572088eebfeb1a8a8ef765ae5634771d86b2a"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "11d3226f02eaadbb769e2bf3715a969691c964e4fee521da0e081ce64790438c"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
