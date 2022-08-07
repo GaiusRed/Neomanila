@@ -5,6 +5,10 @@ file = "config/additional-additions-config.json"
 hash = "27542a7f42b2bf26921cb5cffa5110b3aa551a62f8720822d2108daaeef2cba5"
 
 [[files]]
+file = "config/adventurez.json5"
+hash = "7b18c128bfe44eb77f2de7da86a0bd0248da03d6febc0ca6cc7cd38f9757aa0d"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
@@ -27,6 +31,10 @@ hash = "2672a64e4b68c9dbd5ef35e592df846103e6cc15f9f042c2c5280116011a9c1b"
 [[files]]
 file = "config/indium-renderer.properties"
 hash = "220e9eaee17e9133714e9efc00565bafee21a618e7acffc298091fdccd926c29"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
 file = "config/lithium.properties"
@@ -85,8 +93,29 @@ file = "icon.png"
 hash = "b25ae159c8ab2eb67fd9c66a93152c4b8272222228e41c0df5134027abe37fe8"
 
 [[files]]
+file = "kubejs/client_scripts/rei_blacklist.js"
+hash = "1a9e928ec8e8e32accf6714a42a897659221de78410feb5fca5048211cbfdbee"
+
+[[files]]
+file = "kubejs/server_scripts/loot_tables/entities.js"
+hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/remove.js"
+hash = "6a7cfa7cd6f62f8db05c5d5b76e7f9e7b21aeaa7c356e8af774ad9237cd27c2a"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/replace.js"
+hash = "f1679fca8971e6b64791b2fc34c588ae0300d8c2bc61fe2eb7e042f83bb4faae"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.pw.toml"
+hash = "8d03587684b77114d966fcb4abbee1ecfdd3305939f38fdfb7f4f45f4fd3a43a"
 metafile = true
 
 [[files]]
@@ -125,6 +154,11 @@ hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "9fdb491538541907bef5ae665c3458371b4485252cce3579a93781383805b121"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
@@ -132,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ca4ba041496dd550dc6916d62f7bd6684fe1a67010eb2cab9d0e63b0e505010c"
 metafile = true
 
 [[files]]

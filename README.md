@@ -12,6 +12,9 @@ An updated list of mods and their versions can be accessed here: https://modrint
 ### Decoration
 - Twigs
 
+### Adventure
+- AdventureZ
+
 ### Utilities
 - What The Hell Is That (WTHIT)
 - AppleSkin
@@ -29,3 +32,5 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Your Options Shall Be Respected (YOSBR)
 - Architectury API
 - Cloth Config API
+- KubeJS
+- Rhino
