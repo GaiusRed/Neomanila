@@ -42,3 +42,4 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - KubeJS
 - Rhino
 - Fabric Language Kotlin
+- Better Compatibility Checker

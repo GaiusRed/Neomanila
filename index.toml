@@ -115,6 +115,11 @@ hash = "7eb9559886be0632c6f6bd6a56cf3e2a93649eb2f6cb0f4d6dd79c73b7a06d90"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
