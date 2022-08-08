@@ -15,6 +15,7 @@ onEvent('recipes', (event) => {
     event.smithing('additionaladditions:gilded_netherite_leggings', 'minecraft:netherite_leggings', 'additionaladditions:gold_ring');
     event.smithing('additionaladditions:gilded_netherite_boots', 'minecraft:netherite_boots', 'additionaladditions:gold_ring');
 
+    replaceInput('blockus:snow_bricks', 'ecologics:snow_bricks');
     replaceInput('blockus:amethyst_bricks', 'twigs:polished_amethyst_bricks');
     replaceInput('blockus:polished_amethyst', 'twigs:polished_amethyst');
 });

@@ -23,6 +23,9 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Chalk
 - Charm of Undying (Fabric)
 - Comforts (Fabric)
+- Creeper Overhaul
+- Ecologics
+- Enhanced Mushrooms
 - Entity Banners
 - Farmer's Delight (Fabric)
 - Twigs
@@ -53,8 +56,10 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Better Compatibility Checker
 - Cloth Config API
 - Disable Custom Worlds Advice (Fabric)
+- EntityCulling
 - Fabric Language Kotlin
 - GeckoLib
+- Pollen
 - Rhino
 - TerraBlender (Fabric)
 - Your Options Shall Be Respected (YOSBR)

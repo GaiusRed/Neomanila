@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "42d1a17c838625dc9b4fed7618fd30ab2af459cfce6aa1ecc34a121f351a1995"
+hash = "f3a7ee683d3b0c688ca323071f202c8de69a0292e0e3afb869ac217914cdbd9f"
 
 [[files]]
 file = "config/create-client.toml"
@@ -62,11 +62,11 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "3d4e871fb890ec3e7a86b2210cf8520385eb5fede8535c8e5cea2a0362544a7c"
+hash = "db2bb858e5ce060fcca8d537b3d947e6c5f854415970c646ccc0560904924037"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
-hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
+hash = "b2c8555b3417c82768dfa8e3a0d482ffb3c4ac5ec8a8669e296745a7c1eb69d5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
@@ -207,8 +207,28 @@ hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "485b6f976217cc14dc0f3c6f01797daa400446acc0bbacb60c0de018acc5b17c"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "e761b7aa8e757ec18a3030d4a791567102765f7eace1a133b0f4b973c6f28326"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-mushrooms.pw.toml"
+hash = "a897e5231f592352693862d4595a95b1fac25445ee4e70842c5e1cd32c74d05c"
+metafile = true
+
+[[files]]
 file = "mods/entity-banners.pw.toml"
 hash = "1d7b9d27ca2f50203b632fcf2a5b2eb2a2ae4cd115a53f996ae347e7e29ebd6b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
 
 [[files]]
@@ -254,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/pollen.pw.toml"
+hash = "9ebb5e7c9bd517870aadde2c473ac9c8df53f3de546f296bdb969b9ae434a98b"
 metafile = true
 
 [[files]]
