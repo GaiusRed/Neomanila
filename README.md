@@ -27,6 +27,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Ecologics
 - Enhanced Mushrooms
 - Entity Banners
+- Fantasy Ores by CesarZorak
+- Fantasy Ores Modded by CesarZorak
 - Farmer's Delight (Fabric)
 - Twigs
 

@@ -1,0 +1,13 @@
+name = "Fantasy Ores Modded by CesarZorak"
+filename = "Fantasy_Ores_Modded[v1.8].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e6e5e2c226a38b085f28bb76e0be7371b52a651"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3898594
+project-id = 555232

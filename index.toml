@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f3a7ee683d3b0c688ca323071f202c8de69a0292e0e3afb869ac217914cdbd9f"
+hash = "0071a3a081d0f0a33994d7de3a9ce623488fff0ff8f9e64eb4de05e89eed4bbe"
 
 [[files]]
 file = "config/create-client.toml"
@@ -46,7 +46,7 @@ hash = "5a605d98317319e00d8f531914cf7ee9e2affe71d255fbb2ed948580caf7473c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0bf4faee6280467f66be4a6f7b1b31739dd10d75a2091a72e8a8bffea6133208"
+hash = "281e889f45aca80ef2d2110516e7ad95d2561f066778561aa96dd62a2669237a"
 
 [[files]]
 file = "icon.png"
@@ -329,4 +329,14 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fantasy-ores-by-cesarzorak.pw.toml"
+hash = "28fe0b10d2efda4cac93bab504aba83bed209107667fcf0f111fe44b1a6ebc14"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fantasy-ores-modded-by-cesarzorak.pw.toml"
+hash = "58f8a430f10d7ffce07cf30bfa3160bbb1e07c1a0fae7d6df77404f8d184a8ab"
 metafile = true

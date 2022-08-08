@@ -1,0 +1,13 @@
+name = "Fantasy Ores by CesarZorak"
+filename = "Fantasy_Ores[1.16.x to 1.19.x][v5].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0383f44f15a300af3d560b5cd6003e9d8b123ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3898585
+project-id = 379899
