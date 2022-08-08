@@ -1,0 +1,13 @@
+name = "Entity Banners"
+filename = "entity-banners-1.0.2-BETA+1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGWZGP1P/versions/1.0.2-BETA+1.18/entity-banners-1.0.2-BETA+1.18.jar"
+hash-format = "sha1"
+hash = "8b430a3a8066aa7680a72a594b31e7935e42173e"
+
+[update]
+[update.modrinth]
+mod-id = "oGWZGP1P"
+version = "zHSg031H"

@@ -1,24 +1,46 @@
 # Neomanila
 
-A Fabric + Create v0.5 Modpack for Minecraft 1.18.2 from GaiusRed (erik@gaius.red | https://gaius.red)
+A Fabric Zero Magic Modpack with Create v0.5 for Minecraft 1.18.2
 
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
 
-### Tech & Equipment
+### Tech
 - Create (Fabric)
-- Additional Additions
 
-### Decoration
+### Featured Mods
+- Additional Additions
+- AdventureZ
+- Animal Feeding Trough
+- Architect's Pallete
+- Artifacts
+- Beacon Overhaul
+- Bedspreads (Fabric)
+- BetterEnd
+- Blockus
+- Blossom
+- Cave Enhancement
+- Chalk
+- Charm of Undying (Fabric)
+- Comforts (Fabric)
+- Creeper Overhaul
+- Ecologics
+- Enhanced Mushrooms
+- Entity Banners
+- Fantasy Ores by CesarZorak
+- Fantasy Ores Modded by CesarZorak
+- Farmer's Delight (Fabric)
 - Twigs
 
-### Adventure
-- AdventureZ
-
 ### Utilities
-- What The Hell Is That (WTHIT)
 - AppleSkin
+- BetterF3
+- Companion (Fabric)
+- Continuity
+- Crafting Tweaks (Fabric)
 - Roughly Enough Items (REI)
+- Trinkets
+- What The Hell Is That (WTHIT)
 - Xaero's Minimap
 - Xaero's World Map
 
@@ -28,9 +50,18 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Sodium
 - Indium
 - Phosphor
-- bad packets
-- Your Options Shall Be Respected (YOSBR)
-- Architectury API
-- Cloth Config API
 - KubeJS
+- Architectury API
+- bad packets
+- Balm
+- BCLib
+- Better Compatibility Checker
+- Cloth Config API
+- Disable Custom Worlds Advice (Fabric)
+- EntityCulling
+- Fabric Language Kotlin
+- GeckoLib
+- Pollen
 - Rhino
+- TerraBlender (Fabric)
+- Your Options Shall Be Respected (YOSBR)

@@ -9,8 +9,16 @@ file = "config/adventurez.json5"
 hash = "7b18c128bfe44eb77f2de7da86a0bd0248da03d6febc0ca6cc7cd38f9757aa0d"
 
 [[files]]
-file = "config/appleskin.json5"
-hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+file = "config/artifacts/general.toml"
+hash = "6234e95cf812832f847509f0c4171d7742b0bf5fd223f21bab5ce993d362ac8d"
+
+[[files]]
+file = "config/artifacts/worldgen.toml"
+hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
+
+[[files]]
+file = "config/bcc.json"
+hash = "0071a3a081d0f0a33994d7de3a9ce623488fff0ff8f9e64eb4de05e89eed4bbe"
 
 [[files]]
 file = "config/create-client.toml"
@@ -21,26 +29,6 @@ file = "config/create-common.toml"
 hash = "805473c106646f837172f1713eb75a7f3c5626379ad44910a090358737c2c102"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "936150f3e92089446baf533d40f44d9b5560c57e02ea0fe1cfa233fced936057"
-
-[[files]]
-file = "config/flywheel.json"
-hash = "2672a64e4b68c9dbd5ef35e592df846103e6cc15f9f042c2c5280116011a9c1b"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "220e9eaee17e9133714e9efc00565bafee21a618e7acffc298091fdccd926c29"
-
-[[files]]
-file = "config/libgui.json5"
-hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
-
-[[files]]
 file = "config/noindium.json"
 hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 
@@ -49,36 +37,8 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "e623c8ebd735bddba54a43a6e38c5d5a312716ccf6fdb41ad2fd5c3216d93786"
 
 [[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
-
-[[files]]
-file = "config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "4597fde5d576f236df3cdb1e9049601e766780ca9b245263a0fc0aa886286624"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
-
-[[files]]
 file = "config/xaerominimap.txt"
 hash = "2408e8f602d540958d5c1a8ae19572088eebfeb1a8a8ef765ae5634771d86b2a"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "11d3226f02eaadbb769e2bf3715a969691c964e4fee521da0e081ce64790438c"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -86,7 +46,7 @@ hash = "5a605d98317319e00d8f531914cf7ee9e2affe71d255fbb2ed948580caf7473c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0bf4faee6280467f66be4a6f7b1b31739dd10d75a2091a72e8a8bffea6133208"
+hash = "281e889f45aca80ef2d2110516e7ad95d2561f066778561aa96dd62a2669237a"
 
 [[files]]
 file = "icon.png"
@@ -102,11 +62,19 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "6a7cfa7cd6f62f8db05c5d5b76e7f9e7b21aeaa7c356e8af774ad9237cd27c2a"
+hash = "db2bb858e5ce060fcca8d537b3d947e6c5f854415970c646ccc0560904924037"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
-hash = "f1679fca8971e6b64791b2fc34c588ae0300d8c2bc61fe2eb7e042f83bb4faae"
+hash = "b2c8555b3417c82768dfa8e3a0d482ffb3c4ac5ec8a8669e296745a7c1eb69d5"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/shaped.js"
+hash = "ddc20c31bfc23f08d7dddbccd61de1e906f38bd4907c7d5f4cbb93808e307fd0"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/shapeless.js"
+hash = "3a09f1bca148a755ba7e4d9995160290c8d86d64bbf7aade84c1e01309bb9120"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -119,8 +87,18 @@ hash = "8d03587684b77114d966fcb4abbee1ecfdd3305939f38fdfb7f4f45f4fd3a43a"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "378d61c3fdb3a5839a3b4f8e3e86bb44c040cc2be0aa5566eab8e03c01b7c4c0"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "5d068ee053bfe3b7815d9b28b12144aaf65f9253247eff40480aacf3c2a8e02e"
 metafile = true
 
 [[files]]
@@ -129,8 +107,73 @@ hash = "37c11528bcdb10c771c37d7e129a7841a8f0ebc08f91d04231914fec8a729fbd"
 metafile = true
 
 [[files]]
+file = "mods/artifacts-fabric.pw.toml"
+hash = "cd5ae872e2a98bf094c387bd2ad034859427757fe77354838c37c3dc7f9d358c"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "20950c1ebe5d30c2e84c6e190fd28d49db8065f58572cfade4bf05dce088669d"
+metafile = true
+
+[[files]]
+file = "mods/bedspreads-fabric.pw.toml"
+hash = "7eb9559886be0632c6f6bd6a56cf3e2a93649eb2f6cb0f4d6dd79c73b7a06d90"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
+metafile = true
+
+[[files]]
+file = "mods/blockus.pw.toml"
+hash = "9670c25141c3756c8a5b1c51560921279d1bb66122ffb7a6c2a18009c94ab8da"
+metafile = true
+
+[[files]]
+file = "mods/blossom.pw.toml"
+hash = "46888b5e0a15210ac8599d20bca17987998095ae965d1af214ec751ef73ba26e"
+metafile = true
+
+[[files]]
+file = "mods/cave-enhancements.pw.toml"
+hash = "372d2c61e6c08730a7547d24520cdba676037981f79b193b9976633e39e5e2be"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "9d964354c8312bf29747e4ad32fb3967f868b8ada1de92ed6b25742eb87ea3e8"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying-fabric.pw.toml"
+hash = "12189f57698bb77dfc9943bf64311a66ce71052414491fc549ca193a2495d779"
 metafile = true
 
 [[files]]
@@ -139,13 +182,78 @@ hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
 
 [[files]]
+file = "mods/comforts-fabric.pw.toml"
+hash = "89a198dfecd72beb0d9b599d14188650d503780b6883b4a2c304251105d7a870"
+metafile = true
+
+[[files]]
+file = "mods/companion-fabric.pw.toml"
+hash = "57386627dec02f63b532eaf99142085dc6a20f1c5d28540dd91e266ea07ff7ee"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks-fabric.pw.toml"
+hash = "d29ea37503c0416871380e3e056b035a793e50ea5b052a7158ca8a9099fa95d1"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "485b6f976217cc14dc0f3c6f01797daa400446acc0bbacb60c0de018acc5b17c"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "e761b7aa8e757ec18a3030d4a791567102765f7eace1a133b0f4b973c6f28326"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-mushrooms.pw.toml"
+hash = "a897e5231f592352693862d4595a95b1fac25445ee4e70842c5e1cd32c74d05c"
+metafile = true
+
+[[files]]
+file = "mods/entity-banners.pw.toml"
+hash = "1d7b9d27ca2f50203b632fcf2a5b2eb2a2ae4cd115a53f996ae347e7e29ebd6b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+metafile = true
+
+[[files]]
+file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
+hash = "01d525676bd86896160f404dd43f15c57f9514de5c8a16deea1ad2b5c378fe59"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "496f2bbca3c4ceb20c9f9d780038ba6babd966eb7c056a7a2a212db413b6035b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c9267a41da148c0d7c54631208be0b1528772980204c1270b0fe9ce0df3d73f6"
 metafile = true
 
 [[files]]
@@ -169,6 +277,11 @@ hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
 metafile = true
 
 [[files]]
+file = "mods/pollen.pw.toml"
+hash = "9ebb5e7c9bd517870aadde2c473ac9c8df53f3de546f296bdb969b9ae434a98b"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4ba041496dd550dc6916d62f7bd6684fe1a67010eb2cab9d0e63b0e505010c"
 metafile = true
@@ -181,6 +294,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
@@ -206,4 +329,14 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fantasy-ores-by-cesarzorak.pw.toml"
+hash = "28fe0b10d2efda4cac93bab504aba83bed209107667fcf0f111fe44b1a6ebc14"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fantasy-ores-modded-by-cesarzorak.pw.toml"
+hash = "58f8a430f10d7ffce07cf30bfa3160bbb1e07c1a0fae7d6df77404f8d184a8ab"
 metafile = true
