@@ -1,45 +1,43 @@
 # Neomanila
 
-A Fabric + Create v0.5 Modpack for Minecraft 1.18.2 from GaiusRed (erik@gaius.red | https://gaius.red)
+A Fabric Zero Magic Modpack with Create v0.5 for Minecraft 1.18.2
 
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
 
-### Tech & Equipment
+### Tech
 - Create (Fabric)
+
+### Featured Mods
 - Additional Additions
-- Artifacts
-- Beacon Overhaul
-- Charm of Undying (Fabric)
-- Comforts (Fabric)
-
-### Decoration
-- Twigs
-- Architect's Pallete
-- Bedspreads (Fabric)
-- Entity Banners
-- Blockus
-- Blossom
-
-### Adventure
 - AdventureZ
 - Animal Feeding Trough
+- Architect's Pallete
+- Artifacts
+- Beacon Overhaul
+- Bedspreads (Fabric)
 - BetterEnd
+- Blockus
+- Blossom
 - Cave Enhancement
 - Chalk
+- Charm of Undying (Fabric)
+- Comforts (Fabric)
+- Entity Banners
 - Farmer's Delight (Fabric)
+- Twigs
 
 ### Utilities
-- What The Hell Is That (WTHIT)
 - AppleSkin
-- Roughly Enough Items (REI)
-- Xaero's Minimap
-- Xaero's World Map
-- Trinkets
 - BetterF3
 - Companion (Fabric)
 - Continuity
 - Crafting Tweaks (Fabric)
+- Roughly Enough Items (REI)
+- Trinkets
+- What The Hell Is That (WTHIT)
+- Xaero's Minimap
+- Xaero's World Map
 
 ### Optimization & Libraries
 - Fabric Api
@@ -47,16 +45,16 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Sodium
 - Indium
 - Phosphor
-- bad packets
-- Your Options Shall Be Respected (YOSBR)
-- Architectury API
-- Cloth Config API
 - KubeJS
-- Rhino
-- Fabric Language Kotlin
-- Better Compatibility Checker
-- BCLib
-- Disable Custom Worlds Advice (Fabric)
-- TerraBlender (Fabric)
-- GeckoLib
+- Architectury API
+- bad packets
 - Balm
+- BCLib
+- Better Compatibility Checker
+- Cloth Config API
+- Disable Custom Worlds Advice (Fabric)
+- Fabric Language Kotlin
+- GeckoLib
+- Rhino
+- TerraBlender (Fabric)
+- Your Options Shall Be Respected (YOSBR)
