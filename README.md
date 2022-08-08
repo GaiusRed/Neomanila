@@ -1,6 +1,9 @@
 # Neomanila
 
-A Fabric Zero Magic Modpack with Create v0.5 for Minecraft 1.18.2
+A `Zero Magic` Fabric Modpack w/ Create v0.5 for Minecraft 1.18.2
+
+## Features
+- To be listed here in the future...
 
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
@@ -30,6 +33,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Fantasy Ores by CesarZorak
 - Fantasy Ores Modded by CesarZorak
 - Farmer's Delight (Fabric)
+- Goblin Traders (Fabric)
 - Twigs
 
 ### Utilities
@@ -38,6 +42,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Companion (Fabric)
 - Continuity
 - Crafting Tweaks (Fabric)
+- Friendly Fire
 - Roughly Enough Items (REI)
 - Trinkets
 - What The Hell Is That (WTHIT)
@@ -56,12 +61,15 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Balm
 - BCLib
 - Better Compatibility Checker
+- Bookshelf
 - Cloth Config API
 - Disable Custom Worlds Advice (Fabric)
 - EntityCulling
 - Fabric Language Kotlin
+- FerriteCore
 - GeckoLib
 - Pollen
 - Rhino
 - TerraBlender (Fabric)
+- ThonkUtil
 - Your Options Shall Be Respected (YOSBR)
