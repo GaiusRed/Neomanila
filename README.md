@@ -8,7 +8,10 @@ An updated list of mods and their versions can be accessed here: https://modrint
 ### Tech & Equipment
 - Create (Fabric)
 - Additional Additions
+- Artifacts
 - Beacon Overhaul
+- Charm of Undying (Fabric)
+- Comforts (Fabric)
 
 ### Decoration
 - Twigs
@@ -21,9 +24,10 @@ An updated list of mods and their versions can be accessed here: https://modrint
 ### Adventure
 - AdventureZ
 - Animal Feeding Trough
-- Artifacts
 - BetterEnd
 - Cave Enhancement
+- Chalk
+- Farmer's Delight (Fabric)
 
 ### Utilities
 - What The Hell Is That (WTHIT)
@@ -33,6 +37,9 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Xaero's World Map
 - Trinkets
 - BetterF3
+- Companion (Fabric)
+- Continuity
+- Crafting Tweaks (Fabric)
 
 ### Optimization & Libraries
 - Fabric Api
@@ -52,3 +59,4 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Disable Custom Worlds Advice (Fabric)
 - TerraBlender (Fabric)
 - GeckoLib
+- Balm

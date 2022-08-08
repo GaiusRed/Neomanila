@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "db6d7f41d061ef1d9a12156b76c0a8505aecde73c3887a5c2c9df57f97bfcd16"
+hash = "42d1a17c838625dc9b4fed7618fd30ab2af459cfce6aa1ecc34a121f351a1995"
 
 [[files]]
 file = "config/create-client.toml"
@@ -69,6 +69,14 @@ file = "kubejs/server_scripts/recipes/replace.js"
 hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/shaped.js"
+hash = "ddc20c31bfc23f08d7dddbccd61de1e906f38bd4907c7d5f4cbb93808e307fd0"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/shapeless.js"
+hash = "3a09f1bca148a755ba7e4d9995160290c8d86d64bbf7aade84c1e01309bb9120"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
@@ -106,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
 metafile = true
 
 [[files]]
@@ -154,8 +167,38 @@ hash = "372d2c61e6c08730a7547d24520cdba676037981f79b193b9976633e39e5e2be"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "9d964354c8312bf29747e4ad32fb3967f868b8ada1de92ed6b25742eb87ea3e8"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying-fabric.pw.toml"
+hash = "12189f57698bb77dfc9943bf64311a66ce71052414491fc549ca193a2495d779"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
+metafile = true
+
+[[files]]
+file = "mods/comforts-fabric.pw.toml"
+hash = "89a198dfecd72beb0d9b599d14188650d503780b6883b4a2c304251105d7a870"
+metafile = true
+
+[[files]]
+file = "mods/companion-fabric.pw.toml"
+hash = "57386627dec02f63b532eaf99142085dc6a20f1c5d28540dd91e266ea07ff7ee"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks-fabric.pw.toml"
+hash = "d29ea37503c0416871380e3e056b035a793e50ea5b052a7158ca8a9099fa95d1"
 metafile = true
 
 [[files]]
@@ -181,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "496f2bbca3c4ceb20c9f9d780038ba6babd966eb7c056a7a2a212db413b6035b"
 metafile = true
 
 [[files]]
