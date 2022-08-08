@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "9909965e22a1ce6747d8516d3133522bfa0d3bcd5475e74d01d2c339c21cce71"
+hash = "c8ebdf4f72abbcf64d5653ce4aa96610f806135afe5bb1877b4f69c3bf4f60ae"
 
 [[files]]
 file = "config/create-client.toml"
@@ -217,6 +217,11 @@ hash = "485b6f976217cc14dc0f3c6f01797daa400446acc0bbacb60c0de018acc5b17c"
 metafile = true
 
 [[files]]
+file = "mods/cyberanner-ironchest.pw.toml"
+hash = "442b4c789dc6f30c4819c1a816e05024b53434320a4f9f80c6c6e3abb268d6db"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "e761b7aa8e757ec18a3030d4a791567102765f7eace1a133b0f4b973c6f28326"
 metafile = true
@@ -292,6 +297,16 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
 metafile = true
@@ -299,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/pollen.pw.toml"
 hash = "9ebb5e7c9bd517870aadde2c473ac9c8df53f3de546f296bdb969b9ae434a98b"
+metafile = true
+
+[[files]]
+file = "mods/quartz-elevator.pw.toml"
+hash = "438eb3835101279ea5c01cf042bdaa493e5f7d3b1569c29dbf68d6197dedbcd5"
 metafile = true
 
 [[files]]

@@ -34,6 +34,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Fantasy Ores Modded by CesarZorak
 - Farmer's Delight (Fabric)
 - Goblin Traders (Fabric)
+- Iron Chests
+- Quartz Elevator
 - Twigs
 
 ### Utilities
@@ -43,6 +45,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Continuity
 - Crafting Tweaks (Fabric)
 - Friendly Fire
+- megane
+- Not Enough Crashes
 - Roughly Enough Items (REI)
 - Trinkets
 - What The Hell Is That (WTHIT)
