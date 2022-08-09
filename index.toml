@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c8ebdf4f72abbcf64d5653ce4aa96610f806135afe5bb1877b4f69c3bf4f60ae"
+hash = "2c24ca0fbdc2b887b32d52b5e21ea22930106a1bba00838ea3a4e83f11d77ea0"
 
 [[files]]
 file = "config/create-client.toml"
@@ -322,6 +322,11 @@ hash = "438eb3835101279ea5c01cf042bdaa493e5f7d3b1569c29dbf68d6197dedbcd5"
 metafile = true
 
 [[files]]
+file = "mods/replanter.pw.toml"
+hash = "654461b719e83c4f8f2b39ff244efef905e0509a13f283b25cc0697706a7ae9d"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4ba041496dd550dc6916d62f7bd6684fe1a67010eb2cab9d0e63b0e505010c"
 metafile = true
@@ -332,8 +337,18 @@ hash = "53128f525532c2dd8927f8ca23f67a357c0e84d3907f86b99274092f14b76625"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "2eee5d1b3fb8ea47ff93dcab8c9cb9bd66b26433ab9304b1ab87c7281c1e2141"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/sprout.pw.toml"
+hash = "c05bfbb41a5c3c027c1f46b31a0d8ce256594d69886ee5bb2aa8fb091c3861a7"
 metafile = true
 
 [[files]]

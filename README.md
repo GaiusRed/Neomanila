@@ -36,6 +36,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Goblin Traders (Fabric)
 - Iron Chests
 - Quartz Elevator
+- Simple Copper Pipes
+- Sprout
 - Twigs
 
 ### Utilities
@@ -48,6 +50,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - megane
 - Not Enough Crashes
 - Roughly Enough Items (REI)
+- Replanter
 - Trinkets
 - What The Hell Is That (WTHIT)
 - Xaero's Minimap
