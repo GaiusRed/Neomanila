@@ -38,6 +38,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Quartz Elevator
 - Simple Copper Pipes
 - Sprout
+- Terralith
 - Twigs
 
 ### Utilities

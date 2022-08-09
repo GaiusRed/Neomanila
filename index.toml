@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2c24ca0fbdc2b887b32d52b5e21ea22930106a1bba00838ea3a4e83f11d77ea0"
+hash = "ae0bb99b05ff499fb75995e0690c4878c7314eaac26df202f994560740cceed1"
 
 [[files]]
 file = "config/create-client.toml"
@@ -75,6 +75,10 @@ hash = "ddc20c31bfc23f08d7dddbccd61de1e906f38bd4907c7d5f4cbb93808e307fd0"
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
 hash = "3a09f1bca148a755ba7e4d9995160290c8d86d64bbf7aade84c1e01309bb9120"
+
+[[files]]
+file = "kubejs/server_scripts/server_load.js"
+hash = "6f2fb428c9b2b47c166f59ff56896c62d808ae3fb0efe43dc6a8d0c26683389e"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -354,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
 metafile = true
 
 [[files]]
