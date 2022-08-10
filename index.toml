@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "ae0bb99b05ff499fb75995e0690c4878c7314eaac26df202f994560740cceed1"
+hash = "f32b93341229ae424aa22745275b08dec6a6dc7506b3ddfd14000d5988b6ea38"
 
 [[files]]
 file = "config/create-client.toml"
@@ -35,6 +35,14 @@ hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "e623c8ebd735bddba54a43a6e38c5d5a312716ccf6fdb41ad2fd5c3216d93786"
+
+[[files]]
+file = "config/waystones.toml"
+hash = "461d0c4d128f39c779f9b496c2680edcca8ca12fa8241752a40dddb3dd8d3e3c"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "2d95c8626c5c6c196b71459c670546e86535045d10bd898bbe996c97239f68f0"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -371,6 +379,11 @@ hash = "d227749ef001a75ad588e4f59edf1f4a97e537458bdefb414331c31c0a437d0b"
 metafile = true
 
 [[files]]
+file = "mods/trinket-shulker-boxes-fabric.pw.toml"
+hash = "67427bd92e141015c290de07daa9590986925a8e683c8c40146d9572171ba8ed"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
@@ -378,6 +391,16 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.pw.toml"
+hash = "7ea5b6cc7b9173248890027044a2e18edd202996dc2302a6d2030d405981ef97"
+metafile = true
+
+[[files]]
+file = "mods/wilder-world.pw.toml"
+hash = "b8649c627e0e925354026d47387b0095f6b1031ffb2d5a84158c8329a79ba9b4"
 metafile = true
 
 [[files]]

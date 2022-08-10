@@ -40,6 +40,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Sprout
 - Terralith
 - Twigs
+- Waystones (Fabric)
+- Wilder World
 
 ### Utilities
 - AppleSkin
@@ -52,6 +54,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Not Enough Crashes
 - Roughly Enough Items (REI)
 - Replanter
+- Trinket Shulker Boxes (Fabric)
 - Trinkets
 - What The Hell Is That (WTHIT)
 - Xaero's Minimap
