@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "0071a3a081d0f0a33994d7de3a9ce623488fff0ff8f9e64eb4de05e89eed4bbe"
+hash = "1869a1c8a3e23860cf59e66190afd39819350f1f8919fce18e1d1e645956ca80"
 
 [[files]]
 file = "config/create-client.toml"
@@ -35,6 +35,14 @@ hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "e623c8ebd735bddba54a43a6e38c5d5a312716ccf6fdb41ad2fd5c3216d93786"
+
+[[files]]
+file = "config/waystones.toml"
+hash = "461d0c4d128f39c779f9b496c2680edcca8ca12fa8241752a40dddb3dd8d3e3c"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "2d95c8626c5c6c196b71459c670546e86535045d10bd898bbe996c97239f68f0"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -77,6 +85,10 @@ file = "kubejs/server_scripts/recipes/shapeless.js"
 hash = "3a09f1bca148a755ba7e4d9995160290c8d86d64bbf7aade84c1e01309bb9120"
 
 [[files]]
+file = "kubejs/server_scripts/server_load.js"
+hash = "6f2fb428c9b2b47c166f59ff56896c62d808ae3fb0efe43dc6a8d0c26683389e"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
@@ -93,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
+hash = "80e7c9fd868c28612d6e9945044e274399579ab0007285f2ec50caf006c771f3"
 metafile = true
 
 [[files]]
@@ -103,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "37c11528bcdb10c771c37d7e129a7841a8f0ebc08f91d04231914fec8a729fbd"
+hash = "a762150026feade1cec5a38ea7d929dabae573921c6d5ae6a63bcecacdefe251"
 metafile = true
 
 [[files]]
@@ -162,6 +174,11 @@ hash = "46888b5e0a15210ac8599d20bca17987998095ae965d1af214ec751ef73ba26e"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "e2571519971cf6cf96636b8222f47a1839990d1f2f65ee5cd80c286925f467d9"
+metafile = true
+
+[[files]]
 file = "mods/cave-enhancements.pw.toml"
 hash = "372d2c61e6c08730a7547d24520cdba676037981f79b193b9976633e39e5e2be"
 metafile = true
@@ -193,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
 metafile = true
 
 [[files]]
@@ -209,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "485b6f976217cc14dc0f3c6f01797daa400446acc0bbacb60c0de018acc5b17c"
+metafile = true
+
+[[files]]
+file = "mods/cyberanner-ironchest.pw.toml"
+hash = "442b4c789dc6f30c4819c1a816e05024b53434320a4f9f80c6c6e3abb268d6db"
 metafile = true
 
 [[files]]
@@ -252,8 +274,23 @@ hash = "496f2bbca3c4ceb20c9f9d780038ba6babd966eb7c056a7a2a212db413b6035b"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/friendly-fire.pw.toml"
+hash = "ae6c194d4128e11d45e6f1b5aa63742cc808e15fce4ef7c96224d722e6c3b3e5"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c9267a41da148c0d7c54631208be0b1528772980204c1270b0fe9ce0df3d73f6"
+hash = "50f3fd4c8887eab3e7d815dd0ef8ae89e8eb0a17665eb1a49dd162a67e57f843"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders-fabric.pw.toml"
+hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
 metafile = true
 
 [[files]]
@@ -272,6 +309,16 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
 metafile = true
@@ -279,6 +326,16 @@ metafile = true
 [[files]]
 file = "mods/pollen.pw.toml"
 hash = "9ebb5e7c9bd517870aadde2c473ac9c8df53f3de546f296bdb969b9ae434a98b"
+metafile = true
+
+[[files]]
+file = "mods/quartz-elevator.pw.toml"
+hash = "438eb3835101279ea5c01cf042bdaa493e5f7d3b1569c29dbf68d6197dedbcd5"
+metafile = true
+
+[[files]]
+file = "mods/replanter.pw.toml"
+hash = "654461b719e83c4f8f2b39ff244efef905e0509a13f283b25cc0697706a7ae9d"
 metafile = true
 
 [[files]]
@@ -292,13 +349,38 @@ hash = "53128f525532c2dd8927f8ca23f67a357c0e84d3907f86b99274092f14b76625"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "2eee5d1b3fb8ea47ff93dcab8c9cb9bd66b26433ab9304b1ab87c7281c1e2141"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/sprout.pw.toml"
+hash = "c05bfbb41a5c3c027c1f46b31a0d8ce256594d69886ee5bb2aa8fb091c3861a7"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+metafile = true
+
+[[files]]
+file = "mods/thonkutil.pw.toml"
+hash = "d227749ef001a75ad588e4f59edf1f4a97e537458bdefb414331c31c0a437d0b"
+metafile = true
+
+[[files]]
+file = "mods/trinket-shulker-boxes-fabric.pw.toml"
+hash = "67427bd92e141015c290de07daa9590986925a8e683c8c40146d9572171ba8ed"
 metafile = true
 
 [[files]]
@@ -309,6 +391,16 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.pw.toml"
+hash = "7ea5b6cc7b9173248890027044a2e18edd202996dc2302a6d2030d405981ef97"
+metafile = true
+
+[[files]]
+file = "mods/wilder-world.pw.toml"
+hash = "b8649c627e0e925354026d47387b0095f6b1031ffb2d5a84158c8329a79ba9b4"
 metafile = true
 
 [[files]]

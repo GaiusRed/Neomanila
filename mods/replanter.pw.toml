@@ -1,0 +1,13 @@
+name = "Replanter"
+filename = "replanter-fabric-1.18.2-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b13635b9a59891e6ab971f841f246bdfe0906515"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3840177
+project-id = 480657
