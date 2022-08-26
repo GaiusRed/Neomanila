@@ -19,6 +19,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Artifacts
 - Beacon Overhaul
 - Bedspreads (Fabric)
+- Better Combat
 - BetterEnd
 - Blockus
 - Blossom
@@ -37,6 +38,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Iron Chests
 - Quartz Elevator
 - Simple Copper Pipes
+- Simply Swords
 - Sprout
 - Terralith
 - Twigs
@@ -54,6 +56,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Not Enough Crashes
 - Roughly Enough Items (REI)
 - Replanter
+- Shards
 - Trinket Shulker Boxes (Fabric)
 - Trinkets
 - What The Hell Is That (WTHIT)
