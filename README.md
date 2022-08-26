@@ -19,6 +19,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Artifacts
 - Beacon Overhaul
 - Bedspreads (Fabric)
+- Better Combat
 - BetterEnd
 - Blockus
 - Blossom
@@ -37,6 +38,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Iron Chests
 - Quartz Elevator
 - Simple Copper Pipes
+- Simply Swords
 - Sprout
 - Terralith
 - Twigs
