@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "3b4df21eaa0b7e7305f8d6351992a410c198e42a962886172173b02a3e6d486c"
+hash = "b8744608c4510d282397af1df6cc339e610e07283de5a87aedab41cc7f9e8de4"
 
 [[files]]
 file = "config/create-client.toml"
@@ -146,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/bedspreads-fabric.pw.toml"
 hash = "7eb9559886be0632c6f6bd6a56cf3e2a93649eb2f6cb0f4d6dd79c73b7a06d90"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "b5077093ae3cffbb8666dd80af849e2355976067cabf4aea683ea4ff0a79223e"
 metafile = true
 
 [[files]]
@@ -356,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "2eee5d1b3fb8ea47ff93dcab8c9cb9bd66b26433ab9304b1ab87c7281c1e2141"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "042637ac38e2c2ad3591585e365b2eaa9043c735a23909cc97c73508f552c43c"
 metafile = true
 
 [[files]]
