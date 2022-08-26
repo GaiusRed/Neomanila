@@ -54,6 +54,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Not Enough Crashes
 - Roughly Enough Items (REI)
 - Replanter
+- Shards
 - Trinket Shulker Boxes (Fabric)
 - Trinkets
 - What The Hell Is That (WTHIT)
