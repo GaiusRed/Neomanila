@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b8744608c4510d282397af1df6cc339e610e07283de5a87aedab41cc7f9e8de4"
+hash = "841f1a95ce0ea5d71f6e164367e1c774bf80e8eeedcd5270aa3353f0ebd8c6a8"
 
 [[files]]
 file = "config/create-client.toml"
@@ -94,6 +94,11 @@ hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
 
 [[files]]
+file = "mods/additional-structures-fabric.pw.toml"
+hash = "da95efac9a62a949a29f1ea9d3c21a974b12a3c17e06c107fee4cd1cea705931"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "8d03587684b77114d966fcb4abbee1ecfdd3305939f38fdfb7f4f45f4fd3a43a"
 metafile = true
@@ -150,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "b5077093ae3cffbb8666dd80af849e2355976067cabf4aea683ea4ff0a79223e"
+hash = "1e8666ecd6a12d212a5b9901780fd4463479ded1087d48de6a562c58801f0ee5"
 metafile = true
 
 [[files]]
@@ -180,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ec406d2c00e3c198ac69fcafbcb269ae1a88bef0adf580164adff1fabc0229cc"
+hash = "660583ad034fd876f68c33103acaeba536249cac600bb5e260bddbf65bd996cf"
 metafile = true
 
 [[files]]
@@ -225,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
+hash = "b0e57da1c9d78a51af4d264396a11ea4cf59d09676042985d4aa53b414ccde09"
 metafile = true
 
 [[files]]
@@ -305,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "0c955376c33ec88895568df06cac648273e67db13c8a49afc0c74b5002adc9dd"
+hash = "03840ab1b25dcfe92b27eb5e1523a93c9fa3a1bffbb52c30ee94b524273e6117"
 metafile = true
 
 [[files]]
@@ -315,7 +320,12 @@ metafile = true
 
 [[files]]
 file = "mods/megane.pw.toml"
-hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
+hash = "88d204010e68a166c3906dc710a0843fc2d69416e67953ee276603b307338a9e"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "dd61d78730d5f3c8da01edbdf5b577fd85e20cd42e6ab6aa00e93ad29f9b96fc"
 metafile = true
 
 [[files]]
@@ -326,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c61e000856b48dc4cb0d7ea777fcd1d79d59153ba5d8b122d1a498c07169dbdc"
 metafile = true
 
 [[files]]
@@ -365,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "042637ac38e2c2ad3591585e365b2eaa9043c735a23909cc97c73508f552c43c"
+hash = "d1c9cc74fceec4556cab433e04a581b41b394881563f9ba2b33e85d7f7324a13"
 metafile = true
 
 [[files]]
@@ -380,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
 
 [[files]]
