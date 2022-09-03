@@ -13,6 +13,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 
 ### Featured Mods
 - Additional Additions
+- Additional Structures
 - AdventureZ
 - Animal Feeding Trough
 - Architect's Pallete
@@ -36,6 +37,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Farmer's Delight (Fabric)
 - Goblin Traders (Fabric)
 - Iron Chests
+- Moog's Voyager Structures
 - Quartz Elevator
 - Simple Copper Pipes
 - Simply Swords
@@ -82,6 +84,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Fabric Language Kotlin
 - FerriteCore
 - GeckoLib
+- PlayerAnimator
 - Pollen
 - Rhino
 - TerraBlender (Fabric)
