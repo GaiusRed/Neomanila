@@ -18,7 +18,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "841f1a95ce0ea5d71f6e164367e1c774bf80e8eeedcd5270aa3353f0ebd8c6a8"
+hash = "bbeab5029516e307cef3f371fbf6d1995acd8468a1eef6b2eac89c4d40e42544"
 
 [[files]]
 file = "config/create-client.toml"
@@ -35,6 +35,10 @@ hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "e623c8ebd735bddba54a43a6e38c5d5a312716ccf6fdb41ad2fd5c3216d93786"
+
+[[files]]
+file = "config/universal-graves.json"
+hash = "391f67a49d80a5475dd81c027464a626d1917821eed201c862e542ad90ca71d7"
 
 [[files]]
 file = "config/waystones.toml"
@@ -96,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "da95efac9a62a949a29f1ea9d3c21a974b12a3c17e06c107fee4cd1cea705931"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
 
 [[files]]
@@ -379,6 +388,11 @@ hash = "2eee5d1b3fb8ea47ff93dcab8c9cb9bd66b26433ab9304b1ab87c7281c1e2141"
 metafile = true
 
 [[files]]
+file = "mods/simply-houses.pw.toml"
+hash = "69a3332b51c57a80a1a892b570a0d2de6b77927db38c0c98ebc70f2c57325441"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "d1c9cc74fceec4556cab433e04a581b41b394881563f9ba2b33e85d7f7324a13"
 metafile = true
@@ -424,8 +438,18 @@ hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "7949ca44b40c64a5ddcd1f1ca33b89ed8af392ca1f468c74411a8d3fe260baf6"
+metafile = true
+
+[[files]]
 file = "mods/waystones-fabric.pw.toml"
 hash = "7ea5b6cc7b9173248890027044a2e18edd202996dc2302a6d2030d405981ef97"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
 metafile = true
 
 [[files]]

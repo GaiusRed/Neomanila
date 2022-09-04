@@ -14,6 +14,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 ### Featured Mods
 - Additional Additions
 - Additional Structures
+- Adorn
 - AdventureZ
 - Animal Feeding Trough
 - Architect's Pallete
@@ -40,11 +41,13 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Moog's Voyager Structures
 - Quartz Elevator
 - Simple Copper Pipes
+- Simply Houses
 - Simply Swords
 - Sprout
 - Terralith
 - Twigs
 - Waystones (Fabric)
+- When Dungeons Arise
 - Wilder World
 
 ### Utilities
@@ -61,6 +64,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Shards
 - Trinket Shulker Boxes (Fabric)
 - Trinkets
+- Universal Graves
 - What The Hell Is That (WTHIT)
 - Xaero's Minimap
 - Xaero's World Map
