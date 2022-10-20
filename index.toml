@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/RPG-HUD"
+hash = "80ca3e7492768dc17936f55fd90db07e237e85a661913ae47d2ddb6161f74c1e"
+
+[[files]]
 file = "config/additional-additions-config.json"
 hash = "27542a7f42b2bf26921cb5cffa5110b3aa551a62f8720822d2108daaeef2cba5"
 
@@ -22,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2e010ff15134d7ade5845e93fa931d0b8e4e1c25d02afa58240a61d2df4d6d79"
+hash = "007a86ffcf236115a41f60db5c15eb029c3bad3a4a5417ccbfec10fa86546e17"
 
 [[files]]
 file = "config/create-client.toml"
@@ -645,6 +649,10 @@ file = "config/universal-graves.json"
 hash = "391f67a49d80a5475dd81c027464a626d1917821eed201c862e542ad90ca71d7"
 
 [[files]]
+file = "config/waila/waila_plugins.json"
+hash = "21d44162389fb840df314c50764b51b520067017f92979737877aa709d8a5dbf"
+
+[[files]]
 file = "config/waystones.toml"
 hash = "461d0c4d128f39c779f9b496c2680edcca8ca12fa8241752a40dddb3dd8d3e3c"
 
@@ -1086,6 +1094,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "5e98198bbc6e9dcdbabfa02da042032bbe42c4c6e75488e279d7babb23296999"
+metafile = true
+
+[[files]]
+file = "mods/rpg-hud-fabric.pw.toml"
+hash = "c6405aef8aedfbc5bd13833ba4f2f170d6aa8a351ae4c9b50383162e10e4ddfe"
 metafile = true
 
 [[files]]
