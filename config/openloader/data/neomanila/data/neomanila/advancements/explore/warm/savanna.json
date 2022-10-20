@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Savanna"
+        },
+        "description": {
+            "text": "Find a Savanna biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:acacia_sapling"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:savanna"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/warm"
+}

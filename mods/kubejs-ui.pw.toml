@@ -1,0 +1,13 @@
+name = "KubeJS UI"
+filename = "kubejs-ui-fabric-1802.1.8-build.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db3bd9c6bc2ba583d5ae7c748a29b1757a38849f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3819623
+project-id = 423490

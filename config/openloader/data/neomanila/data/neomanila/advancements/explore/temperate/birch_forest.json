@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Birch Forest"
+        },
+        "description": {
+            "text": "Find a Birch Forest biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:birch_sapling"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:birch_forest"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/forest"
+}

@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Warped Forest"
+        },
+        "description": {
+            "text": "Find a Warped Forest biome in the Nether."
+        },
+        "icon": {
+            "item": "minecraft:warped_nylium"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:warped_forest"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/nether/soul_sand_valley"
+}

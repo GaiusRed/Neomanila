@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Savanna Plateau"
+        },
+        "description": {
+            "text": "Find a Savanna Plateau biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:acacia_log"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:savanna_plateau"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/warm/savanna"
+}

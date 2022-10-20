@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Vindicator"
+        },
+        "description": {
+            "text": "Defeat at least one Vindicator."
+        },
+        "icon": {
+            "item": "minecraft:vindicator_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:vindicator"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/tier2/ravager"
+}

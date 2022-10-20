@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Overworld Passive"
+        },
+        "description": {
+            "text": "Defeat non-villager, non-cat passive mobs in the overworld to survive."
+        },
+        "icon": {
+            "item": "minecraft:sheep_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "welcome": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "neomanila:exterminate"
+}

@@ -5,6 +5,10 @@ file = "config/additional-additions-config.json"
 hash = "27542a7f42b2bf26921cb5cffa5110b3aa551a62f8720822d2108daaeef2cba5"
 
 [[files]]
+file = "config/advancementinfo.json5"
+hash = "7cc7ebf079d9efc86f47211a11735782f998f22edb7766f1e3ba1730a909e4c0"
+
+[[files]]
 file = "config/adventurez.json5"
 hash = "7b18c128bfe44eb77f2de7da86a0bd0248da03d6febc0ca6cc7cd38f9757aa0d"
 
@@ -18,7 +22,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "841f1a95ce0ea5d71f6e164367e1c774bf80e8eeedcd5270aa3353f0ebd8c6a8"
+hash = "d168add60164697fe6605bd4813031f8fcd1a7ef9c2116cd2102ef7519769a1d"
 
 [[files]]
 file = "config/create-client.toml"
@@ -33,8 +37,612 @@ file = "config/noindium.json"
 hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exploit.json"
+hash = "99b9b02ad6f4a4da83d5be6adae421ad7ab1360c827a52ced244b703ba715478"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore.json"
+hash = "41e6e006c3e2347cf0795b51c1f07fc1de06e08b485da19075003c1711385cdd"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic.json"
+hash = "46e6a71cd69643d9b3d29b8f67bcb4bb353747b9bd2b978e3dc23e9638d6eb48"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/cold_ocean.json"
+hash = "a21de190d31eea4cc8c56ee76a1c6d13e783f50ed95bacca84ff79f9602a5cde"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/deep_cold_ocean.json"
+hash = "062ab442c0ff8c5f2729d15b9313f0c41686a5e4e77b18736b66cc2fe2961556"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/deep_frozen_ocean.json"
+hash = "5eca42ab60f3e346ed7611b1c42469f479a3d16f696c4b372b20a12eb8b80b76"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/deep_lukewarm_ocean.json"
+hash = "4112d33a30e9663a136e231249da4e930f04d82b3dc69dc0e5a166b0d2f5eacd"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/deep_ocean.json"
+hash = "e4180155da15c363cdfde0e72f0f540d8a2eed086499a8acef1342bbdeec66c7"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/frozen_ocean.json"
+hash = "ae022cd38dde0b49fba475676399ec7fe70e4b6363accbabb1da84933a561217"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/frozen_river.json"
+hash = "2b1a5ec01efba10cd25800e327b12d0162733ba4312da6f13605e3fc262ee21f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/lukewarm_ocean.json"
+hash = "638eeaf00a77a20b85df34007c6c45bcba0b07ca81fd55b10c6f444f97e6ad88"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/ocean.json"
+hash = "1085decfb4416fcf0202663cf82cd12463f0826b1b52767d7c32806e87565095"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/river.json"
+hash = "632c48159b2447bc06aa202f85efb2442f9278f659401bc08591d610a03cd086"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/warm_ocean.json"
+hash = "516c10326a55dae4c9bbdb84d7e6ed88300e32dde7883dbc68cc6e1117a7ef8a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave.json"
+hash = "7db09b9c8909f49095a54ee67d0e709fda95cf39f0915a3685be53c7b9d9ca63"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/dripstone_caves.json"
+hash = "0ea546f17bb9ee78266dbe559b4b7ae15f21120f3b8a3504bcd80de2a0fcd8b3"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/lush_caves.json"
+hash = "2b03a73093eaa14f284e296d6c2b4d3a700a20885020891a5b009556fdbe67ec"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold.json"
+hash = "4815ed7d62d90f2e731a63d7f83dbb101ab659d7acd9ec049d8bd5897363fdd4"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold/old_growth_pine_taiga.json"
+hash = "6900184d303f18b7e94096e4c633cad07dac94d2844cc68be4b220f82d08b754"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold/old_growth_spruce_taiga.json"
+hash = "7be90e4e3b481d2615caae236a2333f725f3fcf324060635066cab1cb9437ca5"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold/stony_shore.json"
+hash = "b351e2e5166af2130cd8e3386e133f7f2c4b3f1d44f6fc2f66b62b37b72aebd1"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold/taiga.json"
+hash = "b769763dc5976b9d381603de9c97fd72be681ff7079c853bbc88361351880ed0"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold/windswept_forest.json"
+hash = "a66fc0582e363cc883f8852c4ea75f5609e6aaccc569b74993ed9cb81a7b9e76"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold/windswept_gravelly_hills.json"
+hash = "6f1a976464957b7b8a3be035724980b459e53b38fc60ef3d215b105dabba79ab"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold/windswept_hills.json"
+hash = "ffebb8817088e4ace389f4695fcadb5e8d4c947248fd9669a2068a57124b1732"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether.json"
+hash = "5732f847ad86e14cfe4e4a9ee538ae9a9b128c4cb8d88a915f0e5163483ecb6c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/basalt_deltas.json"
+hash = "4433d195db27d51988e2e342b846278c3f9573498d0779ca8ceda9d5cf12087d"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/crimson_forest.json"
+hash = "424dafae6b50b769fe7248275261399df6df414deb6d04a64a5b0c84d2993ca8"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/nether_wastes.json"
+hash = "68dbe656e8dbc9e3ad3a5860bf53da4339bcdface1a7ec471416d450f1c6132e"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/soul_sand_valley.json"
+hash = "74d1c6dfa3b6328473e4dc360c8c9964e5513c43c0ce6bf6a96ea28b21ec85cf"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/warped_forest.json"
+hash = "e7d7c6d9026a4cccef7b98dcf9ad694047750ecbadae490ae4c37f88bbff6a3a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow.json"
+hash = "a2c29692c1ce2dda54b0546c41f1f79f5cfbae574d6a970662cb88cf9a7d6ecd"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/frozen_peaks.json"
+hash = "c3cd83abb32fd382282bafe4efd28a4d66fc410bce90bde102814e030de12c01"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/grove.json"
+hash = "a7c1aa3b5d1bc3aa107accb17256bd2a9bdfe5d23d5c65459bae79ce4ca3484a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/ice_spikes.json"
+hash = "5158d21e1c859007ba16178ffdc8473fd5cb9aa7f381f3164b7780f3b7cda9f5"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/jagged_peaks.json"
+hash = "d9a250a65c1b3f9a8b02e64ddbb617d83cba0dd97cbc2a5485a6be9f1f579c63"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/snowy_beach.json"
+hash = "6c7887eebc74a865d5582b7d952cae7468eae598dbb63a76a70ee3a99ff84388"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/snowy_plains.json"
+hash = "f2c441a44b99b8de6c2f4e6c96fe79645b34a8c56497bf21d818dce7efe1ed0c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/snowy_slopes.json"
+hash = "4f7ccc1053d27e4403d6a58e81b2e0dd07d275b4a831bead8648b56de96538b5"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/snowy_taiga.json"
+hash = "59e1334be1589c37ee0c070e75622980ba478cb6d320d1a1e5c6a95f46a17cd3"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate.json"
+hash = "da2b95cbb4930b155ac25701c09f965fd345e8d12bf7f5d329dde7fb586b476e"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/bamboo_jungle.json"
+hash = "2f92107a1a207650d944d36b03241a33dc01f5b5d7fbebe833440bf9c5d2e29f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/beach.json"
+hash = "1c1273a430bfe54d767c82b7cc22c426631c834697331b52b98763508f6aa1ec"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/birch_forest.json"
+hash = "1319a6bfe723af04962d2bfd288366b52e883f268a31ded6f2f8aee8ba4c4e07"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/dark_forest.json"
+hash = "0deffa8808404272e9b7dcfcdd83c39839c9f3b5cb19c45e2b0cd1d044d90b3c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/flower_forest.json"
+hash = "9ca4de19d536600e5c8f8026af2c6d88c5f92214e39bb0b90a584d075033cf42"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/forest.json"
+hash = "9c39962943071a3a0637e9dbe87bab1dfdbdde4d3a767573b0af1787da6b11cf"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/jungle.json"
+hash = "bad5c7e750fbfbfce5d52ad76b43d85375be4dd45867aedb6ef62cd0cc4f1c17"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/meadow.json"
+hash = "bfc82dc2b4ebaad49f8271bd7599dd53b6e9bafd9ccea6c8eab8adbf2411a5ef"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/mushroom_fields.json"
+hash = "dd7e2c77d793bd0e7d9c3daeb4389ec28545d97e9b5313c3ca0864f4bf2a1514"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/old_growth_birch_forest.json"
+hash = "6044efd46a6495911d79b8e0ba5aaa70b2df88a2f5648c840916f4797874d165"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/plains.json"
+hash = "718fbb2912d0195658328dd137dee15bc2c5a699d88045402949bcfed2822557"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/sparse_jungle.json"
+hash = "c841eb82cafc0445d74c6b738a7032ee431f95d6daedb466c7dd525110c3d3d2"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/stony_peaks.json"
+hash = "66e7b0c26bec561c5db10af6e234f2bbdd8b4d7042a40c2a2c504096db1320ab"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/sunflower_plains.json"
+hash = "7cf31574af5adc7ac5d35c608e37fec6921d6ee685e53fe893f6b23c70f8b556"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/swamp.json"
+hash = "7cda253cbc6c1c6749dda73090ec97efc2c314c3f609817cbecb90176f90823b"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/theend.json"
+hash = "cb9b759957d1c017d338d95c8e5561b5179467a1fb0f9442172f063d081ac185"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/theend/end_barrens.json"
+hash = "c009dd8d1b68624bb97edba0bd662a258287f73eb6ddc48ffff371cb391148ab"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/theend/end_highlands.json"
+hash = "404ef55de1d92b8eafe8d7057b0606fcb9b2bc4c4ddc4ce66a9b084a5e50e1c4"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/theend/end_midlands.json"
+hash = "bdb532b1f8b42f929b9e448a944e545b21182b78105df9200d1db8fe9769a510"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/theend/small_end_islands.json"
+hash = "916d2f34f0013ebea8cdc480a380fa567d859b1bfd6df6985e9c01ae37b05053"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/theend/the_end.json"
+hash = "f0f421eda044109e38413c3214de1528322f079f4f5694cd924a2f315887d12d"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm.json"
+hash = "a3e2d7f1fe9c90213cd554784d714fe4206f753f765c17c79257ccb6cae14c1c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/badlands.json"
+hash = "cf63467fd08fbd51fb5d965fa4cf68e0025d3b986245e7faf40df1bb0a3f4f08"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/desert.json"
+hash = "d1ee5aa6bb8d36d2dd47ce187415db828eca95478b6ba2352a5ac1e9badb41d0"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/eroded_badlands.json"
+hash = "bfd3ca997c968cbde57b09d3e45df6e782bc286c4bada4b4947b8ab0c0ffb567"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/savanna.json"
+hash = "7ac06ff91abd9bcc72c067437191d17032486b44c7ab5fd3b033528617573692"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/savanna_plateau.json"
+hash = "381b92c22559c74ebf8bc849bf28601a5319a28e0ff75db5344a5eab389a9e4a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/windswept_savanna.json"
+hash = "e1db581790be0641cf456e602ade35e45d737a9c77db85ac70d1525850a84f6a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/wooded_badlands.json"
+hash = "333f1687789e0ff9cfd4c5712026b454d361227d6f31d06605f0aeca2fd44205"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate.json"
+hash = "0026ffa25c3ebca0075f40da9b886004c44d83ebfa55c036f1b26de54c5433da"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_aquatic.json"
+hash = "b705ead2826ecc50a44c99e1b12518cd7aef61dc59b03be3d24e0d1f39f34a2b"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_aquatic/axolotl.json"
+hash = "cfc3e447f60e5c54d6eea46917e8447d7ac6ffd022c8f715f150cfef87172d1f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_aquatic/cod.json"
+hash = "f749209b5eec73d13a514a25a7c8fef4ec803b48e193721c283d163317a46d98"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_aquatic/glow_squid.json"
+hash = "e138cc1d18e425b50dec95f4c963ed31a3776b72733474da96c5badfd76b866c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_aquatic/pufferfish.json"
+hash = "3f6c7b8d5105e677367cc9cfe809da7d4b4074452adfe835b686d974851d03c1"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_aquatic/salmon.json"
+hash = "3006326a9e103177bd748a9cdb7c10ddd23245d58a02eae26f387d9a6cbdf9a4"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_aquatic/squid.json"
+hash = "0f10ca68a9eb0730f40657ca1fbc9590845f4a2348a08d1385fe1ec9ec9df7ea"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_aquatic/tropical_fish.json"
+hash = "b4bddccf2abc85c0dd50d5ba7576b958a21bcaba9c178435b322abe6e3008ae5"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld.json"
+hash = "b407ed03b923e579f9106fccf194e22ae6effddf1756b396f6e59c53509be739"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/bat.json"
+hash = "2d9bdb2c6ce65d85cefb4607133c25f9998b8eb9f27251f3c4c98bedb6015f71"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/chicken.json"
+hash = "8842dab567f4acc1f1666d81addbc0e77f90cd14159a382c07d650bc855c4c8d"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/cow.json"
+hash = "bed6dd8a3a74cd80ac00abcecbdda9ad78f775b8080538bd8dbd5a4cbc23abec"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/donkey.json"
+hash = "edf9a0f4ae736baf7bfdd0c5a2e79eedf132f4ac7c0d5baffbc5ca962e7ce068"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/fox.json"
+hash = "542a30b976e4b0f356be096239c416f4bcf6eaf1fda544e1a3e403d950fd18d7"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/horse.json"
+hash = "dae08fab92c235d780b8b934829be1f5383504442c87f556bb3cde935eda103f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/mooshroom.json"
+hash = "41ab538c6a8816f4ea97f876e00958fccc5f9b5f9ce10bd03149ca19da2d2b69"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/mule.json"
+hash = "8c06a3fb2d9b111d637bca650647750d8a4383d23fc41bd08ddec8d74a7ade94"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/ocelot.json"
+hash = "1e8e504e92ea419c30e45117e1c57caba066160075acda1024da0c7d3750c6c0"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/parrot.json"
+hash = "a5a419da60e5b2489c1200ee435a672105428e169273be28ba8acf7d520d5f1f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/pig.json"
+hash = "55828d5b3f5da46a5cf8c95a3fb6f8a96c830a1654920b50833397259fedaf72"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/rabbit.json"
+hash = "315e18be2ae032f645bf8396be9a90dd1e846bcb39bce9725fb55e4322ccdc9b"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/sheep.json"
+hash = "7da86dfb8847b1527092a7be821f92bbd897115fce5797fc6d7fff6b2dfb107b"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/skeleton_horse.json"
+hash = "c3da85ca7cd04b4fc5a1db8d08a6cb55611201d455d8a9af9d61e484c2b2c187"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/snow_golem.json"
+hash = "fa7acc99713d3d362d35d440c549228d075a8a3a32d05280a6e759ec501fedb3"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/strider.json"
+hash = "89883c0e4516ef880e30afc84e43dce6c7e6f9add15563e6ea4990c0548b0d29"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/survive_overworld/turtle.json"
+hash = "c169279e754d90d7cd66b2288c036c73b18d5025d107a68802eb15e1d4ac3a7a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1.json"
+hash = "c1a98a3bdc37ea6611490f4c408cd87e2dcab02b93a241802841d5de5c1dc1aa"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/cave_spider.json"
+hash = "60d72227d01ef19b9662f641f05324cd93b4dffa0d0135177d22ad5d44374f58"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/dolphin.json"
+hash = "aae3c1df7b716902e9202eca21a33d83c93d9851dc63754aa8beb7f437e28c0b"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/enderman.json"
+hash = "685382dc0ad9191aa105a3a4f9747ed07ab48cc3a83f357613be2b582dafaf5e"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/goat.json"
+hash = "7192592e80eb4c6750ee86312033ecf029cfbe8198088f247e877232d594e943"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/llama.json"
+hash = "d006288aa82ad09dbb5ccddd18bea4b2ae1ee1bf58e29755a1b8db498357d1e3"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/panda.json"
+hash = "7c5e6c9dc92845c3c8f5148ded9bc0d0721009c5b58707e3de8221df3df94c2b"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/piglin.json"
+hash = "bda05f837e4b066afe9d6e37e10815406556f1f30a10c214640df1e9a3fa1812"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/polar_bear.json"
+hash = "f6a7add2ad1008965e682db1c135af0544804c6040369f53d6c094780f681a61"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/spider.json"
+hash = "5b8fc17c939ce33891716d63261cc9cf1ba04ea76db0358bdd7be0695099e868"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/wolf.json"
+hash = "6bbde88e41d45fc8593ea1a400da81fc14da88f9a44b77e8f36b9b9373b045fd"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier1/zombified_piglin.json"
+hash = "42629f7c99216ef55d116e128c99f3e595b8dc99bd0169a9936b5625f4be65d0"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2.json"
+hash = "04fb1a28163f1f796f1fd296abf07fb42df63182385702317fa1f3bdd189f477"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/blaze.json"
+hash = "8f816b11dac27eb260262060aa1b61a70806e24d16c02cc02e4083534c9c7665"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/creeper.json"
+hash = "399b3b2d104d577f61670353b4d9aed183b31ac38213c166245272758742556d"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/drowned.json"
+hash = "b1a99c8346a9bcf7acf263f82d4080a584a0537aef9c8c47866eaeb49d28a8fb"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/elder_guardian.json"
+hash = "1f2f5e48683215b07293ddcca65365fb1ce0183de47990881be47080e02c738f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/endermite.json"
+hash = "c89972661369c4b9e1baed0f05b7daf1425efa34e3af06ccdc18c98518ccf25c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/evoker.json"
+hash = "23df1f39accd133f3dd9735a021d708ca33bf07e61d5317b5c7a450d65815e39"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/ghast.json"
+hash = "11c9f770f446fb0ba93046de099eded27185ee19b35aaf7b9b557c992c097fbe"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/guardian.json"
+hash = "42139eb1549f0be788e08dd539b636f116b9445715a94f13e3e0a4435ab32f1c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/hoglin.json"
+hash = "7f77b7714d79ce562bf9fbeae48be2e2b65a3022af4e71365f180fa7fc9ebe43"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/husk.json"
+hash = "f6f5897d538093aaa2bd477b977816cf3b18831b8aad27d0a80f9d3ac8800752"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/phantom.json"
+hash = "e5235987bd445c5815c74a4ffd3093a42cecd6ba4e55226f8b796591568a3662"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/piglin_brute.json"
+hash = "254a3f41a8f7a6ef2fa267d165975ef1ede4b1cb1dd88c9360daa8c001598cc0"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/pillager.json"
+hash = "ccc2515273bb9b3c54b0a85dbc350753636cfe9757982f44b37c7377f8970be5"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/ravager.json"
+hash = "287b4610f53083cf285efdeef3dbe931937972e0da885519804e6446bb99c8e4"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/shulker.json"
+hash = "d8daf5d2a519baffdcbe7b9aef2da0a6e732bd40763a60c76c2ae089f90977b2"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/silverfish.json"
+hash = "e93551386790435797109a82a4561083511e895f71d3f3db49eeed9bd8777de7"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/skeleton.json"
+hash = "ed7aa6a353d3cb1d85e0c5da813ecf87a236f8f5a167c60207b3883f0d7f3701"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/slime.json"
+hash = "d05083e14fb947efa43e7ca4a2b681943e26944522299add264a1ac8086a3a6c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/stray.json"
+hash = "cd49890353a788aedf96ff4c646785fb6c3b3c85a12966ed49436a716ea41b77"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/vex.json"
+hash = "6857bff541e9ce60722a0f07f9ef0bf490b61924982b958a6e584499e706126e"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/vindicator.json"
+hash = "5ea6f5dc7b460d147a0624a6cdd172e5bf3ef0057e024dc61226d1cb955e4d1f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/witch.json"
+hash = "f1116258449b5eede703e4b9409da0e97c4b4fc51b5ea5702326fa4aef50eee0"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/wither_skeleton.json"
+hash = "8bb4db7f37838379acab92cdec62d457d0e3f65b6483b770a3cb50151ca530b1"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/zoglin.json"
+hash = "7b5cbc96b81e3798848e7debdb1e6d2c988110b08f1c3b5514bddc0ae2c2d483"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/zombie.json"
+hash = "7a629c22b56495ad051de1da59cd8a347315ce9fc8dac564f92f1b71b13de34f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier2/zombie_villager.json"
+hash = "d7b893307ea31e1f91c1ae9bf5583457ad11208f2c3678ff9731fa639f0d7594"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier3.json"
+hash = "922793d0567078791daec45f2a6f09299a7f9bee0dea3f7b425550e4105f042e"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier3/ender_dragon.json"
+hash = "f44c774e1d11278b89a75fa7d12a813cd858245672b851cea9292edcef8bfc0c"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/tier3/wither.json"
+hash = "33fb5f0bc7496aa6c374bcb7156a531c09a2f1338fda654681f8744aef339c18"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/root.json"
+hash = "57fed5ff969c4b5bc91f55d32f152a69fd4193250ce4db046dca9235f121d12f"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward0_verycommon.json"
+hash = "e0884a2de086cdd3b320c80fee65e50503ab8fa315be5a4fcd6af1b66c4fe25b"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward1_common.json"
+hash = "c5b5f9a8e8679d6dee3feeae07a7e809304664e02064e08e6cea6e47800b8a76"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward2_uncommon.json"
+hash = "457fbc1d09c72749520cd67ac2bcb89fd39413eee407079eb1bb5944b20e0b2d"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward3_rare.json"
+hash = "282efa2f95184d686d7eeeb38a7028dab949663585cc604cb92ed4aa3bf00fdc"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward4_veryrare.json"
+hash = "2adf23c3e12885e3ed1f5daaf6f7d742a67a54f0f174042496efe7bbcd4029bd"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/loot_tables/welcome.json"
+hash = "f12f0d6f992c6912c04c98f65e55076385a8d25f05509d951b5a59f35c5230d1"
+
+[[files]]
+file = "config/openloader/data/neomanila/pack.mcmeta"
+hash = "5d99f4fb1d290f4a12ecbefc8befad7180502e0cabd096ed8e5932a67c09293f"
+
+[[files]]
+file = "config/openloader/resources/neomanila/assets/minecraft/lang/en_us.json"
+hash = "c6103e3968f144bdc5084aa033f190fbb35a6e3be3860cc5c63ea8cd3b31de27"
+
+[[files]]
+file = "config/openloader/resources/neomanila/pack.mcmeta"
+hash = "391a8b0138bcee1bb00f2bc4167bffa3feb8d820911790e2d94129aec8cb6077"
+
+[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "e623c8ebd735bddba54a43a6e38c5d5a312716ccf6fdb41ad2fd5c3216d93786"
+
+[[files]]
+file = "config/unforgivingvoid_defaultdimensionconfig.json"
+hash = "66eda50afa91d0ccb548be9b4d17eefc1f3a0b6c89620594f39b4293ba9b7764"
+
+[[files]]
+file = "config/universal-graves.json"
+hash = "391f67a49d80a5475dd81c027464a626d1917821eed201c862e542ad90ca71d7"
 
 [[files]]
 file = "config/waystones.toml"
@@ -46,7 +654,7 @@ hash = "2d95c8626c5c6c196b71459c670546e86535045d10bd898bbe996c97239f68f0"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "2408e8f602d540958d5c1a8ae19572088eebfeb1a8a8ef765ae5634771d86b2a"
+hash = "ea0931b7eb272f0becbe9241018b6ce65a06a89fd18c3283e4526022194127f6"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -58,11 +666,83 @@ hash = "281e889f45aca80ef2d2110516e7ad95d2561f066778561aa96dd62a2669237a"
 
 [[files]]
 file = "icon.png"
-hash = "b25ae159c8ab2eb67fd9c66a93152c4b8272222228e41c0df5134027abe37fe8"
+hash = "e1d4b4ee3a18b8b8b05d3b2c831782931d15b3e715b244ecc997b75bd5f59136"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/icon.png"
+hash = "e1d4b4ee3a18b8b8b05d3b2c831782931d15b3e715b244ecc997b75bd5f59136"
+
+[[files]]
+file = "kubejs/client_scripts/mainmenu.js"
+hash = "9a9ac0364978b542ce6858dce6e03fa5632b536b405f3eb86dacb28bafbb17be"
 
 [[files]]
 file = "kubejs/client_scripts/rei_blacklist.js"
 hash = "1a9e928ec8e8e32accf6714a42a897659221de78410feb5fca5048211cbfdbee"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "2fd593f75b70603d88c6c477dca87f3aaf68964d900aea09646a9228378c93b5"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "9ea977dc641c570f04a385a39daba79b53db9adcacf245b9c99e04386053a900"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/armorer.json"
+hash = "c1fc5cc863b8860ced59770314d1862ea59edd3eb5269568104d95e830fddae5"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/butcher.json"
+hash = "11d8ea10c73ecf8f19d0c37a4e9a51ce5035bc9a01c74638e26331812f1ebd7f"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/cartographer.json"
+hash = "44b551b2a0bf703e88eb4ef4bcf026355baab7a0786c215f757506c960f08e77"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/cleric.json"
+hash = "9224a312130896a43a50e3bd0c7d81040f202b0019e93dcbb3f0e752519c8941"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/farmer.json"
+hash = "96e7d6ba334398ccf41a5443644e866dc4c05a8d23c276a64cfe17db1fcaa188"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/fisherman.json"
+hash = "034321ebb060a78d0220b54f59ac8b870dd561565b8be740e2a928d3bcbcd3de"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/fletcher.json"
+hash = "796ef377423b32889b0c21ae7d6ad82f7c138791629ad230b2a9e78a91278f92"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/leatherworker.json"
+hash = "dc28713f161a17f9d0ef1f21cddcdcd7f0a21960189121c1beffaf7d957aacab"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/librarian.json"
+hash = "5ce6d1b5ba29b29b881f04f5b18c3185809ff1745503f0c0d9c9d6440337595f"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/mason.json"
+hash = "362cddfca25162318184f713d8332a1427ae9e56806389b59991acaec671f136"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/shepherd.json"
+hash = "1cb2dd9c9acb4bddf272e5a33f5d51bf7fa3f5ca46e08649969d8c9ac96f9b53"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/toolsmith.json"
+hash = "a441765193290ac14897abb819bfb6f7068099d1b9ae259e6eb6a00e28a9d1cf"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/wandering_trader.json"
+hash = "04c0586c62624331f4fe8e0144a3cc56466fc1f969f26b97aa191448f4c10b6c"
+
+[[files]]
+file = "kubejs/data/numismatic-overhaul/villager_trades/weaponsmith.json"
+hash = "3eef3c828e1cf6c3f05d4d0e55895fe28ee7b6c513be3f3488eabca3f2fe15fc"
 
 [[files]]
 file = "kubejs/server_scripts/loot_tables/entities.js"
@@ -96,6 +776,16 @@ metafile = true
 [[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "da95efac9a62a949a29f1ea9d3c21a974b12a3c17e06c107fee4cd1cea705931"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
@@ -254,11 +944,6 @@ hash = "a897e5231f592352693862d4595a95b1fac25445ee4e70842c5e1cd32c74d05c"
 metafile = true
 
 [[files]]
-file = "mods/entity-banners.pw.toml"
-hash = "1d7b9d27ca2f50203b632fcf2a5b2eb2a2ae4cd115a53f996ae347e7e29ebd6b"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
@@ -289,6 +974,11 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/fireplace-lib.pw.toml"
+hash = "22219eb256aca49af51f3709528dbd6a4c372e317e94e24627f97a37af5fb39e"
+metafile = true
+
+[[files]]
 file = "mods/friendly-fire.pw.toml"
 hash = "ae6c194d4128e11d45e6f1b5aa63742cc808e15fce4ef7c96224d722e6c3b3e5"
 metafile = true
@@ -306,6 +996,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-ui.pw.toml"
+hash = "cc44d714f19845969e8abfca84fdd94245bf0ccb55b0fad27ac006c021bfb659"
 metafile = true
 
 [[files]]
@@ -329,8 +1024,33 @@ hash = "dd61d78730d5f3c8da01edbdf5b577fd85e20cd42e6ab6aa00e93ad29f9b96fc"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "a115a703ac767250970be74009834f37e796e9d0e65caa47a12a75c34d903c61"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "e9c12e125dc3e4f5d9172a5866655be12f558c6a58c3753aa3f7a9db4c365efc"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
 
 [[files]]
@@ -379,6 +1099,11 @@ hash = "2eee5d1b3fb8ea47ff93dcab8c9cb9bd66b26433ab9304b1ab87c7281c1e2141"
 metafile = true
 
 [[files]]
+file = "mods/simply-houses.pw.toml"
+hash = "69a3332b51c57a80a1a892b570a0d2de6b77927db38c0c98ebc70f2c57325441"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "d1c9cc74fceec4556cab433e04a581b41b394881563f9ba2b33e85d7f7324a13"
 metafile = true
@@ -424,8 +1149,23 @@ hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
 metafile = true
 
 [[files]]
+file = "mods/unforgiving-void.pw.toml"
+hash = "9695b991893680d9e45c92f89eecb845ccec2a96a46e0a66bd57f35cf26a2c86"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "7949ca44b40c64a5ddcd1f1ca33b89ed8af392ca1f468c74411a8d3fe260baf6"
+metafile = true
+
+[[files]]
 file = "mods/waystones-fabric.pw.toml"
 hash = "7ea5b6cc7b9173248890027044a2e18edd202996dc2302a6d2030d405981ef97"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
 metafile = true
 
 [[files]]
@@ -452,6 +1192,14 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
+
+[[files]]
+file = "patchouli_books/welcome/book.json"
+hash = "116f3495fe7cceba5b1e007f5ba43f299c2aa176a4f248f74bc9082be151df68"
+
+[[files]]
+file = "patchouli_books/welcome/en_us/categories/root.json"
+hash = "72ad929c3e4ba6e1335f4dc4425e959fb542eafa25807b683571997d3c982700"
 
 [[files]]
 file = "resourcepacks/fantasy-ores-by-cesarzorak.pw.toml"

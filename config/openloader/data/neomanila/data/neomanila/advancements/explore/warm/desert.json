@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Desert"
+        },
+        "description": {
+            "text": "Find a Desert biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:cactus"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:desert"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/warm/savanna_plateau"
+}

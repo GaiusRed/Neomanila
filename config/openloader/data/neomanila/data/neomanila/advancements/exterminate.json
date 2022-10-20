@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "text": "eXterminate",
+            "color": "red"
+        },
+        "description": {
+            "text": "Defeat different kinds of mobs!"
+        },
+        "icon": {
+            "item": "minecraft:red_banner"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Welcome": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "neomanila:root"
+}

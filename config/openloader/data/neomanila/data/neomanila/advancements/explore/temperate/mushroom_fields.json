@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Mushroom Fields"
+        },
+        "description": {
+            "text": "Find a Mushroom Fields biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:red_mushroom"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:mushroom_fields"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward4_veryrare"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/stony_peaks"
+}

@@ -17,7 +17,7 @@ deathpoints:true
 oldDeathpoints:false
 distance:1
 showCoords:true
-lockNorth:false
+lockNorth:true
 zoom:1
 minimapSize:0
 chunkGrid:-1

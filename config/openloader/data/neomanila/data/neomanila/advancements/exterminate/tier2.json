@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Mid Tier"
+        },
+        "description": {
+            "text": "Hunt hostile mid-tier mobs."
+        },
+        "icon": {
+            "item": "minecraft:zombie_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "welcome": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "neomanila:exterminate"
+}

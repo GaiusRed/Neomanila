@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Wooded Badlands"
+        },
+        "description": {
+            "text": "Find a Wooded Badlands biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:terracotta"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:wooded_badlands"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/warm/badlands"
+}

@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Old Growth Spruce Taiga"
+        },
+        "description": {
+            "text": "Find a Old Growth Spruce Taiga biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:podzol"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:old_growth_spruce_taiga"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/cold/old_growth_pine_taiga"
+}
