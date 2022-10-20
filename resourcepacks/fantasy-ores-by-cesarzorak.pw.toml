@@ -1,13 +1,13 @@
 name = "Fantasy Ores by CesarZorak"
-filename = "Fantasy_Ores[1.16.x to 1.19.x][v5].zip"
+filename = "Fantasy_Ores_v6_shiny_ores.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c0383f44f15a300af3d560b5cd6003e9d8b123ae"
+hash = "0d14e6cbbf076a6396a05853dd162de2f0f7603c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3898585
+file-id = 3968779
 project-id = 379899
