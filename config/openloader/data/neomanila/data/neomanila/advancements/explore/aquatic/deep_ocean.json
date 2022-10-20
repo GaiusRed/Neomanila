@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Deep Ocean"
+        },
+        "description": {
+            "text": "Find a Deep Ocean biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:gravel"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_ocean"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/aquatic/ocean"
+}

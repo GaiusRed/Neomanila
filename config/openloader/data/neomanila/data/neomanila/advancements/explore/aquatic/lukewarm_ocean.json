@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Lukewarm Ocean"
+        },
+        "description": {
+            "text": "Find a Lukewarm Ocean biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:kelp"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:lukewarm_ocean"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/aquatic/warm_ocean"
+}

@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Beach"
+        },
+        "description": {
+            "text": "Find a Beach biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:sand"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:beach"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/sparse_jungle"
+}

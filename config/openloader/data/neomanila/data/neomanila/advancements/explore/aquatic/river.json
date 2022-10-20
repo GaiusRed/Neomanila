@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "River"
+        },
+        "description": {
+            "text": "Find a River biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:salmon"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:river"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/aquatic"
+}

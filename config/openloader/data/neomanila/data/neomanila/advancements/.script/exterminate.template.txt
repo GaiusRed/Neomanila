@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "%MOB%"
+        },
+        "description": {
+            "text": "Defeat at least one %MOB%."
+        },
+        "icon": {
+            "item": "minecraft:%ICON%"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": %HIDDEN%
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:%MOB_ID%"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:%REWARD%"
+        ]
+    },
+    "parent": "neomanila:exterminate/%PARENT%"
+}

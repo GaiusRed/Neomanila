@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Dripstone Caves"
+        },
+        "description": {
+            "text": "Find a Dripstone Caves biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:dripstone_block"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:dripstone_caves"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/cave"
+}

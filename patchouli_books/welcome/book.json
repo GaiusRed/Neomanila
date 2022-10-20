@@ -1,0 +1,6 @@
+{
+    "name": "Neomanila",
+    "landing_text": "Welcome, $(playername), to the Neomanila Modpack!$(br2)$(l)Note:/$ Use the [$(k:advancements)] key to check out the new Advancements. Also, right-click $(item)coins/$ while holding them to put them in the coin pouch in your bag.",
+    "pamphlet": true,
+    "version": 1
+}

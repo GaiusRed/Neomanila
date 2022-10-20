@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "eXplore",
+            "color": "blue"
+        },
+        "description": {
+            "text": "Start earning coins by eXploring new biomes!"
+        },
+        "icon": {
+            "item": "minecraft:blue_banner"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "welcome": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:coin_gold_one"
+        ]
+    },
+    "parent": "neomanila:root"
+}

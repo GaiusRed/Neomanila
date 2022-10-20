@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "%BIOME%"
+        },
+        "description": {
+            "text": "Find a %BIOME% biome in the %CATEGORY%."
+        },
+        "icon": {
+            "item": "minecraft:%ICON%"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": %HIDDEN%
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:%BIOME_ID%"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:%REWARD%"
+        ]
+    },
+    "parent": "neomanila:explore/%PARENT%"
+}

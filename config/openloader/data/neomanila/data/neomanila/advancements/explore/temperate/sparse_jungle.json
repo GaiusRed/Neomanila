@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Sparse Jungle"
+        },
+        "description": {
+            "text": "Find a Sparse Jungle biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:jungle_log"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:sparse_jungle"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/jungle"
+}

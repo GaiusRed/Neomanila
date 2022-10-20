@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Nether"
+        },
+        "description": {
+            "text": "Explore even deeper below the crust of this planet!"
+        },
+        "icon": {
+            "item": "minecraft:magma_block"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "welcome": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "neomanila:explore"
+}

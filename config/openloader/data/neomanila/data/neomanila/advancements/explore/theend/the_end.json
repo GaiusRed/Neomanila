@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Moon"
+        },
+        "description": {
+            "text": "Find a Moon biome in the End."
+        },
+        "icon": {
+            "item": "minecraft:end_stone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:the_end"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/theend"
+}

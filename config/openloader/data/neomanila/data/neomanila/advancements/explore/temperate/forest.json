@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Forest"
+        },
+        "description": {
+            "text": "Find a Forest biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:birch_log"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:forest"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/plains"
+}

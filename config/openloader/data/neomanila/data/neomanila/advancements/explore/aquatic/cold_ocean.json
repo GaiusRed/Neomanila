@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Cold Ocean"
+        },
+        "description": {
+            "text": "Find a Cold Ocean biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:kelp"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:cold_ocean"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/aquatic/deep_ocean"
+}

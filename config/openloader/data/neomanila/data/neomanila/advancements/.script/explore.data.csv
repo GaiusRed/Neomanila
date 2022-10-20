@@ -1,0 +1,60 @@
+snow,Frozen Peaks,packed_ice,frozen_peaks,reward2_uncommon,Overworld
+snow,Grove,spruce_leaves,grove,reward2_uncommon,Overworld
+snow,Ice Spikes,ice,ice_spikes,reward2_uncommon,Overworld
+snow,Jagged Peaks,coal,jagged_peaks,reward2_uncommon,Overworld
+snow,Snowy Beach,sand,snowy_beach,reward2_uncommon,Overworld
+snow,Snowy Plains,spruce_sapling,snowy_plains,reward2_uncommon,Overworld
+snow,Snowy Slopes,stone,snowy_slopes,reward2_uncommon,Overworld
+snow,Snowy Taiga,large_fern,snowy_taiga,reward2_uncommon,Overworld
+cold,Taiga,large_fern,taiga,reward1_common,Overworld
+cold,Old Growth Pine Taiga,dead_bush,old_growth_pine_taiga,reward2_uncommon,Overworld
+cold,Old Growth Spruce Taiga,podzol,old_growth_spruce_taiga,reward2_uncommon,Overworld
+cold,Stony Shore,stone,stony_shore,reward2_uncommon,Overworld
+cold,Windswept Forest,oak_sapling,windswept_forest,reward2_uncommon,Overworld
+cold,Windswept Gravelly Hills,gravel,windswept_gravelly_hills,reward2_uncommon,Overworld
+cold,Windswept Hills,oak_leaves,windswept_hills,reward2_uncommon,Overworld
+temperate,Plains,cornflower,plains,reward1_common,Overworld
+temperate,Forest,birch_log,forest,reward1_common,Overworld
+temperate,Birch Forest,birch_sapling,birch_forest,reward1_common,Overworld
+temperate,Dark Forest,dark_oak_log,dark_forest,reward1_common,Overworld
+temperate,Jungle,jungle_sapling,jungle,reward1_common,Overworld
+temperate,Sparse Jungle,jungle_log,sparse_jungle,reward1_common,Overworld
+temperate,Beach,sand,beach,reward1_common,Overworld
+temperate,Sunflower Plains,sunflower,sunflower_plains,reward2_uncommon,Overworld
+temperate,Flower Forest,peony,flower_forest,reward2_uncommon,Overworld
+temperate,Old Growth Birch Forest,birch_leaves,old_growth_birch_forest,reward2_uncommon,Overworld
+temperate,Swamp,lily_pad,swamp,reward2_uncommon,Overworld
+temperate,Bamboo Jungle,bamboo,bamboo_jungle,reward2_uncommon,Overworld
+temperate,Meadow,dandelion,meadow,reward2_uncommon,Overworld
+temperate,Stony Peaks,stone,stony_peaks,reward2_uncommon,Overworld
+temperate,Mushroom Fields,red_mushroom,mushroom_fields,reward4_veryrare,Overworld
+warm,Savanna,acacia_sapling,savanna,reward1_common,Overworld
+warm,Savanna Plateau,acacia_log,savanna_plateau,reward1_common,Overworld
+warm,Desert,cactus,desert,reward2_uncommon,Overworld
+warm,Badlands,red_sand,badlands,reward2_uncommon,Overworld
+warm,Wooded Badlands,terracotta,wooded_badlands,reward2_uncommon,Overworld
+warm,Eroded Badlands,dead_bush,eroded_badlands,reward2_uncommon,Overworld
+warm,Windswept Savanna,acacia_leaves,windswept_savanna,reward3_rare,Overworld
+aquatic,River,salmon,river,reward1_common,Overworld
+aquatic,Warm Ocean,bubble_coral_block,warm_ocean,reward1_common,Overworld
+aquatic,Lukewarm Ocean,kelp,lukewarm_ocean,reward1_common,Overworld
+aquatic,Deep Lukewarm Ocean,seagrass,deep_lukewarm_ocean,reward1_common,Overworld
+aquatic,Ocean,clay,ocean,reward1_common,Overworld
+aquatic,Deep Ocean,gravel,deep_ocean,reward1_common,Overworld
+aquatic,Cold Ocean,kelp,cold_ocean,reward1_common,Overworld
+aquatic,Deep Cold Ocean,seagrass,deep_cold_ocean,reward1_common,Overworld
+aquatic,Frozen River,ice,frozen_river,reward2_uncommon,Overworld
+aquatic,Frozen Ocean,blue_ice,frozen_ocean,reward2_uncommon,Overworld
+aquatic,Deep Frozen Ocean,ice,deep_frozen_ocean,reward2_uncommon,Overworld
+cave,Dripstone Caves,dripstone_block,dripstone_caves,reward1_common,Overworld
+cave,Lush Caves,flowering_azalea_leaves,lush_caves,reward2_uncommon,Overworld
+nether,Nether Wastes,netherrack,nether_wastes,reward1_common,Nether
+nether,Soul Sand Valley,soul_sand,soul_sand_valley,reward2_uncommon,Nether
+nether,Crimson Forest,crimson_nylium,crimson_forest,reward1_common,Nether
+nether,Warped Forest,warped_nylium,warped_forest,reward2_uncommon,Nether
+nether,Basalt Deltas,basalt,basalt_deltas,reward2_uncommon,Nether
+theend,Moon,end_stone,the_end,reward1_common,End
+theend,Asteroids,end_stone,small_end_islands,reward2_uncommon,End
+theend,Moon (shattered),end_stone,end_midlands,reward2_uncommon,End
+theend,Moon (what remains),end_stone,end_highlands,reward2_uncommon,End
+theend,Edge of Space,end_stone,end_barrens,reward2_uncommon,End

@@ -3,13 +3,10 @@
 A `Zero Magic` Fabric Modpack w/ Create v0.5 for Minecraft 1.18.2
 
 ## Features
-- To be listed here in the future...
+- Economic system tied to Villagers and Advancements
 
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
-
-### Tech
-- Create (Fabric)
 
 ### Featured Mods
 - Additional Additions
@@ -29,16 +26,18 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Chalk
 - Charm of Undying (Fabric)
 - Comforts (Fabric)
+- Create (Fabric)
 - Creeper Overhaul
 - Ecologics
 - Enhanced Mushrooms
-- Entity Banners
 - Fantasy Ores by CesarZorak
 - Fantasy Ores Modded by CesarZorak
 - Farmer's Delight (Fabric)
 - Goblin Traders (Fabric)
 - Iron Chests
 - Moog's Voyager Structures
+- Nature's Compass (Fabric)
+- Numismatic Overhaul
 - Quartz Elevator
 - Simple Copper Pipes
 - Simply Houses
@@ -51,6 +50,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Wilder World
 
 ### Utilities
+- AdvancementInfo
 - AppleSkin
 - BetterF3
 - Companion (Fabric)
@@ -59,11 +59,13 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Friendly Fire
 - megane
 - Not Enough Crashes
+- Patchouli
 - Roughly Enough Items (REI)
 - Replanter
 - Shards
 - Trinket Shulker Boxes (Fabric)
 - Trinkets
+- Unforgiving Void
 - Universal Graves
 - What The Hell Is That (WTHIT)
 - Xaero's Minimap
@@ -76,6 +78,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Indium
 - Phosphor
 - KubeJS
+- KubeJS UI
 - Architectury API
 - bad packets
 - Balm
@@ -87,7 +90,10 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - EntityCulling
 - Fabric Language Kotlin
 - FerriteCore
+- Fireplace Lib
 - GeckoLib
+- Open Loader
+- oωo
 - PlayerAnimator
 - Pollen
 - Rhino
