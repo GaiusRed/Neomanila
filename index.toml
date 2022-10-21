@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "007a86ffcf236115a41f60db5c15eb029c3bad3a4a5417ccbfec10fa86546e17"
+hash = "6882cc7ff3ef011e58936326ca792b0da0ca19f1000a4c1599096c3cd183e970"
 
 [[files]]
 file = "config/create-client.toml"
@@ -43,6 +43,10 @@ hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exploit.json"
 hash = "99b9b02ad6f4a4da83d5be6adae421ad7ab1360c827a52ced244b703ba715478"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exploit/basic_workshop.json"
+hash = "a229eb61f9a5d8fb2ab9d275cc4f82e540533e222dd51bfd4a2d444c055c9373"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore.json"
@@ -623,6 +627,10 @@ hash = "2adf23c3e12885e3ed1f5daaf6f7d742a67a54f0f174042496efe7bbcd4029bd"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/loot_tables/welcome.json"
 hash = "f12f0d6f992c6912c04c98f65e55076385a8d25f05509d951b5a59f35c5230d1"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/recipes/welcome.json"
+hash = "8a709c4d930de1aa806614cdf7c94a0335499f658a01128f734680090d78157d"
 
 [[files]]
 file = "config/openloader/data/neomanila/pack.mcmeta"
@@ -1208,11 +1216,27 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/welcome/book.json"
-hash = "116f3495fe7cceba5b1e007f5ba43f299c2aa176a4f248f74bc9082be151df68"
+hash = "749910ee376b50d6bb76cc09c09e79eb389783317070e674ce178e2b85dfab49"
 
 [[files]]
 file = "patchouli_books/welcome/en_us/categories/root.json"
 hash = "72ad929c3e4ba6e1335f4dc4425e959fb542eafa25807b683571997d3c982700"
+
+[[files]]
+file = "patchouli_books/welcome/en_us/entries/coins.json"
+hash = "abc4f433e9fc59ebe10005ecfe5af7dc885449dc5c8a060d922608ca6aec68a5"
+
+[[files]]
+file = "patchouli_books/welcome/en_us/entries/exploit.json"
+hash = "21bb5a7e57e2ef07f9e1c1efba8d6d0e9ed4a64dcdc73c548eaf3e9df1957fa6"
+
+[[files]]
+file = "patchouli_books/welcome/en_us/entries/explore.json"
+hash = "56df0a722213df2c44ef5a0b9682b3bcf0f795a71180c71e75729f02dfef757a"
+
+[[files]]
+file = "patchouli_books/welcome/en_us/entries/exterminate.json"
+hash = "d848de8942e550ca66ab3f867b65e95e4ae1b5b4c30d5217516b6aadc8254fbd"
 
 [[files]]
 file = "resourcepacks/fantasy-ores-by-cesarzorak.pw.toml"

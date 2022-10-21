@@ -1,0 +1,16 @@
+{
+    "name": "Advancements: eXplore",
+    "icon": "minecraft:blue_banner",
+    "category": "patchouli:root",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Neomanila $(l)eXplore/$ Advancements can be accessed via the [$(k:advancements)] key. Use the $(item)Nature's Compass/$ to help you find biomes and earn coins:$(br2)Common biomes: 50 $(item)Bronze coins/$$(br)Uncommon biomes: 1 $(item)Silver coin/$$(br)Rare biomes: 50 $(item)Silver coins/$$(br)Very rare biomes: 1 $(item)Gold coin/$$(br2)A bedroll is also convenient when far from your respawn point."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "naturescompass:natures_compass",
+            "recipe2": "comforts:sleeping_bag_white"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Advancements: eXterminate",
+    "icon": "minecraft:red_banner",
+    "category": "patchouli:root",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Neomanila $(l)eXterminate/$ Advancements can be accessed via the [$(k:advancements)] key.$(br2)Every time you defeat most mobs for the first time, you will earn some coins:$(br2)V.Common mobs: 1 $(item)Bronze coin/$$(br)Common mobs: 50 $(item)Bronze coins/$$(br)Uncommon mobs: 1 $(item)Silver coin/$$(br)Rare mobs: 50 $(item)Silver coins/$$(br)Very rare mobs: 1 $(item)Gold coin/$"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:totem_of_undying",
+            "text": "$(thing)Evokers/$ are pillagers that spawn during raids and on $(thing)Woodland Mansions/$ that drop $(item)Totem of Undying/$ trinket. This item, when equipped, saves you from death once.$(br2)Don't forget to right-click your coins while holding them in your hand. This will put them in the coin pouch in your inventory, which does $(l)not/$ drop when you die."
+        }
+    ]
+}
