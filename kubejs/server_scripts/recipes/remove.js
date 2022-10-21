@@ -4,6 +4,10 @@
 onEvent('recipes', (event) => {
     // Remove recipes by recipe ID.
     [
+        // Additional Additions
+        'additionaladditions:fried_egg',
+        'additionaladditions:rope',
+
         // Blockus
         'blockus:blockus_barrels_into_vanilla_barrel',
         'blockus:ender_block',
@@ -38,7 +42,6 @@ onEvent('recipes', (event) => {
         // Ecologics
         'ecologics:moss_block',
         'ecologics:surface_moss',
-
     ].forEach((recipeID) => event.remove({ id: recipeID }));
 
     // Remove recipes by input.

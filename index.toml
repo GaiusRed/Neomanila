@@ -26,7 +26,11 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6882cc7ff3ef011e58936326ca792b0da0ca19f1000a4c1599096c3cd183e970"
+hash = "ce793f2300883a9ee8e0c59307d287f47eeb21810395da3f4e7fc0b83c79eb49"
+
+[[files]]
+file = "config/bettercombat/client.json5"
+hash = "6832bb19e811f79fb476803b561e7beed7ea4c3e4ec873557788b04ce27c2bee"
 
 [[files]]
 file = "config/create-client.toml"
@@ -46,7 +50,15 @@ hash = "99b9b02ad6f4a4da83d5be6adae421ad7ab1360c827a52ced244b703ba715478"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exploit/basic_workshop.json"
-hash = "a229eb61f9a5d8fb2ab9d275cc4f82e540533e222dd51bfd4a2d444c055c9373"
+hash = "48137bddbd065d741f0de166f38a7489e3a73c19ca4c30535c16630d0e0ed18a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exploit/delvers_kit.json"
+hash = "513b9aa51fdf42f26e04c41bdc952a947a4e72793d329ad22d0696cfc61a53a9"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exploit/farm_to_table.json"
+hash = "3232715f067f3270f495d8489efda2658cf6e4bcf26d65d33c8883209762500e"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore.json"
@@ -694,7 +706,7 @@ hash = "9a9ac0364978b542ce6858dce6e03fa5632b536b405f3eb86dacb28bafbb17be"
 
 [[files]]
 file = "kubejs/client_scripts/rei_blacklist.js"
-hash = "1a9e928ec8e8e32accf6714a42a897659221de78410feb5fca5048211cbfdbee"
+hash = "3ad9af00541556ce55499930a7d3409de512d1eb59646806a5877bc5cf03afda"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -766,7 +778,7 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "db2bb858e5ce060fcca8d537b3d947e6c5f854415970c646ccc0560904924037"
+hash = "8b57fba7a2248855ade76864eec52bc6e4d3295c20ab65ec2a948871788ea9e8"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
@@ -1216,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/welcome/book.json"
-hash = "749910ee376b50d6bb76cc09c09e79eb389783317070e674ce178e2b85dfab49"
+hash = "d0d7148f9286eda7f5f5f55651748b1f856bcacca6e4915b8a9a4ef5eddf0647"
 
 [[files]]
 file = "patchouli_books/welcome/en_us/categories/root.json"
@@ -1228,7 +1240,7 @@ hash = "abc4f433e9fc59ebe10005ecfe5af7dc885449dc5c8a060d922608ca6aec68a5"
 
 [[files]]
 file = "patchouli_books/welcome/en_us/entries/exploit.json"
-hash = "21bb5a7e57e2ef07f9e1c1efba8d6d0e9ed4a64dcdc73c548eaf3e9df1957fa6"
+hash = "78859ac8dccd532b8d391558aa2b8bd03f9f58b18e15bcb10fbbf77c59d674c7"
 
 [[files]]
 file = "patchouli_books/welcome/en_us/entries/explore.json"
