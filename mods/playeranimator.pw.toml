@@ -1,13 +1,13 @@
 name = "playerAnimator"
-filename = "player-animation-lib-fabric-0.3.5.jar"
+filename = "player-animation-lib-fabric-0.4.0-test1+1.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "609ce8c1335facce2ed81dded9809fbbe958dfd5"
+hash = "7333e9c19d1d9f1545cd1a6f76da7dde035ea739"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3955876
+file-id = 3987590
 project-id = 658587

@@ -39,6 +39,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Nature's Compass (Fabric)
 - Numismatic Overhaul
 - Quartz Elevator
+- RPG-Hud
 - Simple Copper Pipes
 - Simply Houses
 - Simply Swords

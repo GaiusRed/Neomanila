@@ -1,0 +1,16 @@
+{
+    "name": "Coins & Economy",
+    "icon": "numismatic-overhaul:gold_coin",
+    "category": "patchouli:root",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can earn coins as rewards from Neomanila Advancements, or when selling to Villagers.$(br2)100 $(item)Bronze coins/$ = 1 $(item)Silver coin/$$(br)100 $(item)Silver coins/$ = 1 $(item)Gold coin/$$(br2)Don't forget to right-click your coins while holding them in your hand. This will put them in the coin pouch in your inventory, which does $(l)not/$ drop when you die."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "numismatic-overhaul:shop",
+            "text": "You spend these coins by trading them to other players via the Shop, or to buy items from Villagers."
+        }
+    ]
+}
