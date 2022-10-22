@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Lunar Cave"
+        },
+        "description": {
+            "text": "Find a Lunar Cave biome in the End."
+        },
+        "icon": {
+            "item": "minecraft:end_stone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "betterend:empty_end_cave"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/theend/empty_aurora_cave"
+}

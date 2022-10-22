@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Umbrella Jungle"
+        },
+        "description": {
+            "text": "Find a Umbrella Jungle biome in the End."
+        },
+        "icon": {
+            "item": "minecraft:end_stone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "betterend:umbrella_jungle"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/theend/ice_starfield"
+}

@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Dragon"
+        },
+        "description": {
+            "text": "Defeat at least one Dragon."
+        },
+        "icon": {
+            "item": "adventurez:spawn_dragon"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:dragon"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/passive_land/snow_golem"
+}

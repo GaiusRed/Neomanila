@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Lush Aurora Cave"
+        },
+        "description": {
+            "text": "Find a Lush Aurora Cave biome in the End."
+        },
+        "icon": {
+            "item": "minecraft:end_stone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "betterend:lush_aurora_cave"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward3_rare"
+        ]
+    },
+    "parent": "neomanila:explore/theend/umbra_valley"
+}

@@ -1,12 +1,12 @@
 name = "Neomanila"
 author = "erik@gaius.red"
-version = "0.6.3"
+version = "0.6.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a0e991e4c1fb5b793bc334bafd6ad0f39b69bf3a7f93b9b1c76929184d20a948"
+hash = "c633c297f2fad7d1df0d4f434d27c4a3a45185e078ea83fdc6c3b735c9db942b"
 
 [versions]
 fabric = "0.14.9"

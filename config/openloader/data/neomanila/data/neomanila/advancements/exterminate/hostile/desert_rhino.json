@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Desert Rhino"
+        },
+        "description": {
+            "text": "Defeat at least one Desert Rhino."
+        },
+        "icon": {
+            "item": "adventurez:spawn_desert_rhino"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:desert_rhino"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/hostile/blaze_guardian"
+}

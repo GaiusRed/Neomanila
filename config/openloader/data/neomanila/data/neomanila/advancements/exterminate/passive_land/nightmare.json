@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Nightmare"
+        },
+        "description": {
+            "text": "Defeat at least one Nightmare."
+        },
+        "icon": {
+            "item": "adventurez:spawn_nightmare"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:nightmare"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/passive_land/iguana"
+}

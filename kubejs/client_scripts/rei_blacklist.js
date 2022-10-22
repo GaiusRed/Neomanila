@@ -10,6 +10,8 @@ onEvent('rei.hide.items', event => {
 		'minecraft:structure_block',
 		'minecraft:structure_void',
 		'minecraft:debug_stick',
+		'additionaladditions:fried_egg',
+		'additionaladditions:rope',
 		'adventurez:gilded_netherite_fragment',
 		'adventurez:stone_golem_helmet',
 		'adventurez:stone_golem_chestplate',
@@ -18,7 +20,7 @@ onEvent('rei.hide.items', event => {
 		'twigs:mossy_bricks',
 		'twigs:mossy_brick_stairs',
 		'twigs:mossy_brick_slab',
-		'twigs:mossy_brick_wall'
+		'twigs:mossy_brick_wall',
 	]);
 });
 

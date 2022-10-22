@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Ender Whale"
+        },
+        "description": {
+            "text": "Defeat at least one Ender Whale."
+        },
+        "icon": {
+            "item": "adventurez:spawn_ender_whale"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:ender_whale"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/passive_land/dragon"
+}

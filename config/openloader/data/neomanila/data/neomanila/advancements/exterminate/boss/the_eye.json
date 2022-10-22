@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "The Eye"
+        },
+        "description": {
+            "text": "Defeat at least one The Eye."
+        },
+        "icon": {
+            "item": "adventurez:spawn_the_eye"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:the_eye"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward4_veryrare"
+        ]
+    },
+    "parent": "neomanila:exterminate/boss/stone_golem"
+}

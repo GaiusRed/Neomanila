@@ -7,9 +7,9 @@
             "text": "Defeat at least one %MOB%."
         },
         "icon": {
-            "item": "minecraft:%ICON%"
+            "item": "%MOB_PACK%:%ICON%"
         },
-        "frame": "task",
+        "frame": "%FRAME%",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": %HIDDEN%
@@ -19,7 +19,7 @@
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
                 "entity": {
-                    "type": "minecraft:%MOB_ID%"
+                    "type": "%MOB_PACK%:%MOB_ID%"
                 }
             }
         }

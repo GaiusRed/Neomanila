@@ -7,9 +7,9 @@
             "text": "Find a %BIOME% biome in the %CATEGORY%."
         },
         "icon": {
-            "item": "minecraft:%ICON%"
+            "item": "%ICON%"
         },
-        "frame": "task",
+        "frame": "%FRAME%",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": %HIDDEN%
@@ -18,7 +18,7 @@
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:%BIOME_ID%"
+                "biome": "%BIOME_PACK%:%BIOME_ID%"
             }
         }
     },

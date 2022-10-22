@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Mammoth"
+        },
+        "description": {
+            "text": "Defeat at least one Mammoth."
+        },
+        "icon": {
+            "item": "adventurez:spawn_mammoth"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:mammoth"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:exterminate/neutral/brown_fungus"
+}

@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "End Slime"
+        },
+        "description": {
+            "text": "Defeat at least one End Slime."
+        },
+        "icon": {
+            "item": "betterend:spawn_egg_end_slime"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "betterend:end_slime"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/hostile/soul_reaper"
+}

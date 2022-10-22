@@ -9,7 +9,7 @@ bobView:false
 maxFps:120
 renderDistance:10
 simulationDistance:8
-guiScale:2
+guiScale:3
 mipmapLevels:0
 skipMultiplayerWarning:true
 soundCategory_master:0.5

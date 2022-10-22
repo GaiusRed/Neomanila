@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Piglin Beast"
+        },
+        "description": {
+            "text": "Defeat at least one Piglin Beast."
+        },
+        "icon": {
+            "item": "adventurez:spawn_piglin_beast"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:piglin_beast"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/hostile/orc"
+}

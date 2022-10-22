@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Enderwarthog"
+        },
+        "description": {
+            "text": "Defeat at least one Enderwarthog."
+        },
+        "icon": {
+            "item": "adventurez:spawn_enderwarthog"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:enderwarthog"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/hostile/desert_rhino"
+}

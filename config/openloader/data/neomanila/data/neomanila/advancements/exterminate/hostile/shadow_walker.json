@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Shadow Walker"
+        },
+        "description": {
+            "text": "Defeat at least one Shadow Walker."
+        },
+        "icon": {
+            "item": "betterend:spawn_egg_shadow_walker"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "betterend:shadow_walker"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward3_rare"
+        ]
+    },
+    "parent": "neomanila:exterminate/hostile/summoner"
+}

@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Rose Quartz Caves"
+        },
+        "description": {
+            "text": "Find a Rose Quartz Caves biome in the Overworld."
+        },
+        "icon": {
+            "item": "ce:rose_quartz"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "ce:rose_quartz_caves"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward3_rare"
+        ]
+    },
+    "parent": "neomanila:explore/cave/goop_caves"
+}

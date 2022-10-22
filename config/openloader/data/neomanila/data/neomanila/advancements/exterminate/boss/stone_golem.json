@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Blackstone Golem"
+        },
+        "description": {
+            "text": "Defeat at least one Blackstone Golem."
+        },
+        "icon": {
+            "item": "adventurez:spawn_stone_golem"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "adventurez:stone_golem"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward4_veryrare"
+        ]
+    },
+    "parent": "neomanila:exterminate/boss/wither"
+}
