@@ -88,3 +88,6 @@ passive_aqua,End Fish,end_fish,reward2_uncommon,spawn_egg_end_fish,betterend
 hostile,End Slime,end_slime,reward2_uncommon,spawn_egg_end_slime,betterend
 hostile,Shadow Walker,shadow_walker,reward3_rare,spawn_egg_shadow_walker,betterend
 passive_land,Silk Moth,silk_moth,reward3_rare,spawn_egg_silk_moth,betterend
+passive_land,Goop,goop,reward2_uncommon,goop_spawn_egg,ce
+neutral,Dripstone Tortoise,dripstone_tortoise,reward2_uncommon,dripstone_tortoise_spawn_egg,ce
+hostile,Cruncher,cruncher,reward2_uncommon,cruncher_spawn_egg,ce

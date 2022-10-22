@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "900d78fcc08fd766e07d655301f029443ec1b64b9a8d2758a1258552b9249bff"
+hash = "1438fb4701fde4e041622025ac081ab8e6bd7fa4f0274a8e4b5fd0ca45408357"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -133,8 +133,16 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cav
 hash = "0ea546f17bb9ee78266dbe559b4b7ae15f21120f3b8a3504bcd80de2a0fcd8b3"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/goop_caves.json"
+hash = "9efb00c4304aa6039569b1be994fb54d63cfd3455669be9b4b864135b9cf8487"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/lush_caves.json"
 hash = "2b03a73093eaa14f284e296d6c2b4d3a700a20885020891a5b009556fdbe67ec"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/rose_quartz_caves.json"
+hash = "bc74d2ade46a18111e19c70e288c512d195905201f45e64f7566bd12ac9b9964"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold.json"
@@ -501,6 +509,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "eaaa6ba2326d282aeffa8f56417de82828b1faa5c3a1b8b9b8758c3dc2758781"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/cruncher.json"
+hash = "ba5ccd9ccd47bb0fc73da76a08ab324e0524b8ce6601b719801fc1833f7399e2"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/desert_rhino.json"
 hash = "7d63e7fb9c45c2379747823590d2c1078410dbdb1fcd7e75896d009019b505fa"
 
@@ -511,6 +523,10 @@ hash = "70d200a2f57e146651ad7cfc65ba83d37d12f7654b3c7c98f3e1a984c6a8bccb"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/elder_guardian.json"
 hash = "9f5aba8658859bbb8206692457aee9c4095e630bbbe5c048210fbb5c68e044fc"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/end_slime.json"
+hash = "fe329f0524a05dbaa6e6c9bf136c937ea80a73d478d9eff529f8519f5780bab2"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/endermite.json"
@@ -569,6 +585,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "fc71df97d2350f53ce2845e4bdcd802e5ad5ab26abfc4a79020101f3785ac404"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/shadow_walker.json"
+hash = "23e06e45b662b03fc05f3b0c415a6c6c1b7e98baa02119a00d3ac02642f7103d"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/shaman.json"
 hash = "50b2849b7ffbea57a3758756335156249a8cb500be0ac9c439cdcdb6107fd268"
 
@@ -606,7 +626,7 @@ hash = "d5567ca3c984b08fd5e9d4f57807e6b1004c4ffd9b5e2b5e6985d34e6e5d8e89"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/vex.json"
-hash = "7de27dcf18d3b0b6fa76b799898165ade4fe87cf212305d099afbb89710a511e"
+hash = "de9d89ec2ca62ea9048d4220eacb443c353e82f7da8f9a075a349abfcebf65aa"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/vindicator.json"
@@ -649,6 +669,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "ddd49f47db6a43fadef704cac9a1225621bdd70d57ccbfe56cd34d07bc351c10"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/neutral/dripstone_tortoise.json"
+hash = "32d9d356f7224a7993a25555a01d31764177f4109658c42628e8a5daab69f14e"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/neutral/enderman.json"
 hash = "33542521ec109107a22e545b6bafa5787d1aa4bc4c26c5958b6d566390f0866f"
 
@@ -666,7 +690,7 @@ hash = "1e5c06fbb2c57dca8bf502fc03b23ead0e7fe4e0df8136bebeb161e1a24d1d3b"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/neutral/panda.json"
-hash = "1e6ad3097a07f99e92081f3912e8a201b2cf1bc068bded8c70400f7718bf0b83"
+hash = "8aca876e37ae770e303b8e12e12fc9d4be39c6c78a37a12ff22921abc9452749"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/neutral/piglin.json"
@@ -705,6 +729,14 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "781502e5072f699bed9a89f0b3c7ee1e6e0b533292328098467f1b73706b83da"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_aqua/cubozoa.json"
+hash = "01ca027e962026fa43c5e33fbf0a800edf50c4f3861b247913d586a5c386bea5"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_aqua/end_fish.json"
+hash = "69b9395dc75e6447eeb8251295e95c78acaf752c3c360a321946406470231f83"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_aqua/glow_squid.json"
 hash = "acf75eac9590fef360933cbaddc0dbb1d26a1f420ac759ba65bf020516ae6e50"
 
@@ -741,6 +773,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "00e631b083fc768cd1b1ba21ceba31f014f823b8d3ec0f3cab60f96781f0418f"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/cubozoa.json"
+hash = "96b8fd73d0a15c1d71db977ace4622d792d5b71873564b1f9bae29fa168b2715"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/deer.json"
 hash = "d91251cb5ef5a3d229ecb6fb3f79a11418dc84118dceaae3c89c90a61bc5b582"
 
@@ -753,12 +789,20 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "f55c885519e841d13c9cbfd9c996c3e51076d59809b3e433e13941ab5af4d19f"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/dragonfly.json"
+hash = "996c0c271be668343bd2aabcb2975a9308e94a3fd628115fe4f407fa1ab9eab7"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/ender_whale.json"
 hash = "372fea215d342edcfa3362962e2bc98daae033a71be3d60c8aa30fd938a4bf6c"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/fox.json"
 hash = "9c2fbd56ec6c52f542d08bb07a0a769971adb41f8e55e5b759ed8b062fc8b3c4"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/goop.json"
+hash = "588cfcc026dcc6d930ec2d4ee9d6e4aba8d26840625a98639623bfa97a67eeba"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/horse.json"
@@ -770,7 +814,7 @@ hash = "ab48ac9e19929982b735a0ab956fa2c63db95a5919a128f06e59680f3740a304"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/mooshroom.json"
-hash = "1d1fb761b4027a7bc7d35a7b7c75bed94baabe9a2e9253a23fe77734a62160be"
+hash = "65b0afceed405967f0f4f239983d2a4600db795e501e6c3827a9d850ebce6348"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/mule.json"
@@ -799,6 +843,10 @@ hash = "0e65c6693fb2904e6f28f8324b13c3cbf701bc99f335a9aee4286558ab327fcf"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/sheep.json"
 hash = "1588ea2b7ee3786dba4813b06af09a22d38a39258b35fbecc5f12a5067b1df7a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/silk_moth.json"
+hash = "23a6aeb6b6cc5f56033a6084dc87454850169bad95888e8c077edfd9a39201c2"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/skeleton_horse.json"

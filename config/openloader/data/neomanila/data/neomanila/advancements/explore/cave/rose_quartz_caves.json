@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Mooshroom"
+            "text": "Rose Quartz Caves"
         },
         "description": {
-            "text": "Defeat at least one Mooshroom."
+            "text": "Find a Rose Quartz Caves biome in the Overworld."
         },
         "icon": {
-            "item": "minecraft:mooshroom_spawn_egg"
+            "item": "ce:rose_quartz"
         },
         "frame": "task",
         "show_toast": true,
@@ -16,11 +16,9 @@
     },
     "criteria": {
         "Claim": {
-            "trigger": "minecraft:player_killed_entity",
+            "trigger": "minecraft:location",
             "conditions": {
-                "entity": {
-                    "type": "minecraft:mooshroom"
-                }
+                "biome": "ce:rose_quartz_caves"
             }
         }
     },
@@ -29,5 +27,5 @@
             "neomanila:reward3_rare"
         ]
     },
-    "parent": "neomanila:exterminate/passive_land/goop"
+    "parent": "neomanila:explore/cave/goop_caves"
 }

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Mooshroom"
+            "text": "Cruncher"
         },
         "description": {
-            "text": "Defeat at least one Mooshroom."
+            "text": "Defeat at least one Cruncher."
         },
         "icon": {
-            "item": "minecraft:mooshroom_spawn_egg"
+            "item": "ce:cruncher_spawn_egg"
         },
         "frame": "task",
         "show_toast": true,
@@ -19,15 +19,15 @@
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
                 "entity": {
-                    "type": "minecraft:mooshroom"
+                    "type": "ce:cruncher"
                 }
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:reward3_rare"
+            "neomanila:reward2_uncommon"
         ]
     },
-    "parent": "neomanila:exterminate/passive_land/goop"
+    "parent": "neomanila:exterminate/hostile/end_slime"
 }
