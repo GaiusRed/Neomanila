@@ -1,33 +1,33 @@
 {
     "display": {
         "title": {
-            "text": "%MOB%"
+            "text": "Tropical Fish"
         },
         "description": {
-            "text": "Defeat at least one %MOB%."
+            "text": "Defeat at least one Tropical Fish."
         },
         "icon": {
-            "item": "%MOB_PACK%:%ICON%"
+            "item": "minecraft:tropical_fish_spawn_egg"
         },
-        "frame": "%FRAME%",
+        "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": %HIDDEN%
+        "hidden": false
     },
     "criteria": {
         "Claim": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
                 "entity": {
-                    "type": "%MOB_PACK%:%MOB_ID%"
+                    "type": "minecraft:tropical_fish"
                 }
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:%REWARD%"
+            "neomanila:reward0_verycommon"
         ]
     },
-    "parent": "neomanila:exterminate/%PARENT%"
+    "parent": "neomanila:exterminate/passive_aqua/squid"
 }

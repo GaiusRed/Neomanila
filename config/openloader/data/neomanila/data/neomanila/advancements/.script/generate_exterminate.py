@@ -14,10 +14,10 @@ def main():
         sortedlist = sorted(reader, key=lambda row: row[3])
         for i, line in enumerate(sortedlist):
             process(template, line[0], line[1],
-                    line[2], line[3], line[4], chain)
+                    line[2], line[3], line[4], line[5], chain)
 
 
-def process(template, parent, mob, mob_id, reward, icon, chain):
+def process(template, parent, mob, mob_id, reward, icon, mob_package, chain):
     if not os.path.isdir('./../exterminate/' + parent):
         os.mkdir('./../exterminate/' + parent)
 
@@ -40,8 +40,15 @@ def process(template, parent, mob, mob_id, reward, icon, chain):
     if icon == "":
         icon = mob_id + "_spawn_egg"
 
+    if mob_package == "":
+        mob_package = "minecraft"
+
+    frame = "task"
+    if "4_veryrare" in reward:
+        frame = "challenge"
+
     mobString = template.replace("%MOB%", mob).replace(
-        "%ICON%", icon).replace("%MOB_ID%", mob_id).replace("%REWARD%", reward).replace("%PARENT%", parent).replace("%HIDDEN%", hidden)
+        "%ICON%", icon).replace("%MOB_ID%", mob_id).replace("%REWARD%", reward).replace("%PARENT%", parent).replace("%HIDDEN%", hidden).replace("%MOB_PACK%", mob_package).replace("%FRAME%", frame)
 
     with open(mobPath, 'w') as mobFile:
         mobFile.write(mobString)

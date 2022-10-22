@@ -9,7 +9,7 @@
         "icon": {
             "item": "minecraft:red_mushroom"
         },
-        "frame": "task",
+        "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": true

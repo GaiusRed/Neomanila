@@ -1,33 +1,33 @@
 {
     "display": {
         "title": {
-            "text": "%MOB%"
+            "text": "Pillager"
         },
         "description": {
-            "text": "Defeat at least one %MOB%."
+            "text": "Defeat at least one Pillager."
         },
         "icon": {
-            "item": "%MOB_PACK%:%ICON%"
+            "item": "minecraft:pillager_spawn_egg"
         },
-        "frame": "%FRAME%",
+        "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": %HIDDEN%
+        "hidden": false
     },
     "criteria": {
         "Claim": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
                 "entity": {
-                    "type": "%MOB_PACK%:%MOB_ID%"
+                    "type": "minecraft:pillager"
                 }
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:%REWARD%"
+            "neomanila:reward0_verycommon"
         ]
     },
-    "parent": "neomanila:exterminate/%PARENT%"
+    "parent": "neomanila:exterminate/hostile/husk"
 }

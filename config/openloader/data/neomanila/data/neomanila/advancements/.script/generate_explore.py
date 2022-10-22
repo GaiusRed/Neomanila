@@ -35,8 +35,12 @@ def process(template, parent, biome, icon, biome_id, reward, category, chain):
     if "1_common" in reward:
         hidden = "false"
 
+    frame = "task"
+    if "4_veryrare" in reward:
+        frame = "challenge"
+
     biomeString = template.replace("%BIOME%", biome).replace(
-        "%ICON%", icon).replace("%BIOME_ID%", biome_id).replace("%REWARD%", reward).replace("%PARENT%", parent).replace("%HIDDEN%", hidden).replace("%CATEGORY%", category)
+        "%ICON%", icon).replace("%BIOME_ID%", biome_id).replace("%REWARD%", reward).replace("%PARENT%", parent).replace("%HIDDEN%", hidden).replace("%CATEGORY%", category).replace("%FRAME%", frame)
 
     with open(biomePath, 'w') as biomeFile:
         biomeFile.write(biomeString)
