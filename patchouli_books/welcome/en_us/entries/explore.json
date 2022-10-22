@@ -11,6 +11,16 @@
             "type": "patchouli:crafting",
             "recipe": "naturescompass:natures_compass",
             "recipe2": "comforts:sleeping_bag_white"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Deep Underground",
+            "text": "Also called 'The Nether' by the locals, this planet's ancient civilization have left technology that allows instantaneous travel between the surface down to a massive subterranean cave system near its core.$(br2)The $(item)Nether Portal/$ can be constructed by placing $(item)Obsidian/$ blocks in a rectangular shape, with at least 2x3 gap inside. Once the portal's frame is complete, light a fire inside to open it."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "The Lunar Ring",
+            "text": "High above this planet's atmosphere, a flat ring and a small moon can be found with just enough air for some creatures to survive. The ancient civilization that left the $(item)Nether Portal/$ also travelled towards the Lunar Ring using a similar technology called the $(item)End Portal/$. The way to create these have been lost but there are still some underground ruins where you can find an active portal.$(br2)The locals tell a tale when the night sky had two large moons instead of the Lunar Ring: Dragonstone and Old Chorus. A cataclysmic event pushed one into the other, shattering Old Chorus and leaving only Dragonstone's core, along with the Lunar Ring that we can see today."
         }
     ]
 }

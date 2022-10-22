@@ -82,3 +82,9 @@ hostile,Skeleton Vanguard,skeleton_vanguard,reward2_uncommon,spawn_skeleton_vang
 hostile,Soul Reaper,soul_reaper,reward2_uncommon,spawn_soul_reaper,adventurez
 hostile,Summoner,summoner,reward3_rare,spawn_summoner,adventurez
 boss,The Eye,the_eye,reward4_veryrare,spawn_the_eye,adventurez
+passive_aqua,Cubozoa,cubozoa,reward2_uncommon,spawn_egg_cubozoa,betterend
+passive_land,Dragonfly,dragonfly,reward2_uncommon,spawn_egg_dragonfly,betterend
+passive_aqua,End Fish,end_fish,reward2_uncommon,spawn_egg_end_fish,betterend
+hostile,End Slime,end_slime,reward2_uncommon,spawn_egg_end_slime,betterend
+hostile,Shadow Walker,shadow_walker,reward3_rare,spawn_egg_shadow_walker,betterend
+passive_land,Silk Moth,silk_moth,reward3_rare,spawn_egg_silk_moth,betterend

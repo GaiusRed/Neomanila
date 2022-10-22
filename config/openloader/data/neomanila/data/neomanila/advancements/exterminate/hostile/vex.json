@@ -29,5 +29,5 @@
             "neomanila:reward3_rare"
         ]
     },
-    "parent": "neomanila:exterminate/hostile/soul_reaper"
+    "parent": "neomanila:exterminate/hostile/end_slime"
 }

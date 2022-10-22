@@ -1,10 +1,10 @@
 {
     "display": {
         "title": {
-            "text": "Moon"
+            "text": "Dragonstone's Core"
         },
         "description": {
-            "text": "Find a Moon biome in the End."
+            "text": "Find a Dragonstone's Core biome in the End."
         },
         "icon": {
             "item": "minecraft:end_stone"

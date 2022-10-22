@@ -1,31 +1,31 @@
 {
     "display": {
         "title": {
-            "text": "%BIOME%"
+            "text": "Amber Land"
         },
         "description": {
-            "text": "Find a %BIOME% biome in the %CATEGORY%."
+            "text": "Find a Amber Land biome in the End."
         },
         "icon": {
-            "item": "%ICON%"
+            "item": "minecraft:end_stone"
         },
-        "frame": "%FRAME%",
+        "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": %HIDDEN%
+        "hidden": true
     },
     "criteria": {
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "%BIOME_PACK%:%BIOME_ID%"
+                "biome": "betterend:amber_land"
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:%REWARD%"
+            "neomanila:reward2_uncommon"
         ]
     },
-    "parent": "neomanila:explore/%PARENT%"
+    "parent": "neomanila:explore/theend/shadow_forest"
 }

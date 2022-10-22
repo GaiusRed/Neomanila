@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Old Chorus Barrens"
+            "text": "Cubozoa"
         },
         "description": {
-            "text": "Find a Old Chorus Barrens biome in the End."
+            "text": "Defeat at least one Cubozoa."
         },
         "icon": {
-            "item": "minecraft:end_stone"
+            "item": "betterend:spawn_egg_cubozoa"
         },
         "frame": "task",
         "show_toast": true,
@@ -16,9 +16,11 @@
     },
     "criteria": {
         "Claim": {
-            "trigger": "minecraft:location",
+            "trigger": "minecraft:player_killed_entity",
             "conditions": {
-                "biome": "minecraft:end_barrens"
+                "entity": {
+                    "type": "betterend:cubozoa"
+                }
             }
         }
     },
@@ -27,5 +29,5 @@
             "neomanila:reward2_uncommon"
         ]
     },
-    "parent": "neomanila:explore/theend/end_highlands"
+    "parent": "neomanila:exterminate/passive_aqua/axolotl"
 }

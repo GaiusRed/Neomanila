@@ -1,31 +1,31 @@
 {
     "display": {
         "title": {
-            "text": "%BIOME%"
+            "text": "Ice Starfield"
         },
         "description": {
-            "text": "Find a %BIOME% biome in the %CATEGORY%."
+            "text": "Find a Ice Starfield biome in the End."
         },
         "icon": {
-            "item": "%ICON%"
+            "item": "minecraft:end_stone"
         },
-        "frame": "%FRAME%",
+        "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": %HIDDEN%
+        "hidden": true
     },
     "criteria": {
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "%BIOME_PACK%:%BIOME_ID%"
+                "biome": "betterend:ice_starfield"
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:%REWARD%"
+            "neomanila:reward2_uncommon"
         ]
     },
-    "parent": "neomanila:explore/%PARENT%"
+    "parent": "neomanila:explore/theend/sulphur_springs"
 }

@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Mooshroom"
+            "text": "Shadow Walker"
         },
         "description": {
-            "text": "Defeat at least one Mooshroom."
+            "text": "Defeat at least one Shadow Walker."
         },
         "icon": {
-            "item": "minecraft:mooshroom_spawn_egg"
+            "item": "betterend:spawn_egg_shadow_walker"
         },
         "frame": "task",
         "show_toast": true,
@@ -19,7 +19,7 @@
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
                 "entity": {
-                    "type": "minecraft:mooshroom"
+                    "type": "betterend:shadow_walker"
                 }
             }
         }
@@ -29,5 +29,5 @@
             "neomanila:reward3_rare"
         ]
     },
-    "parent": "neomanila:exterminate/passive_land/dragonfly"
+    "parent": "neomanila:exterminate/hostile/summoner"
 }

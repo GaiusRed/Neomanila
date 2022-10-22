@@ -102,5 +102,10 @@
     "block.wilderworld.pearl_tiles": "Pearl Stone Tiles",
     "block.wilderworld.glowgi": "Glowgi",
     "item.wilderworld.butterfly_spawn_egg": "Butterfly Spawn Egg",
-    "item.wilderworld.ebony": "Ebony Branch"
+    "item.wilderworld.ebony": "Ebony Branch",
+    "biome.minecraft.the_end": "Dragonstone's Core",
+    "biome.minecraft.small_end_islands": "Asteroids",
+    "biome.minecraft.end_midlands": "Old Chorus Midlands",
+    "biome.minecraft.end_highlands": "Old Chorus",
+    "biome.minecraft.end_barrens": "Old Chorus Barrens"
 }

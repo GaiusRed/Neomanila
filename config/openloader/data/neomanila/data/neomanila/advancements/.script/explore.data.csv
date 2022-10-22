@@ -1,60 +1,87 @@
-snow,Frozen Peaks,packed_ice,frozen_peaks,reward2_uncommon,Overworld
-snow,Grove,spruce_leaves,grove,reward2_uncommon,Overworld
-snow,Ice Spikes,ice,ice_spikes,reward2_uncommon,Overworld
-snow,Jagged Peaks,coal,jagged_peaks,reward2_uncommon,Overworld
-snow,Snowy Beach,sand,snowy_beach,reward2_uncommon,Overworld
-snow,Snowy Plains,spruce_sapling,snowy_plains,reward2_uncommon,Overworld
-snow,Snowy Slopes,stone,snowy_slopes,reward2_uncommon,Overworld
-snow,Snowy Taiga,large_fern,snowy_taiga,reward2_uncommon,Overworld
-cold,Taiga,large_fern,taiga,reward1_common,Overworld
-cold,Old Growth Pine Taiga,dead_bush,old_growth_pine_taiga,reward2_uncommon,Overworld
-cold,Old Growth Spruce Taiga,podzol,old_growth_spruce_taiga,reward2_uncommon,Overworld
-cold,Stony Shore,stone,stony_shore,reward2_uncommon,Overworld
-cold,Windswept Forest,oak_sapling,windswept_forest,reward2_uncommon,Overworld
-cold,Windswept Gravelly Hills,gravel,windswept_gravelly_hills,reward2_uncommon,Overworld
-cold,Windswept Hills,oak_leaves,windswept_hills,reward2_uncommon,Overworld
-temperate,Plains,cornflower,plains,reward1_common,Overworld
-temperate,Forest,birch_log,forest,reward1_common,Overworld
-temperate,Birch Forest,birch_sapling,birch_forest,reward1_common,Overworld
-temperate,Dark Forest,dark_oak_log,dark_forest,reward1_common,Overworld
-temperate,Jungle,jungle_sapling,jungle,reward1_common,Overworld
-temperate,Sparse Jungle,jungle_log,sparse_jungle,reward1_common,Overworld
-temperate,Beach,sand,beach,reward1_common,Overworld
-temperate,Sunflower Plains,sunflower,sunflower_plains,reward2_uncommon,Overworld
-temperate,Flower Forest,peony,flower_forest,reward2_uncommon,Overworld
-temperate,Old Growth Birch Forest,birch_leaves,old_growth_birch_forest,reward2_uncommon,Overworld
-temperate,Swamp,lily_pad,swamp,reward2_uncommon,Overworld
-temperate,Bamboo Jungle,bamboo,bamboo_jungle,reward2_uncommon,Overworld
-temperate,Meadow,dandelion,meadow,reward2_uncommon,Overworld
-temperate,Stony Peaks,stone,stony_peaks,reward2_uncommon,Overworld
-temperate,Mushroom Fields,red_mushroom,mushroom_fields,reward4_veryrare,Overworld
-warm,Savanna,acacia_sapling,savanna,reward1_common,Overworld
-warm,Savanna Plateau,acacia_log,savanna_plateau,reward1_common,Overworld
-warm,Desert,cactus,desert,reward2_uncommon,Overworld
-warm,Badlands,red_sand,badlands,reward2_uncommon,Overworld
-warm,Wooded Badlands,terracotta,wooded_badlands,reward2_uncommon,Overworld
-warm,Eroded Badlands,dead_bush,eroded_badlands,reward2_uncommon,Overworld
-warm,Windswept Savanna,acacia_leaves,windswept_savanna,reward3_rare,Overworld
-aquatic,River,salmon,river,reward1_common,Overworld
-aquatic,Warm Ocean,bubble_coral_block,warm_ocean,reward1_common,Overworld
-aquatic,Lukewarm Ocean,kelp,lukewarm_ocean,reward1_common,Overworld
-aquatic,Deep Lukewarm Ocean,seagrass,deep_lukewarm_ocean,reward1_common,Overworld
-aquatic,Ocean,clay,ocean,reward1_common,Overworld
-aquatic,Deep Ocean,gravel,deep_ocean,reward1_common,Overworld
-aquatic,Cold Ocean,kelp,cold_ocean,reward1_common,Overworld
-aquatic,Deep Cold Ocean,seagrass,deep_cold_ocean,reward1_common,Overworld
-aquatic,Frozen River,ice,frozen_river,reward2_uncommon,Overworld
-aquatic,Frozen Ocean,blue_ice,frozen_ocean,reward2_uncommon,Overworld
-aquatic,Deep Frozen Ocean,ice,deep_frozen_ocean,reward2_uncommon,Overworld
-cave,Dripstone Caves,dripstone_block,dripstone_caves,reward1_common,Overworld
-cave,Lush Caves,flowering_azalea_leaves,lush_caves,reward2_uncommon,Overworld
-nether,Nether Wastes,netherrack,nether_wastes,reward1_common,Nether
-nether,Soul Sand Valley,soul_sand,soul_sand_valley,reward2_uncommon,Nether
-nether,Crimson Forest,crimson_nylium,crimson_forest,reward1_common,Nether
-nether,Warped Forest,warped_nylium,warped_forest,reward2_uncommon,Nether
-nether,Basalt Deltas,basalt,basalt_deltas,reward2_uncommon,Nether
-theend,Moon,end_stone,the_end,reward1_common,End
-theend,Asteroids,end_stone,small_end_islands,reward2_uncommon,End
-theend,Moon (shattered),end_stone,end_midlands,reward2_uncommon,End
-theend,Moon (what remains),end_stone,end_highlands,reward2_uncommon,End
-theend,Edge of Space,end_stone,end_barrens,reward2_uncommon,End
+snow,Frozen Peaks,minecraft:packed_ice,frozen_peaks,reward2_uncommon,Overworld,
+snow,Grove,minecraft:spruce_leaves,grove,reward2_uncommon,Overworld,
+snow,Ice Spikes,minecraft:ice,ice_spikes,reward2_uncommon,Overworld,
+snow,Jagged Peaks,minecraft:coal,jagged_peaks,reward2_uncommon,Overworld,
+snow,Snowy Beach,minecraft:sand,snowy_beach,reward2_uncommon,Overworld,
+snow,Snowy Plains,minecraft:spruce_sapling,snowy_plains,reward2_uncommon,Overworld,
+snow,Snowy Slopes,minecraft:stone,snowy_slopes,reward2_uncommon,Overworld,
+snow,Snowy Taiga,minecraft:large_fern,snowy_taiga,reward2_uncommon,Overworld,
+cold,Taiga,minecraft:large_fern,taiga,reward1_common,Overworld,
+cold,Old Growth Pine Taiga,minecraft:dead_bush,old_growth_pine_taiga,reward2_uncommon,Overworld,
+cold,Old Growth Spruce Taiga,minecraft:podzol,old_growth_spruce_taiga,reward2_uncommon,Overworld,
+cold,Stony Shore,minecraft:stone,stony_shore,reward2_uncommon,Overworld,
+cold,Windswept Forest,minecraft:oak_sapling,windswept_forest,reward2_uncommon,Overworld,
+cold,Windswept Gravelly Hills,minecraft:gravel,windswept_gravelly_hills,reward2_uncommon,Overworld,
+cold,Windswept Hills,minecraft:oak_leaves,windswept_hills,reward2_uncommon,Overworld,
+temperate,Plains,minecraft:cornflower,plains,reward1_common,Overworld,
+temperate,Forest,minecraft:birch_log,forest,reward1_common,Overworld,
+temperate,Birch Forest,minecraft:birch_sapling,birch_forest,reward1_common,Overworld,
+temperate,Dark Forest,minecraft:dark_oak_log,dark_forest,reward1_common,Overworld,
+temperate,Jungle,minecraft:jungle_sapling,jungle,reward1_common,Overworld,
+temperate,Sparse Jungle,minecraft:jungle_log,sparse_jungle,reward1_common,Overworld,
+temperate,Beach,minecraft:sand,beach,reward1_common,Overworld,
+temperate,Sunflower Plains,minecraft:sunflower,sunflower_plains,reward2_uncommon,Overworld,
+temperate,Flower Forest,minecraft:peony,flower_forest,reward2_uncommon,Overworld,
+temperate,Old Growth Birch Forest,minecraft:birch_leaves,old_growth_birch_forest,reward2_uncommon,Overworld,
+temperate,Swamp,minecraft:lily_pad,swamp,reward2_uncommon,Overworld,
+temperate,Bamboo Jungle,minecraft:bamboo,bamboo_jungle,reward2_uncommon,Overworld,
+temperate,Meadow,minecraft:dandelion,meadow,reward2_uncommon,Overworld,
+temperate,Stony Peaks,minecraft:stone,stony_peaks,reward2_uncommon,Overworld,
+temperate,Mushroom Fields,minecraft:red_mushroom,mushroom_fields,reward4_veryrare,Overworld,
+warm,Savanna,minecraft:acacia_sapling,savanna,reward1_common,Overworld,
+warm,Savanna Plateau,minecraft:acacia_log,savanna_plateau,reward1_common,Overworld,
+warm,Desert,minecraft:cactus,desert,reward2_uncommon,Overworld,
+warm,Badlands,minecraft:red_sand,badlands,reward2_uncommon,Overworld,
+warm,Wooded Badlands,minecraft:terracotta,wooded_badlands,reward2_uncommon,Overworld,
+warm,Eroded Badlands,minecraft:dead_bush,eroded_badlands,reward2_uncommon,Overworld,
+warm,Windswept Savanna,minecraft:acacia_leaves,windswept_savanna,reward3_rare,Overworld,
+aquatic,River,minecraft:salmon,river,reward1_common,Overworld,
+aquatic,Warm Ocean,minecraft:bubble_coral_block,warm_ocean,reward1_common,Overworld,
+aquatic,Lukewarm Ocean,minecraft:kelp,lukewarm_ocean,reward1_common,Overworld,
+aquatic,Deep Lukewarm Ocean,minecraft:seagrass,deep_lukewarm_ocean,reward1_common,Overworld,
+aquatic,Ocean,minecraft:clay,ocean,reward1_common,Overworld,
+aquatic,Deep Ocean,minecraft:gravel,deep_ocean,reward1_common,Overworld,
+aquatic,Cold Ocean,minecraft:kelp,cold_ocean,reward1_common,Overworld,
+aquatic,Deep Cold Ocean,minecraft:seagrass,deep_cold_ocean,reward1_common,Overworld,
+aquatic,Frozen River,minecraft:ice,frozen_river,reward2_uncommon,Overworld,
+aquatic,Frozen Ocean,minecraft:blue_ice,frozen_ocean,reward2_uncommon,Overworld,
+aquatic,Deep Frozen Ocean,minecraft:ice,deep_frozen_ocean,reward2_uncommon,Overworld,
+cave,Dripstone Caves,minecraft:dripstone_block,dripstone_caves,reward1_common,Overworld,
+cave,Lush Caves,minecraft:flowering_azalea_leaves,lush_caves,reward2_uncommon,Overworld,
+nether,Nether Wastes,minecraft:netherrack,nether_wastes,reward1_common,Nether,
+nether,Soul Sand Valley,minecraft:soul_sand,soul_sand_valley,reward2_uncommon,Nether,
+nether,Crimson Forest,minecraft:crimson_nylium,crimson_forest,reward1_common,Nether,
+nether,Warped Forest,minecraft:warped_nylium,warped_forest,reward2_uncommon,Nether,
+nether,Basalt Deltas,minecraft:basalt,basalt_deltas,reward2_uncommon,Nether,
+theend,Dragonstone's Core,minecraft:end_stone,the_end,reward1_common,End,
+theend,Asteroids,minecraft:end_stone,small_end_islands,reward2_uncommon,End,
+theend,Old Chorus Midlands,minecraft:end_stone,end_midlands,reward2_uncommon,End,
+theend,Old Chorus,minecraft:end_stone,end_highlands,reward2_uncommon,End,
+theend,Old Chorus Barrens,minecraft:end_stone,end_barrens,reward2_uncommon,End,
+theend,Foggy Mushroomland,minecraft:end_stone,foggy_mushroomland,reward2_uncommon,End,betterend
+theend,Dust Wastelands,minecraft:end_stone,dust_wastelands,reward2_uncommon,End,betterend
+theend,Chorus Forest,minecraft:end_stone,chorus_forest,reward2_uncommon,End,betterend
+theend,Megalake,minecraft:end_stone,megalake,reward2_uncommon,End,betterend
+theend,Megalake Grove,minecraft:end_stone,megalake_grove,reward2_uncommon,End,betterend
+theend,Crystal Mountains,minecraft:end_stone,crystal_mountains,reward2_uncommon,End,betterend
+theend,Painted Mountains,minecraft:end_stone,painted_mountains,reward2_uncommon,End,betterend
+theend,Shadow Forest,minecraft:end_stone,shadow_forest,reward2_uncommon,End,betterend
+theend,Amber Land,minecraft:end_stone,amber_land,reward2_uncommon,End,betterend
+theend,Blossoming Spires,minecraft:end_stone,blossoming_spires,reward2_uncommon,End,betterend
+theend,Sulphur Springs,minecraft:end_stone,sulphur_springs,reward2_uncommon,End,betterend
+theend,Ice Starfield,minecraft:end_stone,ice_starfield,reward2_uncommon,End,betterend
+theend,Umbrella Jungle,minecraft:end_stone,umbrella_jungle,reward2_uncommon,End,betterend
+theend,Eterial Grove,minecraft:end_stone,eterial_grove,reward2_uncommon,End,betterend
+theend,Nightshade Redwoods,minecraft:end_stone,nightshade_redwoods,reward2_uncommon,End,betterend
+theend,Glowing Grasslands,minecraft:end_stone,glowing_grasslands,reward2_uncommon,End,betterend
+theend,Dragon Graveyards,minecraft:end_stone,dragon_graveyards,reward2_uncommon,End,betterend
+theend,Dry Shrubland,minecraft:end_stone,dry_shrubland,reward2_uncommon,End,betterend
+theend,Aurora Cave,minecraft:end_stone,empty_aurora_cave,reward2_uncommon,End,betterend
+theend,Lunar Cave,minecraft:end_stone,empty_end_cave,reward2_uncommon,End,betterend
+theend,Crystalline Cave,minecraft:end_stone,empty_smaragdant_cave,reward2_uncommon,End,betterend
+theend,Lush Aurora Cave,minecraft:end_stone,lush_aurora_cave,reward3_rare,End,betterend
+theend,Lush Crystalline Cave,minecraft:end_stone,lush_smaragdant_cave,reward3_rare,End,betterend
+theend,Lantern Woods,minecraft:end_stone,lantern_woods,reward2_uncommon,End,betterend
+theend,Neon Oasis,minecraft:end_stone,neon_oasis,reward2_uncommon,End,betterend
+theend,Jade Cave,minecraft:end_stone,jade_cave,reward2_uncommon,End,betterend
+theend,Umbra Valley,minecraft:end_stone,umbra_valley,reward2_uncommon,End,betterend
