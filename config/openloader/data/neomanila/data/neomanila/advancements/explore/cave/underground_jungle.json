@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Underground Jungle"
+        },
+        "description": {
+            "text": "Find a Underground Jungle biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:dripstone_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:underground_jungle"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward4_veryrare"
+        ]
+    },
+    "parent": "neomanila:explore/cave/thermal_caves"
+}

@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Alpine Highlands"
+        },
+        "description": {
+            "text": "Find a Alpine Highlands biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:spruce_sapling"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:alpine_highlands"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/cold/forested_highlands"
+}

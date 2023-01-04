@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Cubozoa"
+            "text": "Birch Taiga"
         },
         "description": {
-            "text": "Defeat at least one Cubozoa."
+            "text": "Find a Birch Taiga biome in the Overworld."
         },
         "icon": {
-            "item": "betterend:spawn_egg_cubozoa"
+            "item": "minecraft:large_fern"
         },
         "frame": "task",
         "show_toast": true,
@@ -16,18 +16,16 @@
     },
     "criteria": {
         "Claim": {
-            "trigger": "minecraft:player_killed_entity",
+            "trigger": "minecraft:location",
             "conditions": {
-                "entity": {
-                    "type": "betterend:cubozoa"
-                }
+                "biome": "terralith:birch_taiga"
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:reward2_uncommon"
+            "neomanila:reward3_rare"
         ]
     },
-    "parent": "neomanila:exterminate/passive_land/nightmare"
+    "parent": "neomanila:explore/cold/siberian_taiga"
 }

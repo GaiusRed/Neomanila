@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Ice Marsh"
+        },
+        "description": {
+            "text": "Find a Ice Marsh biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:lily_pad"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:ice_marsh"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward3_rare"
+        ]
+    },
+    "parent": "neomanila:explore/snow/gravel_desert"
+}

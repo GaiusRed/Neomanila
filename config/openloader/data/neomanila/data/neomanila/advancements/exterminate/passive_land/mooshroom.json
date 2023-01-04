@@ -29,5 +29,5 @@
             "neomanila:reward3_rare"
         ]
     },
-    "parent": "neomanila:exterminate/passive_land/goop"
+    "parent": "neomanila:exterminate/passive_land/bounce_bug"
 }

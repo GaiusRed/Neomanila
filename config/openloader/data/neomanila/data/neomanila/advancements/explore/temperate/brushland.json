@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Brushland"
+        },
+        "description": {
+            "text": "Find a Brushland biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:brushland"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/temperate_highlands"
+}

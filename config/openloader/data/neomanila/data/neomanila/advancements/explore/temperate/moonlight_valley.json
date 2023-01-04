@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Moonlight Valley"
+        },
+        "description": {
+            "text": "Find a Moonlight Valley biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:birch_log"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:moonlight_valley"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/rocky_jungle"
+}

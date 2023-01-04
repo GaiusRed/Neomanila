@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Gravel Desert"
+        },
+        "description": {
+            "text": "Find a Gravel Desert biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:gravel"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:gravel_desert"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/snow/snowy_taiga"
+}

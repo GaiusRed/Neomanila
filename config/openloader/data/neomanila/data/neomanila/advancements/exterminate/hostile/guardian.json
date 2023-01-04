@@ -29,5 +29,5 @@
             "neomanila:reward1_common"
         ]
     },
-    "parent": "neomanila:exterminate/hostile/zombie"
+    "parent": "neomanila:exterminate/hostile/snowy_creeper"
 }

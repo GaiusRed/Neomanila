@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Desert Oasis"
+        },
+        "description": {
+            "text": "Find a Desert Oasis biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:cactus"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:desert_oasis"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward3_rare"
+        ]
+    },
+    "parent": "neomanila:explore/warm/shrubland"
+}

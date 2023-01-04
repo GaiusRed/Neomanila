@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Warm River"
+        },
+        "description": {
+            "text": "Find a Warm River biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:salmon"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:warm_river"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward3_rare"
+        ]
+    },
+    "parent": "neomanila:explore/aquatic/deep_frozen_ocean"
+}

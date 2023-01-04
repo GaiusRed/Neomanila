@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Red Oasis"
+        },
+        "description": {
+            "text": "Find a Red Oasis biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:red_oasis"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward4_veryrare"
+        ]
+    },
+    "parent": "neomanila:explore/warm/ancient_sands"
+}

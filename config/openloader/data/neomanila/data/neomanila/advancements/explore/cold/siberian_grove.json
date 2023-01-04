@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Siberian Grove"
+        },
+        "description": {
+            "text": "Find a Siberian Grove biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:siberian_grove"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward4_veryrare"
+        ]
+    },
+    "parent": "neomanila:explore/cold/snowy_maple_forest"
+}

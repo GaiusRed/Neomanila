@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Dripstone Creeper"
+        },
+        "description": {
+            "text": "Defeat at least one Dripstone Creeper."
+        },
+        "icon": {
+            "item": "creeperoverhaul:dripstone_creeper_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "creeperoverhaul:dripstone_creeper"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward0_verycommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/hostile/swamp_creeper"
+}

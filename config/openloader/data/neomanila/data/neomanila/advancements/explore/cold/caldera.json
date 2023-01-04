@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Caldera"
+        },
+        "description": {
+            "text": "Find a Caldera biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:caldera"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward4_veryrare"
+        ]
+    },
+    "parent": "neomanila:explore/cold/yosemite_lowlands"
+}

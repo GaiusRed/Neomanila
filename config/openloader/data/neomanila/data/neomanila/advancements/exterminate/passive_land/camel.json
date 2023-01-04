@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Camel"
+        },
+        "description": {
+            "text": "Defeat at least one Camel."
+        },
+        "icon": {
+            "item": "ecologics:camel_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "ecologics:camel"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward0_verycommon"
+        ]
+    },
+    "parent": "neomanila:exterminate/passive_land/coconut_crab"
+}

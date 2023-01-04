@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Cold Shrubland"
+        },
+        "description": {
+            "text": "Find a Cold Shrubland biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:large_fern"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:cold_shrubland"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/cold/shield"
+}

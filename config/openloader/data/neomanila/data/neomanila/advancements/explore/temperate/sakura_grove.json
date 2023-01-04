@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Sakura Grove"
+        },
+        "description": {
+            "text": "Find a Sakura Grove biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:jungle_sapling"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:sakura_grove"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward3_rare"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/blooming_valley"
+}

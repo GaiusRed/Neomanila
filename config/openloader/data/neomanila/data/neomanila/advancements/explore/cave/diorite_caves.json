@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Diorite Caves"
+        },
+        "description": {
+            "text": "Find a Diorite Caves biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:dripstone_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:diorite_caves"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward4_veryrare"
+        ]
+    },
+    "parent": "neomanila:explore/cave/desert_caves"
+}

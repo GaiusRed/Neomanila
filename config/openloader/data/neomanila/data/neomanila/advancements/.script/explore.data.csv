@@ -87,3 +87,95 @@ theend,Jade Cave,minecraft:end_stone,jade_cave,reward2_uncommon,End,betterend
 theend,Umbra Valley,minecraft:end_stone,umbra_valley,reward2_uncommon,End,betterend
 cave,Goop Caves,ce:goop,goop_caves,reward3_rare,Overworld,ce
 cave,Rose Quartz Caves,ce:rose_quartz,rose_quartz_caves,reward3_rare,Overworld,ce
+temperate,Gravel Beach,minecraft:gravel,gravel_beach,reward1_common,Overworld,terralith
+temperate,Temperate Highlands,minecraft:birch_leaves,temperate_highlands,reward1_common,Overworld,terralith
+cold,Forested Highlands,minecraft:birch_sapling,forested_highlands,reward1_common,Overworld,terralith
+cold,Alpine Highlands,minecraft:spruce_sapling,alpine_highlands,reward1_common,Overworld,terralith
+temperate,Brushland,minecraft:grass_block,brushland,reward1_common,Overworld,terralith
+cold,Highlands,minecraft:large_fern,highlands,reward1_common,Overworld,terralith
+cold,Yellowstone,minecraft:orange_terracotta,yellowstone,reward2_uncommon,Overworld,terralith
+temperate,Steppe,minecraft:cornflower,steppe,reward2_uncommon,Overworld,terralith
+cold,Shield,minecraft:large_fern,shield,reward2_uncommon,Overworld,terralith
+temperate,Arid Highlands,minecraft:cornflower,arid_highlands,reward2_uncommon,Overworld,terralith
+snow,Gravel Desert,minecraft:gravel,gravel_desert,reward2_uncommon,Overworld,terralith
+temperate,Rocky Jungle,minecraft:jungle_sapling,rocky_jungle,reward2_uncommon,Overworld,terralith
+temperate,Moonlight Valley,minecraft:birch_log,moonlight_valley,reward2_uncommon,Overworld,terralith
+cold,Cold Shrubland,minecraft:large_fern,cold_shrubland,reward2_uncommon,Overworld,terralith
+cold,Siberian Taiga,minecraft:large_fern,siberian_taiga,reward2_uncommon,Overworld,terralith
+temperate,Tropical Jungle,minecraft:jungle_sapling,tropical_jungle,reward2_uncommon,Overworld,terralith
+temperate,Rocky Mountains,minecraft:tuff,rocky_mountains,reward3_rare,Overworld,terralith
+temperate,Hot Shrubland,minecraft:pumpkin,hot_shrubland,reward3_rare,Overworld,terralith
+snow,Ice Marsh,minecraft:lily_pad,ice_marsh,reward3_rare,Overworld,terralith
+temperate,Orchid Swamp,minecraft:small_dripleaf,orchid_swamp,reward3_rare,Overworld,terralith
+aquatic,Warm River,minecraft:salmon,warm_river,reward3_rare,Overworld,terralith
+temperate,Blooming Plateau,minecraft:flowering_azalea_leaves,blooming_plateau,reward3_rare,Overworld,terralith
+temperate,Blooming Valley,minecraft:flowering_azalea_leaves,blooming_valley,reward3_rare,Overworld,terralith
+cold,Birch Taiga,minecraft:large_fern,birch_taiga,reward3_rare,Overworld,terralith
+warm,Savanna Badlands,minecraft:acacia_sapling,savanna_badlands,reward3_rare,Overworld,terralith
+temperate,Sakura Grove,minecraft:jungle_sapling,sakura_grove,reward3_rare,Overworld,terralith
+warm,Shrubland,minecraft:tuff,shrubland,reward3_rare,Overworld,terralith
+temperate,Valley Clearing,minecraft:grass_block,valley_clearing,reward3_rare,Overworld,terralith
+cold,Wintry Forest,minecraft:snow_block,wintry_forest,reward3_rare,Overworld,terralith
+cold,Skylands (Autumn),minecraft:grass_block,skylands_autumn,reward3_rare,Overworld,terralith
+temperate,Skylands (Spring),minecraft:grass_block,skylands_spring,reward3_rare,Overworld,terralith
+temperate,Lavender Valley,minecraft:allium,lavender_valley,reward3_rare,Overworld,terralith
+temperate,Amethyst Rainforest,minecraft:amethyst_block,amethyst_rainforest,reward3_rare,Overworld,terralith
+warm,Desert Oasis,minecraft:cactus,desert_oasis,reward3_rare,Overworld,terralith
+warm,skylands (Summer),minecraft:grass_block,skylands_summer,reward4_veryrare,Overworld,terralith
+snow,skylands (Winter),minecraft:grass_block,skylands_winter,reward4_veryrare,Overworld,terralith
+snow,Snowy Badlands,minecraft:snow_block,snowy_badlands,reward4_veryrare,Overworld,terralith
+warm,Volcanic Peaks,minecraft:magma_block,volcanic_peaks,reward4_veryrare,Overworld,terralith
+warm,Bryce Canyon,minecraft:grass_block,bryce_canyon,reward4_veryrare,Overworld,terralith
+cold,Moonlight Grove,minecraft:grass_block,moonlight_grove,reward4_veryrare,Overworld,terralith
+snow,Glacial Chasm,minecraft:grass_block,glacial_chasm,reward4_veryrare,Overworld,terralith
+cold,Lush Valley,minecraft:grass_block,lush_valley,reward4_veryrare,Overworld,terralith
+warm,White Mesa,minecraft:grass_block,white_mesa,reward4_veryrare,Overworld,terralith
+temperate,Granite Cliffs,minecraft:grass_block,granite_cliffs,reward4_veryrare,Overworld,terralith
+cold,Yosemite Cliffs,minecraft:grass_block,yosemite_cliffs,reward4_veryrare,Overworld,terralith
+cold,Yosemite Lowlands,minecraft:grass_block,yosemite_lowlands,reward4_veryrare,Overworld,terralith
+temperate,Lavender Forest,minecraft:grass_block,lavender_forest,reward4_veryrare,Overworld,terralith
+temperate,Stony Spires,minecraft:grass_block,stony_spires,reward4_veryrare,Overworld,terralith
+temperate,Sakura Valley,minecraft:grass_block,sakura_valley,reward4_veryrare,Overworld,terralith
+temperate,Rocky Shrubland,minecraft:grass_block,rocky_shrubland,reward4_veryrare,Overworld,terralith
+temperate,Alpine Grove,minecraft:grass_block,alpine_grove,reward4_veryrare,Overworld,terralith
+snow,Snowy Shield,minecraft:grass_block,snowy_shield,reward4_veryrare,Overworld,terralith
+temperate,White Cliffs,minecraft:grass_block,white_cliffs,reward4_veryrare,Overworld,terralith
+warm,Ashen Savanna,minecraft:grass_block,ashen_savanna,reward4_veryrare,Overworld,terralith
+temperate,Shield Clearing,minecraft:grass_block,shield_clearing,reward4_veryrare,Overworld,terralith
+warm,Ancient Sands,minecraft:grass_block,ancient_sands,reward4_veryrare,Overworld,terralith
+warm,Red Oasis,minecraft:grass_block,red_oasis,reward4_veryrare,Overworld,terralith
+warm,Sandstone Valley,minecraft:grass_block,sandstone_valley,reward4_veryrare,Overworld,terralith
+temperate,Mirage Isles,minecraft:grass_block,mirage_isles,reward4_veryrare,Overworld,terralith
+warm,Fractured Savanna,minecraft:grass_block,fractured_savanna,reward4_veryrare,Overworld,terralith
+warm,Savanna Slopes,minecraft:grass_block,savanna_slopes,reward4_veryrare,Overworld,terralith
+temperate,Amethyst Canyon,minecraft:grass_block,amethyst_canyon,reward4_veryrare,Overworld,terralith
+warm,Windswept Spires,minecraft:grass_block,windswept_spires,reward4_veryrare,Overworld,terralith
+temperate,Jungle Mountains,minecraft:grass_block,jungle_mountains,reward4_veryrare,Overworld,terralith
+cold,Caldera,minecraft:grass_block,caldera,reward4_veryrare,Overworld,terralith
+temperate,Volcanic Crater,minecraft:grass_block,volcanic_crater,reward4_veryrare,Overworld,terralith
+temperate,Haze Mountain,minecraft:grass_block,haze_mountain,reward4_veryrare,Overworld,terralith
+temperate,Scarlet Mountains,minecraft:grass_block,scarlet_mountains,reward4_veryrare,Overworld,terralith
+temperate,Basalt Cliffs,minecraft:grass_block,basalt_cliffs,reward4_veryrare,Overworld,terralith
+snow,Frozen Cliffs,minecraft:grass_block,frozen_cliffs,reward4_veryrare,Overworld,terralith
+cold,Snowy Maple Forest,minecraft:grass_block,snowy_maple_forest,reward4_veryrare,Overworld,terralith
+warm,Warped Mesa,minecraft:grass_block,warped_mesa,reward4_veryrare,Overworld,terralith
+cold,Siberian Grove,minecraft:grass_block,siberian_grove,reward4_veryrare,Overworld,terralith
+warm,Desert Spires,minecraft:grass_block,desert_spires,reward4_veryrare,Overworld,terralith
+cold,Cloud Forest,minecraft:grass_block,cloud_forest,reward4_veryrare,Overworld,terralith
+temperate,Painted Mountains,minecraft:grass_block,painted_mountains,reward4_veryrare,Overworld,terralith
+temperate,Emerald Peaks,minecraft:grass_block,emerald_peaks,reward4_veryrare,Overworld,terralith
+temperate,Alpha Islands,minecraft:grass_block,alpha_islands,reward4_veryrare,Overworld,terralith
+snow,Alpha Islands Winter,minecraft:grass_block,alpha_islands_winter,reward4_veryrare,Overworld,terralith
+warm,Desert Canyon,minecraft:grass_block,desert_canyon,reward4_veryrare,Overworld,terralith
+warm,Lush Desert,minecraft:grass_block,lush_desert,reward4_veryrare,Overworld,terralith
+temperate,Skylands,minecraft:grass_block,skylands,reward4_veryrare,Overworld,terralith
+snow,Wintry Lowlands,minecraft:grass_block,wintry_lowlands,reward4_veryrare,Overworld,terralith
+cave,Andesite Caves,minecraft:dripstone_block,andesite_caves,reward4_veryrare,Overworld,terralith
+cave,Desert Caves,minecraft:dripstone_block,desert_caves,reward4_veryrare,Overworld,terralith
+cave,Diorite Caves,minecraft:dripstone_block,diorite_caves,reward4_veryrare,Overworld,terralith
+cave,Fungal Caves,minecraft:dripstone_block,fungal_caves,reward4_veryrare,Overworld,terralith
+cave,Granite Caves,minecraft:dripstone_block,granite_caves,reward4_veryrare,Overworld,terralith
+cave,Ice Caves,minecraft:dripstone_block,ice_caves,reward4_veryrare,Overworld,terralith
+cave,Infested Caves,minecraft:dripstone_block,infested_caves,reward4_veryrare,Overworld,terralith
+cave,Thermal Caves,minecraft:dripstone_block,thermal_caves,reward4_veryrare,Overworld,terralith
+cave,Underground Jungle,minecraft:dripstone_block,underground_jungle,reward4_veryrare,Overworld,terralith

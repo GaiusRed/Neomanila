@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Forested Highlands"
+        },
+        "description": {
+            "text": "Find a Forested Highlands biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:birch_sapling"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:forested_highlands"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/cold/taiga"
+}

@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Arid Highlands"
+        },
+        "description": {
+            "text": "Find a Arid Highlands biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:cornflower"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:arid_highlands"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/steppe"
+}

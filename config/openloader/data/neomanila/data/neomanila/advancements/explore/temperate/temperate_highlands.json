@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Temperate Highlands"
+        },
+        "description": {
+            "text": "Find a Temperate Highlands biome in the Overworld."
+        },
+        "icon": {
+            "item": "minecraft:birch_leaves"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "terralith:temperate_highlands"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward1_common"
+        ]
+    },
+    "parent": "neomanila:explore/temperate/gravel_beach"
+}
