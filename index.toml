@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "40f170a262fd6fb9ded43b8ae0ddb7c5e003e27a91ae177d24468cf3e045d6f4"
+hash = "8d401527639a088fc8fae3337e222e2baa0b7d6dbc99a88150ca51f087a3b5e0"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -77,6 +77,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore.jso
 hash = "41e6e006c3e2347cf0795b51c1f07fc1de06e08b485da19075003c1711385cdd"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic.json"
+hash = "b24ca4d64d82f695e1c4147bb30b510875e5e559983d6a89eb5acf3f808abc0a"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aquatic/cold_ocean.json"
 hash = "a21de190d31eea4cc8c56ee76a1c6d13e783f50ed95bacca84ff79f9602a5cde"
 
@@ -125,6 +129,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/aqu
 hash = "477a9ff3c98698bc3d73f819ef2d04db0c8feef186e1f59e32338401f990eba1"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave.json"
+hash = "f16365ef6c48273f96e9125840b0656a69a694b9aea19adfe4fdc1ca1e10f2ae"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/andesite_caves.json"
 hash = "e131d362971446c2e9a3fa22de9ea17ffbe0a547aebf3280e663d663e4ec68f1"
 
@@ -167,6 +175,10 @@ hash = "56c37968e007ae0e1364b14d55c7376ace7f8706ac5e8399367d1331cf664ea3"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/underground_jungle.json"
 hash = "7027a847c0ccf4cd35e8fd7ed2d90c112210d350be441abb3a93bd1afa6f81ac"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold.json"
+hash = "2fb7140a467f28a17fc27e7b311cdcf67cf098d8c6c7f43cb7af53324796bd4b"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cold/alpine_highlands.json"
@@ -269,6 +281,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/col
 hash = "ab4715e172722ed72293b391db418ee41adc8431b5cfba4748de62a4fbadd1cb"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether.json"
+hash = "a7d1945915aa3df5bb967b6558f22b3a0ab20d9b6c4a729949ca1f4d1b926b32"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/basalt_deltas.json"
 hash = "4433d195db27d51988e2e342b846278c3f9573498d0779ca8ceda9d5cf12087d"
 
@@ -287,6 +303,10 @@ hash = "74d1c6dfa3b6328473e4dc360c8c9964e5513c43c0ce6bf6a96ea28b21ec85cf"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/warped_forest.json"
 hash = "e7d7c6d9026a4cccef7b98dcf9ad694047750ecbadae490ae4c37f88bbff6a3a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow.json"
+hash = "e30184de790b59f2546bfbddbecba2b8db6318032cbf0a6c23cddd1afdc04317"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/alpha_islands_winter.json"
@@ -355,6 +375,10 @@ hash = "59e1334be1589c37ee0c070e75622980ba478cb6d320d1a1e5c6a95f46a17cd3"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow/wintry_lowlands.json"
 hash = "34302db7a9c5342d4c65e25efa39efdd369809a27b34e9d636245f1a7e6735ac"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate.json"
+hash = "3171f0d6fac99350942664468d2365f893bc9b7c930eb1fedb9cb247ed14de9e"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/temperate/alpha_islands.json"
@@ -565,6 +589,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/tem
 hash = "daf2480109500f87da4845e7bdb31ebd2bf359e9a2c62e0d1f3a673875b0a377"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/theend.json"
+hash = "42f37f9b6390fd26855520d0b5526f11071f1fc6d6e846a1837f85b46cd7cefa"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/theend/amber_land.json"
 hash = "50b22e8e803886b857694ce7c2a428f25f009d2b4b431360280f1087b01cb4fc"
 
@@ -693,6 +721,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/the
 hash = "46a8fd25582bd700c49208ce5e176f39bbca37b19ac65bb5fe1193aa74019b63"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm.json"
+hash = "91ae05211000d216c3a5fcffaf4935aa28450524a1454c08c06db2f168ffdcd0"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/ancient_sands.json"
 hash = "c5cf4c2637cfdc11f059dd194e2b649bbf865412af212cb696a7a6cdad2ff36d"
 
@@ -797,6 +829,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "0026ffa25c3ebca0075f40da9b886004c44d83ebfa55c036f1b26de54c5433da"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/boss.json"
+hash = "cf98d699592d0b7dcbb761fb66d703395b3af6bf676ba66670633f1a077b5b8c"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/boss/ender_dragon.json"
 hash = "a1984e0a818fd3e7f86bd72da96208db85a6f9b29e3130ee7f17ba489d81b18d"
 
@@ -811,6 +847,10 @@ hash = "070620a1b6f70dea7bd499ed74b1ac1647d0c6ed4a788cf74c77c38b86a5e1e2"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/boss/wither.json"
 hash = "cda34a4239fc403d3830386b9f12fc0c908553af292890d65d0a8021dea3b552"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile.json"
+hash = "671160c10c4fbf3421894af997e8b0d421c0173586042704cf82b84a26282778"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/hostile/amethyst_golem.json"
@@ -1025,6 +1065,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "c3a7663c06b4aa40e63ada23e5f5c050d30006ab76042beb8e77f66ad80663b5"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/neutral.json"
+hash = "87ead01cca9f1d1fc420f68773eb83da5e116a4589fa5303ca969c4111f2fa83"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/neutral/brown_fungus.json"
 hash = "379661f94fce196660b67568e1d83ae7d36aa062d6eb887276ca56c46b2c3b98"
 
@@ -1081,6 +1125,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate
 hash = "181967f02d19f63352b1cf8d281c0d7b770d3e62bcf79a65118c84aeb9797c1e"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_aqua.json"
+hash = "26eaae5df6f0af824b4702bbaef85c20868f9def0ae39e23562b70f31c7382a1"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_aqua/axolotl.json"
 hash = "cb8cae9be97c68015cdf361c10a8f41f768fe684ad138b31ae273f27c0dc5345"
 
@@ -1115,6 +1163,10 @@ hash = "b7a53a39d0ec2be8537adcf036c6e177325479a7e0b0bfd724c90e8f338d0224"
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_aqua/tropical_fish.json"
 hash = "f24a90b168505d8da030115ab3be0d185841cb168357b599839a557eb9875aa8"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land.json"
+hash = "d765eabf253ac9d2b01e67b37f13a7729f04571f6029712ed98ab513d49a9ae9"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/exterminate/passive_land/bat.json"
@@ -1394,11 +1446,11 @@ hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
-hash = "ddc20c31bfc23f08d7dddbccd61de1e906f38bd4907c7d5f4cbb93808e307fd0"
+hash = "c2e65b3ee27fd75336f310b5d58d7e4ce21951481c538f6b842ea15cbfb532d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
-hash = "3a09f1bca148a755ba7e4d9995160290c8d86d64bbf7aade84c1e01309bb9120"
+hash = "bb0bbb0f8202dc9ed3e2f94f15af358e92d2bc1d4292967bff5695ee991d31f9"
 
 [[files]]
 file = "kubejs/server_scripts/server_load.js"

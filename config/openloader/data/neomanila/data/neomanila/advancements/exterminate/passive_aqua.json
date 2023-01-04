@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Untiered (Aquatic)"
+        },
+        "description": {
+            "text": "Defeat aquatic passive mobs to survive."
+        },
+        "icon": {
+            "item": "minecraft:axolotl_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "welcome": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "neomanila:exterminate"
+}

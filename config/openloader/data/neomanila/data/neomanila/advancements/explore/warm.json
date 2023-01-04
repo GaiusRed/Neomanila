@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Overworld Warm"
+        },
+        "description": {
+            "text": "Explore warm biomes in the overworld!"
+        },
+        "icon": {
+            "item": "minecraft:sand"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "welcome": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "neomanila:explore"
+}

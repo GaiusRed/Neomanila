@@ -116,14 +116,4 @@ onEvent('recipes', (event) => {
     barrel('blockus:white_oak_barrel', 'blockus:white_oak_planks', 'blockus:white_oak_slab');
     barrel('blockus:charred_barrel', 'blockus:charred_planks', 'blockus:charred_slab');
     barrel('blockus:bamboo_barrel', 'blockus:bamboo_planks', 'blockus:bamboo_slab');
-
-    // Decorative Blocks
-    event.shaped('decorative_blocks:chain', [
-        'A',
-        'B',
-        'A'
-    ], {
-        A: 'minecraft:iron_ingot',
-        B: 'minecraft:iron_nugget'
-    });
 });
