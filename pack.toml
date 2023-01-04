@@ -1,6 +1,6 @@
 name = "Neomanila"
 author = "erik@gaius.red"
-version = "0.6.9"
+version = "0.6.9a"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "bd8a05902b371e9edf7f0f209d764224269fbe5204b41d634af499cf10baf3ea"
 
 [versions]
-fabric = "0.14.9"
+fabric = "0.14.10"
 minecraft = "1.18.2"
