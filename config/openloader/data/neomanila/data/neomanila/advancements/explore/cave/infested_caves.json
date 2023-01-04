@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Old Growth Pine Taiga"
+            "text": "Infested Caves"
         },
         "description": {
-            "text": "Find a Old Growth Pine Taiga biome in the Overworld."
+            "text": "Find a Infested Caves biome in the Overworld."
         },
         "icon": {
-            "item": "minecraft:dead_bush"
+            "item": "minecraft:dripstone_block"
         },
-        "frame": "task",
+        "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": true
@@ -18,14 +18,14 @@
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:old_growth_pine_taiga"
+                "biome": "terralith:infested_caves"
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:reward2_uncommon"
+            "neomanila:reward4_veryrare"
         ]
     },
-    "parent": "neomanila:explore/cold/highlands"
+    "parent": "neomanila:explore/cave/ice_caves"
 }

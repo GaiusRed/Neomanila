@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Old Growth Pine Taiga"
+            "text": "Warm River"
         },
         "description": {
-            "text": "Find a Old Growth Pine Taiga biome in the Overworld."
+            "text": "Find a Warm River biome in the Overworld."
         },
         "icon": {
-            "item": "minecraft:dead_bush"
+            "item": "minecraft:salmon"
         },
         "frame": "task",
         "show_toast": true,
@@ -18,14 +18,14 @@
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:old_growth_pine_taiga"
+                "biome": "terralith:warm_river"
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:reward2_uncommon"
+            "neomanila:reward3_rare"
         ]
     },
-    "parent": "neomanila:explore/cold/highlands"
+    "parent": "neomanila:explore/aquatic/deep_frozen_ocean"
 }

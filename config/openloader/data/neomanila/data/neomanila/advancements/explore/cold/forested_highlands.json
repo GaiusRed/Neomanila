@@ -1,31 +1,31 @@
 {
     "display": {
         "title": {
-            "text": "Old Growth Pine Taiga"
+            "text": "Forested Highlands"
         },
         "description": {
-            "text": "Find a Old Growth Pine Taiga biome in the Overworld."
+            "text": "Find a Forested Highlands biome in the Overworld."
         },
         "icon": {
-            "item": "minecraft:dead_bush"
+            "item": "minecraft:birch_sapling"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": true
+        "hidden": false
     },
     "criteria": {
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:old_growth_pine_taiga"
+                "biome": "terralith:forested_highlands"
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:reward2_uncommon"
+            "neomanila:reward1_common"
         ]
     },
-    "parent": "neomanila:explore/cold/highlands"
+    "parent": "neomanila:explore/cold/taiga"
 }

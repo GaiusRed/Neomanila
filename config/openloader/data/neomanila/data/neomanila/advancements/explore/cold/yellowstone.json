@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Old Growth Pine Taiga"
+            "text": "Yellowstone"
         },
         "description": {
-            "text": "Find a Old Growth Pine Taiga biome in the Overworld."
+            "text": "Find a Yellowstone biome in the Overworld."
         },
         "icon": {
-            "item": "minecraft:dead_bush"
+            "item": "minecraft:orange_terracotta"
         },
         "frame": "task",
         "show_toast": true,
@@ -18,7 +18,7 @@
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:old_growth_pine_taiga"
+                "biome": "terralith:yellowstone"
             }
         }
     },
@@ -27,5 +27,5 @@
             "neomanila:reward2_uncommon"
         ]
     },
-    "parent": "neomanila:explore/cold/highlands"
+    "parent": "neomanila:explore/cold/windswept_hills"
 }

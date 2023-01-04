@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Old Growth Pine Taiga"
+            "text": "Blooming Plateau"
         },
         "description": {
-            "text": "Find a Old Growth Pine Taiga biome in the Overworld."
+            "text": "Find a Blooming Plateau biome in the Overworld."
         },
         "icon": {
-            "item": "minecraft:dead_bush"
+            "item": "minecraft:flowering_azalea_leaves"
         },
         "frame": "task",
         "show_toast": true,
@@ -18,14 +18,14 @@
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "minecraft:old_growth_pine_taiga"
+                "biome": "terralith:blooming_plateau"
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:reward2_uncommon"
+            "neomanila:reward3_rare"
         ]
     },
-    "parent": "neomanila:explore/cold/highlands"
+    "parent": "neomanila:explore/temperate/orchid_swamp"
 }
