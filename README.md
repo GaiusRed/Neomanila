@@ -22,16 +22,12 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - BetterEnd
 - Blockus
 - Blossom
-- Cave Enhancement
 - Chalk
 - Charm of Undying (Fabric)
 - Comforts (Fabric)
 - Create (Fabric)
 - Creeper Overhaul
-- Ecologics
 - Enhanced Mushrooms
-- Fantasy Ores by CesarZorak
-- Fantasy Ores Modded by CesarZorak
 - Farmer's Delight (Fabric)
 - Goblin Traders (Fabric)
 - Iron Chests
@@ -84,7 +80,6 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - bad packets
 - Balm
 - BCLib
-- Better Compatibility Checker
 - Bookshelf
 - Cloth Config API
 - Disable Custom Worlds Advice (Fabric)
@@ -101,3 +96,11 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - TerraBlender (Fabric)
 - ThonkUtil
 - Your Options Shall Be Respected (YOSBR)
+
+## Credits
+
+Some of the authors of the assets used require an attribution back to their page. So here is a list of the mods/resource packs that have this requirement:
+
+- https://www.curseforge.com/minecraft/mc-mods/terralith
+- https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+- https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
