@@ -38,10 +38,6 @@ onEvent('recipes', (event) => {
         'blockus:legacy_first_grass_block',
         'blockus:legacy_first_grass_block_stonecutting',
         'blockus:rainbow_glowstone',
-
-        // Ecologics
-        'ecologics:moss_block',
-        'ecologics:surface_moss',
     ].forEach((recipeID) => event.remove({ id: recipeID }));
 
     // Remove recipes by input.

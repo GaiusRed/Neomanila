@@ -29,5 +29,5 @@
             "neomanila:reward1_common"
         ]
     },
-    "parent": "neomanila:exterminate/passive_land/squirrel"
+    "parent": "neomanila:exterminate/passive_land/turtle"
 }

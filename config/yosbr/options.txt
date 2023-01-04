@@ -3,7 +3,7 @@ enableVsync:false
 realmsNotifications:false
 darkMojangStudiosBackground:true
 biomeBlendRadius:5
-resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","enhanced_mushrooms/vanilla_overrides","file/Fantasy_Ores[1.16.x to 1.19.x][v5].zip","file/Fantasy_Ores_Modded[v1.8].zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","enhanced_mushrooms/vanilla_overrides"]
 incompatibleResourcePacks:[]
 bobView:false
 maxFps:120

@@ -85,8 +85,6 @@ theend,Lantern Woods,minecraft:end_stone,lantern_woods,reward2_uncommon,End,bett
 theend,Neon Oasis,minecraft:end_stone,neon_oasis,reward2_uncommon,End,betterend
 theend,Jade Cave,minecraft:end_stone,jade_cave,reward2_uncommon,End,betterend
 theend,Umbra Valley,minecraft:end_stone,umbra_valley,reward2_uncommon,End,betterend
-cave,Goop Caves,ce:goop,goop_caves,reward3_rare,Overworld,ce
-cave,Rose Quartz Caves,ce:rose_quartz,rose_quartz_caves,reward3_rare,Overworld,ce
 temperate,Gravel Beach,minecraft:gravel,gravel_beach,reward1_common,Overworld,terralith
 temperate,Temperate Highlands,minecraft:birch_leaves,temperate_highlands,reward1_common,Overworld,terralith
 cold,Forested Highlands,minecraft:birch_sapling,forested_highlands,reward1_common,Overworld,terralith

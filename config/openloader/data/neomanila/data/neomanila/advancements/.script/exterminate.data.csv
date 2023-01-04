@@ -88,9 +88,6 @@ passive_aqua,End Fish,end_fish,reward2_uncommon,spawn_egg_end_fish,betterend
 hostile,End Slime,end_slime,reward2_uncommon,spawn_egg_end_slime,betterend
 hostile,Shadow Walker,shadow_walker,reward3_rare,spawn_egg_shadow_walker,betterend
 passive_land,Silk Moth,silk_moth,reward3_rare,spawn_egg_silk_moth,betterend
-passive_land,Goop,goop,reward2_uncommon,goop_spawn_egg,ce
-neutral,Dripstone Tortoise,dripstone_tortoise,reward2_uncommon,dripstone_tortoise_spawn_egg,ce
-hostile,Cruncher,cruncher,reward2_uncommon,cruncher_spawn_egg,ce
 hostile,Jungle Creeper,jungle_creeper,reward0_verycommon,jungle_creeper_spawn_egg,creeperoverhaul
 hostile,Bamboo Creeper,bamboo_creeper,reward0_verycommon,bamboo_creeper_spawn_egg,creeperoverhaul
 hostile,Desert Creeper,desert_creeper,reward0_verycommon,desert_creeper_spawn_egg,creeperoverhaul
@@ -105,9 +102,5 @@ hostile,Dark Oak Creeper,dark_oak_creeper,reward0_verycommon,dark_oak_creeper_sp
 hostile,Spruce Creeper,spruce_creeper,reward0_verycommon,spruce_creeper_spawn_egg,creeperoverhaul
 hostile,Beach Creeper,beach_creeper,reward0_verycommon,beach_creeper_spawn_egg,creeperoverhaul
 hostile,Snowy Creeper,snowy_creeper,reward0_verycommon,snowy_creeper_spawn_egg,creeperoverhaul
-passive_land,Coconut Crab,coconut_crab,reward0_verycommon,coconut_crab_spawn_egg,ecologics
-passive_land,Camel,camel,reward0_verycommon,camel_spawn_egg,ecologics
-passive_land,Penguin,penguin,reward0_verycommon,penguin_spawn_egg,ecologics
-passive_land,Squirrel,squirrel,reward0_verycommon,squirrel_spawn_egg,ecologics
 passive_land,Elephant,elephant,reward2_uncommon,elephant_spawn_egg,sprout
 passive_land,Bounce Bug,bounce_bug,reward2_uncommon,bouncebug_spawn_egg,sprout
