@@ -74,5 +74,8 @@ onEvent('recipes', (event) => {
         'twigs:mossy_brick_stairs',
         'twigs:mossy_brick_slab',
         'twigs:mossy_brick_wall',
+
+        // Get Off My Lawn
+        'goml:makeshift_claim_anchor',
     ].forEach((itemID) => event.remove({ output: itemID }));
 });
