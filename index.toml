@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8d401527639a088fc8fae3337e222e2baa0b7d6dbc99a88150ca51f087a3b5e0"
+hash = "781dd6bbaadedbefa58ee6e27b9226de45e602c555f09a8a752bb2983f49930d"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -39,6 +39,10 @@ hash = "e6f9ddb03c8bdada1affdfd9eeeacff6994b486c5c19349cc18e279941d4d7f8"
 [[files]]
 file = "config/create-common.toml"
 hash = "805473c106646f837172f1713eb75a7f3c5626379ad44910a090358737c2c102"
+
+[[files]]
+file = "config/getoffmylawn.json"
+hash = "ed8c45f6376b560fe57ec745622f7197ca7424b87d449c9df0ec54a6c9edb324"
 
 [[files]]
 file = "config/naturescompass.json"
@@ -1438,7 +1442,7 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "edd82b35444edeceaf547254f917e0a5427954475313d8e4b79e38428914f874"
+hash = "419666872d18296f9d61ae988367d64decb8c6bf3ff5df2b2c937e43dc76d01d"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
@@ -1446,7 +1450,7 @@ hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
-hash = "c2e65b3ee27fd75336f310b5d58d7e4ce21951481c538f6b842ea15cbfb532d7"
+hash = "f2f417bf2d234e00050ca5a9577ce92fab8f154af15c10e28f80ad3ed3f1e52f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
@@ -1664,6 +1668,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders-fabric.pw.toml"
 hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "bbbb51245f221ebc794c9a7e6be6d1f9ee0df52735ecb94c9fa177f327e67c03"
 metafile = true
 
 [[files]]

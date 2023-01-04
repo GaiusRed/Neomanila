@@ -4,6 +4,7 @@ A `Zero Magic` Fabric Modpack w/ Create v0.5 for Minecraft 1.18.2
 
 ## Features
 - Economic system tied to Villagers and Advancements
+- Changed Claim block recipe to rely on the Economic system
 
 ## Modlist
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
@@ -29,6 +30,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Creeper Overhaul
 - Enhanced Mushrooms
 - Farmer's Delight (Fabric)
+- Get Off My Lawn ReServed
 - Goblin Traders (Fabric)
 - Iron Chests
 - Moog's Voyager Structures
