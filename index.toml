@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "781dd6bbaadedbefa58ee6e27b9226de45e602c555f09a8a752bb2983f49930d"
+hash = "17cda7b134a6f4784207c9da6b4894c2c51073ab358a1c24012f3a5b10230883"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -1354,7 +1354,7 @@ hash = "5a605d98317319e00d8f531914cf7ee9e2affe71d255fbb2ed948580caf7473c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a772ed29c34cdb299d9b1c58a76c842063241f3149940f681a6c908fa8df6394"
+hash = "09308c3005594eb57f0d75ce17e696ebfab29c78bb285966a04f25a7b5786747"
 
 [[files]]
 file = "icon.png"
@@ -1903,3 +1903,7 @@ hash = "56ec32de9684de7c62bf69ee402bebd018f6a21214f4510c68cdde71a034fc4b"
 [[files]]
 file = "patchouli_books/welcome/en_us/entries/exterminate.json"
 hash = "d848de8942e550ca66ab3f867b65e95e4ae1b5b4c30d5217516b6aadc8254fbd"
+
+[[files]]
+file = "resourcepacks/cubic-moon-sun-v1-2.zip"
+hash = "240613f9c3dfcbf3d27c373cfe7488b662497255453c77014b1563b33147d6c4"

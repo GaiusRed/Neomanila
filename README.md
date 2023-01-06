@@ -23,6 +23,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - BetterEnd
 - Blockus
 - Blossom
+- Cubic Moon & Sun
 - Chalk
 - Charm of Undying (Fabric)
 - Comforts (Fabric)
