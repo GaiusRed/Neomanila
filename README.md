@@ -107,3 +107,4 @@ Some of the authors of the assets used require an attribution back to their page
 - https://www.curseforge.com/minecraft/mc-mods/terralith
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+- https://www.curseforge.com/minecraft/mc-mods/sprout
