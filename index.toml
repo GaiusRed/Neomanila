@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "09016972fcef3403ad98b989f17948c364aa3eb08dff8753ca2811761954a5cb"
+hash = "945e758eec0a0cfe8f215a3c4ea2bca7e96416fd0673cb5d484fb17859946ae2"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -1370,19 +1370,11 @@ hash = "5a605d98317319e00d8f531914cf7ee9e2affe71d255fbb2ed948580caf7473c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "09308c3005594eb57f0d75ce17e696ebfab29c78bb285966a04f25a7b5786747"
+hash = "d5debb7b919ed8dda25ea38fa2ef4adad74f9cecba413af142711fa5c30b0bd6"
 
 [[files]]
 file = "icon.png"
-hash = "e1d4b4ee3a18b8b8b05d3b2c831782931d15b3e715b244ecc997b75bd5f59136"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/icon.png"
-hash = "e1d4b4ee3a18b8b8b05d3b2c831782931d15b3e715b244ecc997b75bd5f59136"
-
-[[files]]
-file = "kubejs/client_scripts/mainmenu.js"
-hash = "9a9ac0364978b542ce6858dce6e03fa5632b536b405f3eb86dacb28bafbb17be"
+hash = "498ba1db898f8d2b829ea1305fa29292543c219ba22738322f6eed8d1ed6a31c"
 
 [[files]]
 file = "kubejs/client_scripts/rei_blacklist.js"
@@ -1458,7 +1450,7 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "4723eb57d8c3ad0f795a83f974ff494b6b413133ad34c3f458b13dee2d4807c5"
+hash = "5af4221c0753bf152cd0c96c0889d3b113a5328891a6921bd87776e681e16124"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
@@ -1466,7 +1458,7 @@ hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
-hash = "11be05b9b94c10c13967b47130c6292187a8158bf8d5070170c9f5c8085c3ca8"
+hash = "0ee9a9dbf3edc9347293a228528fc7a3dd95af28f8b087bacd8665c1dd0cb32c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
@@ -1533,7 +1525,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "3f57dfd24e15076ae0fba5cfb57c67f61e3c2a6e0b701a5c74736f26be704863"
+hash = "9c33395f4309fe542a37c7426f8bcd886fa1e9ee6407c502e68a0b24f8d46a0d"
 metafile = true
 
 [[files]]
@@ -1553,7 +1545,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "dece187eeefb4431896878db010e479bcfa90cbc176e8efded4b5be822b55af4"
+hash = "b9efdea76d0dae6f18a79a83009e833be7c633e03735bdefcf0f50e4a9ee823e"
 metafile = true
 
 [[files]]
@@ -1578,7 +1570,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "59dccf977ea30022f357761ebba038d457f11c33979ccbe117c9c58c14dd6d8d"
+hash = "e0fa82d595ac5544b2bebd196bdddbdc9702e281d6f9496bbeac2058c7968126"
 metafile = true
 
 [[files]]
@@ -1718,7 +1710,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "95d21398d2aad42c836da31adea56fc0f6c6f84a215f12b949576d4ed81d47ad"
+hash = "39ace1b9962495630f406952f5055edca4ef793be1f61e8dc9c6090c12e4be5e"
 metafile = true
 
 [[files]]
@@ -1778,12 +1770,12 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "b9cac3169f83ea0455d0d297da25ae6d156e0e8823c471b37bb4e2bd19c98187"
+hash = "28df3734469a13fe1cc277a44c7ff7c6d273e897db02d10b1e05cd4b8ee43fba"
 metafile = true
 
 [[files]]
 file = "mods/pollen.pw.toml"
-hash = "4b1846c0fc478da3143a38b677a5c05505fb4ad741c00aad0c6eefcded144dea"
+hash = "5497240e6ac8c5d1acf518f24653dc8bd1420b0ddec755abe9c63e4649390cb7"
 metafile = true
 
 [[files]]
@@ -1803,7 +1795,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "d3cbfc74109c4ff70f7d61d559c7fee5d675762b9265174aaca5625b1629ec9c"
+hash = "3d586e00562d465d1b477fa287d5c070e62d6fe4e2a580f268960d6fedd55a3c"
 metafile = true
 
 [[files]]
@@ -1913,12 +1905,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0699923cdb9f9f031a1bb31e940d8280f27d1d06aa22a0beb3eeedf9decda5d3"
+hash = "d4c0e5980f796194806c3b6ee27522181d6bc70f06da762e72bbafe2a925d2fd"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "19b413b4e2cb913fea75f9bf32171b6957330243c5bed027c21dfa1d62b50db1"
+hash = "65aa144c62a87520c47446c121cd6afe6cb54321e2e5a75acf0eec3bbed44907"
 metafile = true
 
 [[files]]
@@ -1949,6 +1941,62 @@ hash = "56ec32de9684de7c62bf69ee402bebd018f6a21214f4510c68cdde71a034fc4b"
 [[files]]
 file = "patchouli_books/welcome/en_us/entries/exterminate.json"
 hash = "d848de8942e550ca66ab3f867b65e95e4ae1b5b4c30d5217516b6aadc8254fbd"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/accessibility.png"
+hash = "169aa4c41863b0e7a9460639cf46a67b7cf727d0c05a13aff3794b5ac350251c"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/options_background.png"
+hash = "27bf03ca06be76f9c8b3d98632ff9a90243f09862cf7e8beee8c7782d9a94847"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "ab3d4f41b4e228b6110e2d02e0a0a931bbcd869a212891e632df9503bd3c65a5"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "0149a9b2e719521c25853def625b874e3b8abd2a9b8901cd03059edfb9f6e4b0"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "6f880dbe6840f1aaa1f77a91047e0ae5f64814e1d295b78c06d02fd2fc881f2d"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "7969b64c4041f56b7f0e5207b57a3120e12023fa008fe565e66e30702e30a965"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "da3c9b50a9f6d0949131af0c923e2b1cedca76e1b83081ce5faa2eb2ee02026a"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "3d81f0e52f7f39a36ead40ffde3abb09726214ef1b36b352f7c7df94145833e8"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "e9fa3c9e2144e3c6f354397f5deb330941cb2a22b1e1c20770fe7ac971ff809c"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "de250e8bf248690a5b6451836fcbcd36626e050e2dc9fe75ef713f2f847053b7"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/widgets.png"
+hash = "28f5eed1474c26a4032ddbfbbd97979e8b7b5487d4bf51713430648e30aa5d77"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/pack.mcmeta"
+hash = "451d9c1070838e53429846c621e1a6b1e53db02c5d4f8a08b9428e0edf21036b"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/pack.png"
+hash = "498ba1db898f8d2b829ea1305fa29292543c219ba22738322f6eed8d1ed6a31c"
 
 [[files]]
 file = "resourcepacks/cubic-moon-sun-v1-2.zip"
