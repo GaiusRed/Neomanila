@@ -26,11 +26,15 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "17cda7b134a6f4784207c9da6b4894c2c51073ab358a1c24012f3a5b10230883"
+hash = "3168b8dc137efbb70e0de66246005966bca0ebe936cbd7cf4c088a899ca99e80"
 
 [[files]]
 file = "config/bettercombat/client.json5"
 hash = "6832bb19e811f79fb476803b561e7beed7ea4c3e4ec873557788b04ce27c2bee"
+
+[[files]]
+file = "config/collectorsalbum.yaml"
+hash = "65bca05175e334087063930363926f34710c7d0f8d9a7ecde66aeee34ddbe735"
 
 [[files]]
 file = "config/create-client.toml"
@@ -43,6 +47,10 @@ hash = "805473c106646f837172f1713eb75a7f3c5626379ad44910a090358737c2c102"
 [[files]]
 file = "config/getoffmylawn.json"
 hash = "ed8c45f6376b560fe57ec745622f7197ca7424b87d449c9df0ec54a6c9edb324"
+
+[[files]]
+file = "config/iris.properties"
+hash = "7e8e7c56a89aae827246b84388865db5f3359f1037ea6919ffa445505604729c"
 
 [[files]]
 file = "config/naturescompass.json"
@@ -1442,7 +1450,7 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "419666872d18296f9d61ae988367d64decb8c6bf3ff5df2b2c937e43dc76d01d"
+hash = "4723eb57d8c3ad0f795a83f974ff494b6b413133ad34c3f458b13dee2d4807c5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
@@ -1450,7 +1458,7 @@ hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
-hash = "f2f417bf2d234e00050ca5a9577ce92fab8f154af15c10e28f80ad3ed3f1e52f"
+hash = "11be05b9b94c10c13967b47130c6292187a8158bf8d5070170c9f5c8085c3ca8"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
@@ -1581,6 +1589,11 @@ hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
 metafile = true
 
 [[files]]
+file = "mods/collectors-album.pw.toml"
+hash = "999b86583a92b20aebce4d5cccbb93e5d6aa8bc2b198a2f58e7f951b8e284008"
+metafile = true
+
+[[files]]
 file = "mods/comforts-fabric.pw.toml"
 hash = "85d6333b997a97a1dda2bc690188ebfd71eb4463dbb815de02344a633a2d366e"
 metafile = true
@@ -1588,6 +1601,11 @@ metafile = true
 [[files]]
 file = "mods/companion-fabric.pw.toml"
 hash = "57386627dec02f63b532eaf99142085dc6a20f1c5d28540dd91e266ea07ff7ee"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "ed0bbbd07b52bbf9b7adde53c1bdc2c12ae58cce3b4e6d0baa343370516149fa"
 metafile = true
 
 [[files]]
@@ -1681,6 +1699,11 @@ hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "3108487e76960f8e1cb70cccb973b88137f362cdf11a667bbc3208c44722fe8b"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-ui.pw.toml"
 hash = "cc44d714f19845969e8abfca84fdd94245bf0ccb55b0fad27ac006c021bfb659"
 metafile = true
@@ -1696,8 +1719,18 @@ hash = "9480f9e11e91eb82ba616c5c622c218d7b7ceff6599a3348d557eb1a1ddd41f9"
 metafile = true
 
 [[files]]
+file = "mods/luggage.pw.toml"
+hash = "4e76fd77824c8dcb893b2a5131e3bc11c3f1050d9c1d8ea7f8b4aa2a98f586ca"
+metafile = true
+
+[[files]]
 file = "mods/megane.pw.toml"
 hash = "1d15b4f366ffc9430ab6650362448777f8a99f585be792307cf329bf1bff6d4b"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
@@ -1708,11 +1741,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "d73bf0bf40f47363ba814b2cccc8d512f734cebb4e8a555177291831313d9a5f"
 metafile = true
 
 [[files]]
@@ -1907,3 +1935,7 @@ hash = "d848de8942e550ca66ab3f867b65e95e4ae1b5b4c30d5217516b6aadc8254fbd"
 [[files]]
 file = "resourcepacks/cubic-moon-sun-v1-2.zip"
 hash = "240613f9c3dfcbf3d27c373cfe7488b662497255453c77014b1563b33147d6c4"
+
+[[files]]
+file = "shaderpacks/Solas Shader V1.4.zip"
+hash = "35eefd2bd714101db3bbe547571bcdd4c82460e92e458313efab3589a2aedbd5"

@@ -77,5 +77,11 @@ onEvent('recipes', (event) => {
 
         // Get Off My Lawn
         'goml:makeshift_claim_anchor',
+
+        // Luggage
+        'luggage:luggage',
+
+        // Collector's Album
+        'collectorsalbum:album',
     ].forEach((itemID) => event.remove({ output: itemID }));
 });
