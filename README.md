@@ -3,6 +3,7 @@
 A `Create v0.5-focused` Fabric Modpack for Minecraft 1.18.2
 
 ## Features
+- Add the 1.19 Wild Update Backport
 - Economic system tied to Villagers and Advancements
 - Changed Claim block, Luggage, Gilded Netherite Armour and Collector's Album recipes to rely on the Economic system
 - Add Iris Shaders and set default shader to Solas
@@ -67,6 +68,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Roughly Enough Items (REI)
 - Replanter
 - Shards
+- The Wild Backport
+- The Wild Backport (Additions)
 - Trinket Shulker Boxes (Fabric)
 - Trinkets
 - Unforgiving Void

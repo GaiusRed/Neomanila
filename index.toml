@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "3168b8dc137efbb70e0de66246005966bca0ebe936cbd7cf4c088a899ca99e80"
+hash = "09016972fcef3403ad98b989f17948c364aa3eb08dff8753ca2811761954a5cb"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -146,7 +146,11 @@ hash = "f16365ef6c48273f96e9125840b0656a69a694b9aea19adfe4fdc1ca1e10f2ae"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/andesite_caves.json"
-hash = "e131d362971446c2e9a3fa22de9ea17ffbe0a547aebf3280e663d663e4ec68f1"
+hash = "9a920bc659939d769347729e0300151e3acb6da6d217eb6e0638c61c75863ccc"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/deep_dark.json"
+hash = "e82eb38e29281e3032c8c41ef8484225bc468238b1c7f1162ae3600c8c5b5337"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/cave/desert_caves.json"
@@ -781,6 +785,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/war
 hash = "22b599d69c2d1d21cd7cc54c3da88cf6b5396e1fd1117a04eec6f7e9db045598"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/mangrove_swamp.json"
+hash = "ef69899ed7382501313cec392341fa0fa8f6b3014f444f05f60efebf75405122"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/red_oasis.json"
 hash = "34a46e0d6aeaa9e9c31cbe5470ceb5bced6042fa840927c4c5274913f8b9fe50"
 
@@ -810,7 +818,7 @@ hash = "74dd733993bd1fe5584bf94a3cd68008fdb9eae5eae3d25700559a706db8a06d"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/skylands_summer.json"
-hash = "8b9b68c8b4a98638989050c6ff5d86a92a3b2d2dd00a8a985453b820bd90ddc5"
+hash = "54af44756f43f4c0a08bbafec484317b95e0c649427d65db9752c3af88c84072"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/warm/volcanic_peaks.json"
@@ -1841,6 +1849,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
+metafile = true
+
+[[files]]
+file = "mods/the-wild-backport-additions.pw.toml"
+hash = "374eee10b117994ae26689d92c09c670af135bae27d5a6c5aa53ec5c644ff187"
+metafile = true
+
+[[files]]
+file = "mods/the-wild-backport.pw.toml"
+hash = "1e2923b52bb8891e97b75b2dd20b1b4fb0eeb945946821e394d393d770262cd4"
 metafile = true
 
 [[files]]

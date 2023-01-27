@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "skylands (Summer)"
+            "text": "Deep Dark"
         },
         "description": {
-            "text": "Find a skylands (Summer) biome in the Overworld."
+            "text": "Find a Deep Dark biome in the Overworld."
         },
         "icon": {
-            "item": "minecraft:grass_block"
+            "item": "wildbackport:sculk"
         },
-        "frame": "challenge",
+        "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": true
@@ -18,14 +18,14 @@
         "Claim": {
             "trigger": "minecraft:location",
             "conditions": {
-                "biome": "terralith:skylands_summer"
+                "biome": "wildbackport:deep_dark"
             }
         }
     },
     "rewards": {
         "loot": [
-            "neomanila:reward4_veryrare"
+            "neomanila:reward3_rare"
         ]
     },
-    "parent": "neomanila:explore/warm/mangrove_swamp"
+    "parent": "neomanila:explore/cave/lush_caves"
 }
