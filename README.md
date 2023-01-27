@@ -5,7 +5,12 @@ A `Create v0.5-focused` Fabric Modpack for Minecraft 1.18.2
 ## Features
 - Add the 1.19 Wild Update Backport
 - Economic system tied to Villagers and Advancements
-- Changed Claim block, Luggage, Gilded Netherite Armour and Collector's Album recipes to rely on the Economic system
+- The following recipes now rely on the Economic system:
+  - Claim blocks from the Get Off My Lawn ReServed mod
+  - Luggage from the Luggage mod
+  - Gilded Netherite Armour from the AdventureZ mod
+  - Collector's Album from the Collector's Album mod
+  - Warp Stone from the Waystones mod
 - Add Iris Shaders and set default shader to Solas
 
 ## Modlist

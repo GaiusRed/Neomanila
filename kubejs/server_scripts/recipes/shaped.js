@@ -160,4 +160,15 @@ onEvent('recipes', (event) => {
         C: 'minecraft:book',
         D: 'numismatic-overhaul:gold_coin'
     });
+
+    // Waystones
+    event.shaped('waystones:warp_stone', [
+        'ABA',
+        'BCB',
+        'ABA'
+    ], {
+        A: '#c:dye_purple',
+        B: 'minecraft:ender_pearl',
+        C: 'numismatic-overhaul:gold_coin'
+    });
 });

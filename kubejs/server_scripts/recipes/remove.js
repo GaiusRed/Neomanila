@@ -83,5 +83,8 @@ onEvent('recipes', (event) => {
 
         // Collector's Album
         'collectorsalbum:album',
+
+        // Waystones
+        'waystones:warp_stone',
     ].forEach((itemID) => event.remove({ output: itemID }));
 });

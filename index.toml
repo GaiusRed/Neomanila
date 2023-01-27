@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c681971f5023375b46b7ef8817f0f4ca4c7106b55fe3806a656eeb5da50391bd"
+hash = "945e758eec0a0cfe8f215a3c4ea2bca7e96416fd0673cb5d484fb17859946ae2"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -1450,7 +1450,7 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "4723eb57d8c3ad0f795a83f974ff494b6b413133ad34c3f458b13dee2d4807c5"
+hash = "5af4221c0753bf152cd0c96c0889d3b113a5328891a6921bd87776e681e16124"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
@@ -1458,7 +1458,7 @@ hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
-hash = "11be05b9b94c10c13967b47130c6292187a8158bf8d5070170c9f5c8085c3ca8"
+hash = "41e3540342c3249febacc62044ae184d1125b711408b1e654122d3ac91650bca"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
