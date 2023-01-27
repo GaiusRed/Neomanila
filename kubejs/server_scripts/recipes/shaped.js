@@ -167,7 +167,7 @@ onEvent('recipes', (event) => {
         'BCB',
         'ABA'
     ], {
-        A: '#c:dye_purple',
+        A: 'minecraft:purple_dye',
         B: 'minecraft:ender_pearl',
         C: 'numismatic-overhaul:gold_coin'
     });

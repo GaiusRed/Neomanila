@@ -8,7 +8,7 @@ A `Create v0.5-focused` Fabric Modpack for Minecraft 1.18.2
 - The following recipes now rely on the Economic system:
   - Claim blocks from the Get Off My Lawn ReServed mod
   - Luggage from the Luggage mod
-  - Gilded Netherite Armour from the AdventureZ mod
+  - Gilded Netherite Armour from the Additional Additions mod
   - Collector's Album from the Collector's Album mod
   - Warp Stone from the Waystones mod
 - Add Iris Shaders and set default shader to Solas
