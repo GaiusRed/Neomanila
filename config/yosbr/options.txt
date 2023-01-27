@@ -3,7 +3,7 @@ enableVsync:false
 realmsNotifications:false
 darkMojangStudiosBackground:true
 biomeBlendRadius:5
-resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","enhanced_mushrooms/vanilla_overrides","resources/neomanila","file/cubic-moon-sun-v1-2.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","enhanced_mushrooms/vanilla_overrides","resources/neomanila","file/cubic-moon-sun-v1-2.zip","file/Neomanila Resources"]
 incompatibleResourcePacks:["file/cubic-moon-sun-v1-2.zip"]
 bobView:false
 maxFps:120

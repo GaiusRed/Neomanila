@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "09016972fcef3403ad98b989f17948c364aa3eb08dff8753ca2811761954a5cb"
+hash = "c681971f5023375b46b7ef8817f0f4ca4c7106b55fe3806a656eeb5da50391bd"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -1370,19 +1370,11 @@ hash = "5a605d98317319e00d8f531914cf7ee9e2affe71d255fbb2ed948580caf7473c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "09308c3005594eb57f0d75ce17e696ebfab29c78bb285966a04f25a7b5786747"
+hash = "d5debb7b919ed8dda25ea38fa2ef4adad74f9cecba413af142711fa5c30b0bd6"
 
 [[files]]
 file = "icon.png"
-hash = "e1d4b4ee3a18b8b8b05d3b2c831782931d15b3e715b244ecc997b75bd5f59136"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/icon.png"
-hash = "e1d4b4ee3a18b8b8b05d3b2c831782931d15b3e715b244ecc997b75bd5f59136"
-
-[[files]]
-file = "kubejs/client_scripts/mainmenu.js"
-hash = "9a9ac0364978b542ce6858dce6e03fa5632b536b405f3eb86dacb28bafbb17be"
+hash = "498ba1db898f8d2b829ea1305fa29292543c219ba22738322f6eed8d1ed6a31c"
 
 [[files]]
 file = "kubejs/client_scripts/rei_blacklist.js"
@@ -1949,6 +1941,62 @@ hash = "56ec32de9684de7c62bf69ee402bebd018f6a21214f4510c68cdde71a034fc4b"
 [[files]]
 file = "patchouli_books/welcome/en_us/entries/exterminate.json"
 hash = "d848de8942e550ca66ab3f867b65e95e4ae1b5b4c30d5217516b6aadc8254fbd"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/accessibility.png"
+hash = "169aa4c41863b0e7a9460639cf46a67b7cf727d0c05a13aff3794b5ac350251c"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/options_background.png"
+hash = "27bf03ca06be76f9c8b3d98632ff9a90243f09862cf7e8beee8c7782d9a94847"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "ab3d4f41b4e228b6110e2d02e0a0a931bbcd869a212891e632df9503bd3c65a5"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "0149a9b2e719521c25853def625b874e3b8abd2a9b8901cd03059edfb9f6e4b0"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "6f880dbe6840f1aaa1f77a91047e0ae5f64814e1d295b78c06d02fd2fc881f2d"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "7969b64c4041f56b7f0e5207b57a3120e12023fa008fe565e66e30702e30a965"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "da3c9b50a9f6d0949131af0c923e2b1cedca76e1b83081ce5faa2eb2ee02026a"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "3d81f0e52f7f39a36ead40ffde3abb09726214ef1b36b352f7c7df94145833e8"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "e9fa3c9e2144e3c6f354397f5deb330941cb2a22b1e1c20770fe7ac971ff809c"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "de250e8bf248690a5b6451836fcbcd36626e050e2dc9fe75ef713f2f847053b7"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/widgets.png"
+hash = "28f5eed1474c26a4032ddbfbbd97979e8b7b5487d4bf51713430648e30aa5d77"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/pack.mcmeta"
+hash = "451d9c1070838e53429846c621e1a6b1e53db02c5d4f8a08b9428e0edf21036b"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/pack.png"
+hash = "498ba1db898f8d2b829ea1305fa29292543c219ba22738322f6eed8d1ed6a31c"
 
 [[files]]
 file = "resourcepacks/cubic-moon-sun-v1-2.zip"
