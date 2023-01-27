@@ -1,0 +1,13 @@
+name = "Collector's Album [Fabric | Forge]"
+filename = "collectors-album-1.18.2-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0905e07e27d061e758cc4eb954b50e1ad06e1688"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4173387
+project-id = 659390

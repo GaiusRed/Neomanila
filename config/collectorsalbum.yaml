@@ -1,0 +1,28 @@
+# Configure card package drop chances from mobs
+mobDrops:
+  # Chance that no package is dropped on kill
+  noDropWeight: 5700
+
+  # Chance that common package is dropped on kill
+  commonDropWeight: 240
+
+  # Chance that uncommon package is dropped on kill
+  uncommonDropWeight: 160
+
+  # Chance that rare package is dropped on kill
+  rareDropWeight: 115
+
+  # Chance that epic package is dropped on kill
+  epicDropWeight: 70
+
+  # Chance that legendary package is dropped on kill
+  legendaryDropWeight: 45
+
+  # Chance that mythical package is dropped on kill
+  mythicalDropWeight: 35
+
+# Keep album in inventory through death
+persistAlbumThroughDeath: true
+
+# When set to true no cards will be received from package unless you flip all cards
+requireTurnAllCards: false

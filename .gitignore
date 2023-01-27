@@ -7,3 +7,4 @@
 .vscode
 exported
 packwiz.exe
+!shaderpacks/*

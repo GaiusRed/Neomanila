@@ -1,0 +1,13 @@
+name = "Luggage"
+filename = "luggage-1.3.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75c77810bfa07e23a8c8b56f198ba6e20f2e429e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3870818
+project-id = 594709

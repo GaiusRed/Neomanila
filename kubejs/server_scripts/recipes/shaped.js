@@ -127,4 +127,37 @@ onEvent('recipes', (event) => {
         B: 'minecraft:stone',
         C: 'numismatic-overhaul:gold_coin'
     });
+
+    // Additional Additions
+    event.shaped('additionaladditions:gold_ring', [
+        'ABA',
+        'B B',
+        'ABA'
+    ], {
+        A: 'minecraft:gold_block',
+        B: 'numismatic-overhaul:gold_coin'
+    });
+
+    // Luggage
+    event.shaped('luggage:luggage', [
+        'ACA',
+        'ABA',
+        'AAA'
+    ], {
+        A: '#c:rods/wooden',
+        B: '#c:chests/wooden',
+        C: 'numismatic-overhaul:gold_coin'
+    });
+
+    // Collector's Album
+    event.shaped('collectorsalbum:album', [
+        'ABA',
+        'ACA',
+        'ADA'
+    ], {
+        A: 'minecraft:paper',
+        B: 'minecraft:purple_carpet',
+        C: 'minecraft:book',
+        D: 'numismatic-overhaul:gold_coin'
+    });
 });

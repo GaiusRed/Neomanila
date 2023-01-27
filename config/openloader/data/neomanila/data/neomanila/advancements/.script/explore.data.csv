@@ -177,3 +177,5 @@ cave,Ice Caves,minecraft:dripstone_block,ice_caves,reward4_veryrare,Overworld,te
 cave,Infested Caves,minecraft:dripstone_block,infested_caves,reward4_veryrare,Overworld,terralith
 cave,Thermal Caves,minecraft:dripstone_block,thermal_caves,reward4_veryrare,Overworld,terralith
 cave,Underground Jungle,minecraft:dripstone_block,underground_jungle,reward4_veryrare,Overworld,terralith
+cave,Deep Dark,wildbackport:sculk,deep_dark,reward3_rare,Overworld,wildbackport
+warm,Mangrove Swamp,wildbackport:mangrove_log,mangrove_swamp,reward3_rare,Overworld,wildbackport
