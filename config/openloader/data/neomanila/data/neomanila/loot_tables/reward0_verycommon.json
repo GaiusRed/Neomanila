@@ -6,7 +6,17 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "numismatic-overhaul:bronze_coin"
+                    "name": "numismatic-overhaul:bronze_coin",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 10,
+                                "max": 10
+                            }
+                        }
+                    ]
                 }
             ]
         }

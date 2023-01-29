@@ -171,4 +171,14 @@ onEvent('recipes', (event) => {
         B: 'minecraft:ender_pearl',
         C: 'numismatic-overhaul:gold_coin'
     });
+
+    // Quartz Elevator
+    event.shaped('quartzelv:quartz_elevator', [
+        ' A ',
+        'ABA',
+        ' A '
+    ], {
+        A: 'minecraft:quartz',
+        B: 'numismatic-overhaul:silver_coin'
+    });
 });

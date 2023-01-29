@@ -86,5 +86,9 @@ onEvent('recipes', (event) => {
 
         // Waystones
         'waystones:warp_stone',
+
+        // Quartz Elevator
+        'quartzelv:quartz_elevator',
+        'quartzelv:smooth_quartz_elevator',
     ].forEach((itemID) => event.remove({ output: itemID }));
 });

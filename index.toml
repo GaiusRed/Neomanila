@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "945e758eec0a0cfe8f215a3c4ea2bca7e96416fd0673cb5d484fb17859946ae2"
+hash = "abddaef3556a91a6f51179e2237d5d55bfe7b63ff9a14a52bc8f0db576180c16"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -34,7 +34,7 @@ hash = "6832bb19e811f79fb476803b561e7beed7ea4c3e4ec873557788b04ce27c2bee"
 
 [[files]]
 file = "config/collectorsalbum.yaml"
-hash = "65bca05175e334087063930363926f34710c7d0f8d9a7ecde66aeee34ddbe735"
+hash = "67fd3a4368a53924191ad431fa037aef1f69482a01a3b9c46af7d663020ad092"
 
 [[files]]
 file = "config/create-client.toml"
@@ -1298,11 +1298,11 @@ hash = "57fed5ff969c4b5bc91f55d32f152a69fd4193250ce4db046dca9235f121d12f"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward0_verycommon.json"
-hash = "e0884a2de086cdd3b320c80fee65e50503ab8fa315be5a4fcd6af1b66c4fe25b"
+hash = "af59e87fb91e801f85879b1f55a3c4cc65a4803cf3d5588cd99c53b7ce67e383"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward1_common.json"
-hash = "c5b5f9a8e8679d6dee3feeae07a7e809304664e02064e08e6cea6e47800b8a76"
+hash = "fef93bd5a58bfd2049503fa9cb9b79067a5c984bf7bff6680ae86ac6c6d7ff4b"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward2_uncommon.json"
@@ -1310,11 +1310,11 @@ hash = "457fbc1d09c72749520cd67ac2bcb89fd39413eee407079eb1bb5944b20e0b2d"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward3_rare.json"
-hash = "282efa2f95184d686d7eeeb38a7028dab949663585cc604cb92ed4aa3bf00fdc"
+hash = "aeb765354567524b04651172e83cafb08a42e8aeb3834490a1de16b86df70423"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/loot_tables/reward4_veryrare.json"
-hash = "2adf23c3e12885e3ed1f5daaf6f7d742a67a54f0f174042496efe7bbcd4029bd"
+hash = "4c1afbe4902a5d2d8b566a9b07f6f43841031f355de7a0de17fbb9e3bdcce2fb"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/loot_tables/welcome.json"
@@ -1450,7 +1450,7 @@ hash = "ba943bb831b79349920cb1b60806388c260b3cc5872faecf842f4eb7fca156d0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "5af4221c0753bf152cd0c96c0889d3b113a5328891a6921bd87776e681e16124"
+hash = "7123c22b9d20fcc44cc8b7a26f63589be6504ec29a7481f3a71768179bf73163"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
@@ -1458,11 +1458,11 @@ hash = "e29b92afb79327f54f81ef03472a823c4b49ef73d9346919a2d38a630f31f8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
-hash = "0ee9a9dbf3edc9347293a228528fc7a3dd95af28f8b087bacd8665c1dd0cb32c"
+hash = "6539dd1d613618597efeb8d538ca3015138b34a5bc63a98b4265a906dee6b8fe"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
-hash = "bb0bbb0f8202dc9ed3e2f94f15af358e92d2bc1d4292967bff5695ee991d31f9"
+hash = "ef306b3bfab609ca654b85e9616de740916b3b2b3b64d11397e800aed40eaf0d"
 
 [[files]]
 file = "kubejs/server_scripts/server_load.js"
@@ -1496,11 +1496,6 @@ metafile = true
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "378d61c3fdb3a5839a3b4f8e3e86bb44c040cc2be0aa5566eab8e03c01b7c4c0"
-metafile = true
-
-[[files]]
-file = "mods/appleskin.pw.toml"
-hash = "80e7c9fd868c28612d6e9945044e274399579ab0007285f2ec50caf006c771f3"
 metafile = true
 
 [[files]]
@@ -1584,6 +1579,11 @@ hash = "12189f57698bb77dfc9943bf64311a66ce71052414491fc549ca193a2495d779"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "c7077ffa0a1bb64993e3f96689f4a0ce716eeb6a3ef7f26732736045ff0da8a6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
 metafile = true
@@ -1631,6 +1631,16 @@ metafile = true
 [[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
 hash = "442b4c789dc6f30c4819c1a816e05024b53434320a4f9f80c6c6e3abb268d6db"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "85e34af2fc1869a3d6e9b7f1f91b59dfdd124709b27482cd5864acb0d120213b"
+metafile = true
+
+[[files]]
+file = "mods/deepslatecutting.pw.toml"
+hash = "c1a22cdd59d5e188817adc1380ac5a5fc415ab90f8087a5036e7cfc98089e511"
 metafile = true
 
 [[files]]
@@ -1699,6 +1709,11 @@ hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "3108487e76960f8e1cb70cccb973b88137f362cdf11a667bbc3208c44722fe8b"
 metafile = true
@@ -1731,6 +1746,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
 metafile = true
 
 [[files]]
@@ -1806,6 +1826,11 @@ metafile = true
 [[files]]
 file = "mods/shards.pw.toml"
 hash = "6d284a273a0e837276f5af1fe2e81439f956220f89efb61a4e57c9a8bac2d831"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "03f6c45dd8de23551d1a24aca8d6845d29d375eb9434b7c92da0c9166829b1ac"
 metafile = true
 
 [[files]]

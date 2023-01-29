@@ -11,6 +11,7 @@ A `Create v0.5-focused` Fabric Modpack for Minecraft 1.18.2
   - Gilded Netherite Armour from the Additional Additions mod
   - Collector's Album from the Collector's Album mod
   - Warp Stone from the Waystones mod
+  - Quartz Elevators from the Quartz Elevators mod
 - Add Iris Shaders and set default shader to Solas
 
 ## Modlist
@@ -60,19 +61,23 @@ An updated list of mods and their versions can be accessed here: https://modrint
 
 ### Utilities
 - AdvancementInfo
-- AppleSkin
 - BetterF3
+- Chunks fade in
 - Companion (Fabric)
 - Configuration
 - Continuity
 - Crafting Tweaks (Fabric)
+- DeepslateCutting
 - Friendly Fire
+- Inventory Profiles Next
 - megane
 - MixinTrace
+- Mod Menu
 - Patchouli
 - Roughly Enough Items (REI)
 - Replanter
 - Shards
+- ShulkerBoxTooltip
 - The Wild Backport
 - The Wild Backport (Additions)
 - Trinket Shulker Boxes (Fabric)
@@ -98,6 +103,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - BCLib
 - Bookshelf
 - Cloth Config API
+- DashLoader
 - Disable Custom Worlds Advice (Fabric)
 - EntityCulling
 - Fabric Language Kotlin
