@@ -4,22 +4,22 @@ mobDrops:
   noDropWeight: 5700
 
   # Chance that common package is dropped on kill
-  commonDropWeight: 240
+  commonDropWeight: 120
 
   # Chance that uncommon package is dropped on kill
-  uncommonDropWeight: 160
+  uncommonDropWeight: 80
 
   # Chance that rare package is dropped on kill
-  rareDropWeight: 115
+  rareDropWeight: 55
 
   # Chance that epic package is dropped on kill
-  epicDropWeight: 70
+  epicDropWeight: 35
 
   # Chance that legendary package is dropped on kill
-  legendaryDropWeight: 45
+  legendaryDropWeight: 20
 
   # Chance that mythical package is dropped on kill
-  mythicalDropWeight: 35
+  mythicalDropWeight: 15
 
 # Keep album in inventory through death
 persistAlbumThroughDeath: true
