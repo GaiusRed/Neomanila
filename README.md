@@ -18,6 +18,12 @@ A `Create v0.5-focused` Fabric Modpack for Minecraft 1.18.2
 An updated list of mods and their versions can be accessed here: https://modrinth.com/modpack/neomanila, along with modpack installation instructions.
 
 ### Featured Mods
+- Create (Fabric)
+- Terralith
+- Continents
+- Structory
+- Incendium
+- BetterEnd
 - Additional Additions
 - Additional Structures
 - Adorn
@@ -28,7 +34,6 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Beacon Overhaul
 - Bedspreads (Fabric)
 - Better Combat
-- BetterEnd
 - Blockus
 - Blossom
 - Collector's Album
@@ -36,7 +41,6 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Chalk
 - Charm of Undying (Fabric)
 - Comforts (Fabric)
-- Create (Fabric)
 - Creeper Overhaul
 - Enhanced Mushrooms
 - Farmer's Delight (Fabric)
@@ -50,10 +54,10 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Quartz Elevator
 - RPG-Hud
 - Simple Copper Pipes
+- Simple Neon Lights
 - Simply Houses
 - Simply Swords
 - Sprout
-- Terralith
 - Twigs
 - Waystones (Fabric)
 - When Dungeons Arise
@@ -124,6 +128,9 @@ An updated list of mods and their versions can be accessed here: https://modrint
 Some of the authors of the assets used require an attribution back to their page. So here is a list of the mods/resource packs that have this requirement:
 
 - https://www.curseforge.com/minecraft/mc-mods/terralith
+- https://www.curseforge.com/minecraft/mc-mods/continents
+- https://www.curseforge.com/minecraft/mc-mods/structory
+- https://www.curseforge.com/minecraft/mc-mods/incendium
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 - https://www.curseforge.com/minecraft/mc-mods/sprout

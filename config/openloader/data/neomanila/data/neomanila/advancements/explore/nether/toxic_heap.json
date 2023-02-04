@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Toxic Heap"
+        },
+        "description": {
+            "text": "Find a Toxic Heap biome in the Nether."
+        },
+        "icon": {
+            "item": "minecraft:basalt"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "incendium:toxic_heap"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/nether/quartz_flats"
+}
