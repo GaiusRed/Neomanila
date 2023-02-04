@@ -179,3 +179,11 @@ cave,Thermal Caves,minecraft:dripstone_block,thermal_caves,reward4_veryrare,Over
 cave,Underground Jungle,minecraft:dripstone_block,underground_jungle,reward4_veryrare,Overworld,terralith
 cave,Deep Dark,wildbackport:sculk,deep_dark,reward3_rare,Overworld,wildbackport
 warm,Mangrove Swamp,wildbackport:mangrove_log,mangrove_swamp,reward3_rare,Overworld,wildbackport
+nether,Ash Barrens,minecraft:basalt,ash_barrens,reward2_uncommon,Nether,incendium
+nether,Infernal Dunes,minecraft:basalt,infernal_dunes,reward2_uncommon,Nether,incendium
+nether,Inverted Forest,minecraft:basalt,inverted_forest,reward2_uncommon,Nether,incendium
+nether,Quartz Flats,minecraft:basalt,quartz_flats,reward2_uncommon,Nether,incendium
+nether,Toxic Heap,minecraft:basalt,toxic_heap,reward2_uncommon,Nether,incendium
+nether,Volcanic Deltas,minecraft:basalt,volcanic_deltas,reward2_uncommon,Nether,incendium
+nether,Weeping Valley,minecraft:basalt,weeping_valley,reward2_uncommon,Nether,incendium
+nether,Withered Forest,minecraft:basalt,withered_forest,reward2_uncommon,Nether,incendium

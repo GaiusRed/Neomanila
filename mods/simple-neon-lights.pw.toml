@@ -1,0 +1,13 @@
+name = "Simple Neon Lights"
+filename = "(Fabric) 1.18.2 simple neon lights mod v2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dae4513b4c455cc16afd3d3964d0d78a5c0c6c66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4276103
+project-id = 693873

@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Withered Forest"
+        },
+        "description": {
+            "text": "Find a Withered Forest biome in the Nether."
+        },
+        "icon": {
+            "item": "minecraft:basalt"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "incendium:withered_forest"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/nether/weeping_valley"
+}

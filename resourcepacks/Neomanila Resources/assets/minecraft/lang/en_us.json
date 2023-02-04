@@ -107,5 +107,13 @@
     "biome.minecraft.small_end_islands": "Asteroids",
     "biome.minecraft.end_midlands": "Old Chorus Midlands",
     "biome.minecraft.end_highlands": "Old Chorus",
-    "biome.minecraft.end_barrens": "Old Chorus Barrens"
+    "biome.minecraft.end_barrens": "Old Chorus Barrens",
+    "biome.incendium.ash_barrens": "Ash Barrens",
+    "biome.incendium.infernal_dunes": "Infernal Dunes",
+    "biome.incendium.inverted_forest": "Inverted Forest",
+    "biome.incendium.quartz_flats": "Quartz Flats",
+    "biome.incendium.toxic_heap": "Toxic Heap",
+    "biome.incendium.volcanic_deltas": "Volcanic Deltas",
+    "biome.incendium.weeping_valley": "Weeping Valley",
+    "biome.incendium.withered_forest": "Withered Forest"
 }

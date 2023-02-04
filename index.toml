@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "abddaef3556a91a6f51179e2237d5d55bfe7b63ff9a14a52bc8f0db576180c16"
+hash = "38949eff177eebd7ce22aebe07d0a837fa438515397641ecb084abd5c34221c1"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -301,6 +301,10 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/net
 hash = "a7d1945915aa3df5bb967b6558f22b3a0ab20d9b6c4a729949ca1f4d1b926b32"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/ash_barrens.json"
+hash = "c21aa04cb5c9c2d7e3e2da0025bf3ac5f0e0cf559a835040685101defe502258"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/basalt_deltas.json"
 hash = "4433d195db27d51988e2e342b846278c3f9573498d0779ca8ceda9d5cf12087d"
 
@@ -309,16 +313,44 @@ file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/net
 hash = "424dafae6b50b769fe7248275261399df6df414deb6d04a64a5b0c84d2993ca8"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/infernal_dunes.json"
+hash = "195b990f8780edb4b104bd826362830b70c7ace6175798186dfcf243c6001c35"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/inverted_forest.json"
+hash = "751cc5dd361f2503994264e14fcaf3acb400f96c49246606474bedb5cd95bf1d"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/nether_wastes.json"
 hash = "68dbe656e8dbc9e3ad3a5860bf53da4339bcdface1a7ec471416d450f1c6132e"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/quartz_flats.json"
+hash = "726a236962210b7e0579dc4cce837a8b142d9b77a2ad3624d599253c76e61438"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/soul_sand_valley.json"
 hash = "74d1c6dfa3b6328473e4dc360c8c9964e5513c43c0ce6bf6a96ea28b21ec85cf"
 
 [[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/toxic_heap.json"
+hash = "3a21d8224ce0826b31572ff403b186a0d95c061294839972945a30681d03f4d5"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/volcanic_deltas.json"
+hash = "8ce197c61fdfab04528eefa6ba9335f4f79d0a4de7eec790d5abd7fbd8925cd7"
+
+[[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/warped_forest.json"
 hash = "e7d7c6d9026a4cccef7b98dcf9ad694047750ecbadae490ae4c37f88bbff6a3a"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/weeping_valley.json"
+hash = "61c21ce725bbe6d87924399cd6328fcf14d0a59a2dfeb5b6c327ce04894a4cf8"
+
+[[files]]
+file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/nether/withered_forest.json"
+hash = "0147b7ebf97eb38fe48a5226fb1665b637738927d5fdd6c2a2be6aef1991e7a5"
 
 [[files]]
 file = "config/openloader/data/neomanila/data/neomanila/advancements/explore/snow.json"
@@ -1329,14 +1361,6 @@ file = "config/openloader/data/neomanila/pack.mcmeta"
 hash = "5d99f4fb1d290f4a12ecbefc8befad7180502e0cabd096ed8e5932a67c09293f"
 
 [[files]]
-file = "config/openloader/resources/neomanila/assets/minecraft/lang/en_us.json"
-hash = "3079adf0ca9210be788fdd615ead4276b33c2a41245328803f17112dc6f61667"
-
-[[files]]
-file = "config/openloader/resources/neomanila/pack.mcmeta"
-hash = "391a8b0138bcee1bb00f2bc4167bffa3feb8d820911790e2d94129aec8cb6077"
-
-[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "e623c8ebd735bddba54a43a6e38c5d5a312716ccf6fdb41ad2fd5c3216d93786"
 
@@ -1370,7 +1394,7 @@ hash = "5a605d98317319e00d8f531914cf7ee9e2affe71d255fbb2ed948580caf7473c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d5debb7b919ed8dda25ea38fa2ef4adad74f9cecba413af142711fa5c30b0bd6"
+hash = "2f73a390dbf8fdd10745e14f6cabd32d1f4846dcd2525f3aa0aa4e5c4ac3d12b"
 
 [[files]]
 file = "icon.png"
@@ -1580,7 +1604,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "c7077ffa0a1bb64993e3f96689f4a0ce716eeb6a3ef7f26732736045ff0da8a6"
+hash = "96b420334faacbe9d9464acde7feba1b4b7be3b1daaca94c5fc3a8bb7abdd8f5"
 metafile = true
 
 [[files]]
@@ -1609,6 +1633,11 @@ hash = "ed0bbbd07b52bbf9b7adde53c1bdc2c12ae58cce3b4e6d0baa343370516149fa"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "4dd28ff26b5fee2c536865330b6e9d36ce60e19a8935f486972cea04bd4c7ced"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
 metafile = true
@@ -1620,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d17801cdbcb90392e921548c26a123b6ce389d48cb910ae43d828b38ff4fb183"
+hash = "993795915e0c216aab262479482c5328efa31635704906a2ca7bf0e88f13c85f"
 metafile = true
 
 [[files]]
@@ -1655,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
+hash = "f441da2ee20b66f7a72e476057f56f851550168ea4fea436abf674f45dc7e79b"
 metafile = true
 
 [[files]]
@@ -1665,7 +1694,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -1704,6 +1733,11 @@ hash = "bbbb51245f221ebc794c9a7e6be6d1f9ee0df52735ecb94c9fa177f327e67c03"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "0a3a8606ee20df650ffbe33c4c2b8ad49f0173dfaf01151d1647fc8d12ed537b"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
@@ -1725,7 +1759,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "39ace1b9962495630f406952f5055edca4ef793be1f61e8dc9c6090c12e4be5e"
+hash = "a8860633d70b926af67fa07ab6cca2b4113083a8697a3fb1b6737d4a2cec0866"
 metafile = true
 
 [[files]]
@@ -1815,7 +1849,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "3d586e00562d465d1b477fa287d5c070e62d6fe4e2a580f268960d6fedd55a3c"
+hash = "8872e1e3b9e0a1825d5b88c72de3f92b41ccd9c6c169ff12a5877528ca46de45"
 metafile = true
 
 [[files]]
@@ -1835,7 +1869,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
-hash = "a64f085670ee6a899d05be344304179ac50f384a7e3ce40408834095df21cf9c"
+hash = "4b7d36013ae680d6a5cd76b7130fda02f75d05918273aa16ebbf778a093175c8"
+metafile = true
+
+[[files]]
+file = "mods/simple-neon-lights.pw.toml"
+hash = "87fe9d4ac60c510149394701890b240a5f70f2b08a21b7b24f07a4a7a1cc9074"
 metafile = true
 
 [[files]]
@@ -1845,7 +1884,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "a85ff7f24c521fda087e7c37c491bb66cad87f95536f4c88a856962596838c94"
+hash = "4d1e93cf5c86ba426197a9a1ee31b795d70b75f6f1c00b52c08a77a71424a5a0"
 metafile = true
 
 [[files]]
@@ -1856,6 +1895,11 @@ metafile = true
 [[files]]
 file = "mods/sprout.pw.toml"
 hash = "a2e9ba8a958591b9b28a9391cffd9700d83c60d92e95493ed454ed7b0190e57c"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
 metafile = true
 
 [[files]]
@@ -1925,7 +1969,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c23e19e793df2ee017103c37c239fb4d7d888641e2f0a02c933f377d9c905390"
+hash = "4a83125400dcc7ece90e27995f899b315fba1e31e8a0897c26b7fcb3b8f7176e"
 metafile = true
 
 [[files]]
@@ -1966,6 +2010,10 @@ hash = "56ec32de9684de7c62bf69ee402bebd018f6a21214f4510c68cdde71a034fc4b"
 [[files]]
 file = "patchouli_books/welcome/en_us/entries/exterminate.json"
 hash = "d848de8942e550ca66ab3f867b65e95e4ae1b5b4c30d5217516b6aadc8254fbd"
+
+[[files]]
+file = "resourcepacks/Neomanila Resources/assets/minecraft/lang/en_us.json"
+hash = "cc53af024f66261fd6c7767b6586b9394524c2687d42683379fbced2490d85b6"
 
 [[files]]
 file = "resourcepacks/Neomanila Resources/assets/minecraft/textures/gui/accessibility.png"
@@ -2022,10 +2070,6 @@ hash = "451d9c1070838e53429846c621e1a6b1e53db02c5d4f8a08b9428e0edf21036b"
 [[files]]
 file = "resourcepacks/Neomanila Resources/pack.png"
 hash = "498ba1db898f8d2b829ea1305fa29292543c219ba22738322f6eed8d1ed6a31c"
-
-[[files]]
-file = "resourcepacks/cubic-moon-sun-v1-2.zip"
-hash = "240613f9c3dfcbf3d27c373cfe7488b662497255453c77014b1563b33147d6c4"
 
 [[files]]
 file = "shaderpacks/Solas Shader V1.4.zip"

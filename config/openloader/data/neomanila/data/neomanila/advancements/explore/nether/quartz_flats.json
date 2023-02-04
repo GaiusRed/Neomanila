@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Quartz Flats"
+        },
+        "description": {
+            "text": "Find a Quartz Flats biome in the Nether."
+        },
+        "icon": {
+            "item": "minecraft:basalt"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Claim": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "incendium:quartz_flats"
+            }
+        }
+    },
+    "rewards": {
+        "loot": [
+            "neomanila:reward2_uncommon"
+        ]
+    },
+    "parent": "neomanila:explore/nether/inverted_forest"
+}
