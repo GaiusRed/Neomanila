@@ -26,7 +26,7 @@ hash = "4191c9e6cf1c144024b8ecf9b686b80e5a72281ecccd95a921adb00deb03449f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "38949eff177eebd7ce22aebe07d0a837fa438515397641ecb084abd5c34221c1"
+hash = "333ce39a9041c9de28d9e7374cb9b182e000b009a1d519a6de4e5f20ec98d71b"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -1529,7 +1529,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5c067cf953857a327140fca91560dcb225c2f49d8dc5c0e71525812570e8e902"
+hash = "6ea9158f11c6bc2c088173b88c8aeafc4fb065e2417a0e7a39aec57c443b9763"
 metafile = true
 
 [[files]]
@@ -1654,7 +1654,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "993795915e0c216aab262479482c5328efa31635704906a2ca7bf0e88f13c85f"
+hash = "ee03c852848b717f3fa709eb46ed4855361c49076876209b333b84398b2d83ad"
 metafile = true
 
 [[files]]
@@ -1754,7 +1754,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3108487e76960f8e1cb70cccb973b88137f362cdf11a667bbc3208c44722fe8b"
+hash = "fed0d1bab4e7e037790b03b8df9f9680266395016d95d81c65d6a6074d7d7fa7"
 metafile = true
 
 [[files]]
@@ -1979,12 +1979,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d4c0e5980f796194806c3b6ee27522181d6bc70f06da762e72bbafe2a925d2fd"
+hash = "648bb45655481728fba68136f32c12a951ffef6985b2858c0065646c826cb40d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "65aa144c62a87520c47446c121cd6afe6cb54321e2e5a75acf0eec3bbed44907"
+hash = "1e898ca5b525e9ff40758db421d502c99ada05f97e660e9f83dc75e7b8467b51"
 metafile = true
 
 [[files]]
