@@ -1603,6 +1603,11 @@ hash = "12189f57698bb77dfc9943bf64311a66ce71052414491fc549ca193a2495d779"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "58aeab0f9e7cc09b18d8ed6c3bb0ead22962c5ef799893cd4eacc46ba301e326"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "96b420334faacbe9d9464acde7feba1b4b7be3b1daaca94c5fc3a8bb7abdd8f5"
 metafile = true

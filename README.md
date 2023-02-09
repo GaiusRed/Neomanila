@@ -40,6 +40,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Cubic Moon & Sun
 - Chalk
 - Charm of Undying (Fabric)
+- Chipped
 - Comforts (Fabric)
 - Creeper Overhaul
 - Enhanced Mushrooms
